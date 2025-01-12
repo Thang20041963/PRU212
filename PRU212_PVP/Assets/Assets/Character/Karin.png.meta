@@ -1,0 +1,3792 @@
+fileFormatVersion: 2
+guid: b60d0dfc06350e446b97c00d3d076bfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6093325839638765291
+    second: Karin_0
+  - first:
+      213: 3490587842989978088
+    second: Karin_1
+  - first:
+      213: -5235461113732013299
+    second: Karin_2
+  - first:
+      213: 6273523862356421973
+    second: Karin_3
+  - first:
+      213: 2860994838124245945
+    second: Karin_4
+  - first:
+      213: -8689245415010569449
+    second: Karin_5
+  - first:
+      213: 4523209576768327146
+    second: Karin_6
+  - first:
+      213: -4636236393358138961
+    second: Karin_7
+  - first:
+      213: 5288987962045735814
+    second: Karin_8
+  - first:
+      213: -3271722631986673787
+    second: Karin_9
+  - first:
+      213: 7695924990905250228
+    second: Karin_10
+  - first:
+      213: 7313360744004471366
+    second: Karin_11
+  - first:
+      213: -1040776025566275901
+    second: Karin_12
+  - first:
+      213: -9169379563246563050
+    second: Karin_13
+  - first:
+      213: -8543921646654865953
+    second: Karin_14
+  - first:
+      213: 3216652103929531801
+    second: Karin_15
+  - first:
+      213: 2693214159244674401
+    second: Karin_16
+  - first:
+      213: -4159601178298772876
+    second: Karin_17
+  - first:
+      213: -7773191308210578088
+    second: Karin_18
+  - first:
+      213: 4134305450264727805
+    second: Karin_19
+  - first:
+      213: -7864272867842386440
+    second: Karin_20
+  - first:
+      213: 1031650519629233837
+    second: Karin_21
+  - first:
+      213: 6457592843481518059
+    second: Karin_22
+  - first:
+      213: -5264915903672977795
+    second: Karin_23
+  - first:
+      213: 2767675596761439076
+    second: Karin_24
+  - first:
+      213: -7235191693683026028
+    second: Karin_25
+  - first:
+      213: 4614510910025725377
+    second: Karin_26
+  - first:
+      213: -585301277224318352
+    second: Karin_27
+  - first:
+      213: -7626836142958270270
+    second: Karin_28
+  - first:
+      213: 4417128304869214194
+    second: Karin_29
+  - first:
+      213: 271800430605188542
+    second: Karin_30
+  - first:
+      213: -7640355118915148136
+    second: Karin_31
+  - first:
+      213: 5322928224743847668
+    second: Karin_32
+  - first:
+      213: 5335950190956193319
+    second: Karin_33
+  - first:
+      213: 3318021848395595521
+    second: Karin_34
+  - first:
+      213: -6779561490267556138
+    second: Karin_35
+  - first:
+      213: -4322158025697588813
+    second: Karin_36
+  - first:
+      213: -1405192077130334121
+    second: Karin_37
+  - first:
+      213: 7730550518770886389
+    second: Karin_38
+  - first:
+      213: 5799999683438357413
+    second: Karin_39
+  - first:
+      213: -3911568626168114765
+    second: Karin_40
+  - first:
+      213: 7334269586486950268
+    second: Karin_41
+  - first:
+      213: 7030530680772693905
+    second: Karin_42
+  - first:
+      213: 38945892312628729
+    second: Karin_43
+  - first:
+      213: 145221990429260486
+    second: Karin_44
+  - first:
+      213: 5353321500860245778
+    second: Karin_45
+  - first:
+      213: -5893118930814437281
+    second: Karin_46
+  - first:
+      213: 7805257133207936550
+    second: Karin_47
+  - first:
+      213: -1526655296040621992
+    second: Karin_48
+  - first:
+      213: -737776938300084055
+    second: Karin_49
+  - first:
+      213: 1407554410024831754
+    second: Karin_50
+  - first:
+      213: 2372991531779272838
+    second: Karin_51
+  - first:
+      213: -24068052862963795
+    second: Karin_52
+  - first:
+      213: -1749216674196641100
+    second: Karin_53
+  - first:
+      213: 9206763900799263740
+    second: Karin_54
+  - first:
+      213: -3556607212412493493
+    second: Karin_55
+  - first:
+      213: -4964053138873421620
+    second: Karin_56
+  - first:
+      213: 8984180523984286562
+    second: Karin_57
+  - first:
+      213: -6730309329564384078
+    second: Karin_58
+  - first:
+      213: 6388433555395793459
+    second: Karin_59
+  - first:
+      213: -5365907087834062898
+    second: Karin_60
+  - first:
+      213: -7155194920394332062
+    second: Karin_61
+  - first:
+      213: -2701632795020138230
+    second: Karin_62
+  - first:
+      213: 1024818227869595169
+    second: Karin_63
+  - first:
+      213: 160207396350036243
+    second: Karin_64
+  - first:
+      213: 573036808123414847
+    second: Karin_65
+  - first:
+      213: 4357123635495819145
+    second: Karin_66
+  - first:
+      213: 4989278202955886313
+    second: Karin_67
+  - first:
+      213: 5737593193889366146
+    second: Karin_68
+  - first:
+      213: -8829494458470722835
+    second: Karin_69
+  - first:
+      213: 7162196167135416182
+    second: Karin_70
+  - first:
+      213: -1150799556830646371
+    second: Karin_71
+  - first:
+      213: -9080131809802029006
+    second: Karin_72
+  - first:
+      213: -8691980474281262046
+    second: Karin_73
+  - first:
+      213: -8682199859747527596
+    second: Karin_74
+  - first:
+      213: -7684953838723983323
+    second: Karin_75
+  - first:
+      213: -7239065350849354674
+    second: Karin_76
+  - first:
+      213: 6720323236647211097
+    second: Karin_77
+  - first:
+      213: -6394535451330002943
+    second: Karin_78
+  - first:
+      213: 8105956480924167102
+    second: Karin_79
+  - first:
+      213: 1132883548119357898
+    second: Karin_80
+  - first:
+      213: -7298917798194918516
+    second: Karin_81
+  - first:
+      213: -3013972760538340767
+    second: Karin_82
+  - first:
+      213: 5958102435745686979
+    second: Karin_83
+  - first:
+      213: -1311746528702731322
+    second: Karin_84
+  - first:
+      213: -6664745914648024857
+    second: Karin_85
+  - first:
+      213: 1209849947200214863
+    second: Karin_86
+  - first:
+      213: -450221433415788781
+    second: Karin_87
+  - first:
+      213: -2634183800767761294
+    second: Karin_88
+  - first:
+      213: -1316345675516856153
+    second: Karin_89
+  - first:
+      213: 8762498443758444773
+    second: Karin_90
+  - first:
+      213: 6540164659645131947
+    second: Karin_91
+  - first:
+      213: 1533897174786922061
+    second: Karin_92
+  - first:
+      213: -8169920464475593236
+    second: Karin_93
+  - first:
+      213: 5108837867862776695
+    second: Karin_94
+  - first:
+      213: -8661213915375488342
+    second: Karin_95
+  - first:
+      213: 7929360426336032248
+    second: Karin_96
+  - first:
+      213: 5447187162932293373
+    second: Karin_97
+  - first:
+      213: 4226220532551729787
+    second: Karin_98
+  - first:
+      213: -5132468226845207357
+    second: Karin_99
+  - first:
+      213: -1424363319084086677
+    second: Karin_100
+  - first:
+      213: 1132996886131024838
+    second: Karin_101
+  - first:
+      213: 471575453241964135
+    second: Karin_102
+  - first:
+      213: 3596773194819962048
+    second: Karin_103
+  - first:
+      213: -1744906948305557988
+    second: Karin_104
+  - first:
+      213: 3517390002357384112
+    second: Karin_105
+  - first:
+      213: 764424227158131297
+    second: Karin_106
+  - first:
+      213: -966205502271065303
+    second: Karin_107
+  - first:
+      213: 8073297501537263544
+    second: Karin_108
+  - first:
+      213: 8121373549528527441
+    second: Karin_109
+  - first:
+      213: 1679527231079486443
+    second: Karin_110
+  - first:
+      213: 5912819034023971872
+    second: Karin_111
+  - first:
+      213: 161871749283668662
+    second: Karin_112
+  - first:
+      213: 6626858096664482423
+    second: Karin_113
+  - first:
+      213: -6517074088726305205
+    second: Karin_114
+  - first:
+      213: -7587335396605495325
+    second: Karin_115
+  - first:
+      213: 7829787813774565572
+    second: Karin_116
+  - first:
+      213: 3485757738147627331
+    second: Karin_117
+  - first:
+      213: 8815846434288013738
+    second: Karin_118
+  - first:
+      213: -1823931527768418317
+    second: Karin_119
+  - first:
+      213: -6208212754115790903
+    second: Karin_120
+  - first:
+      213: 4916955453012394440
+    second: Karin_121
+  - first:
+      213: -8523327334949466596
+    second: Karin_122
+  - first:
+      213: 7375509026324869914
+    second: Karin_123
+  - first:
+      213: -2435428742403451654
+    second: Karin_124
+  - first:
+      213: 189605708037952774
+    second: Karin_125
+  - first:
+      213: -7453847961920311980
+    second: Karin_126
+  - first:
+      213: 4223498757482201005
+    second: Karin_127
+  - first:
+      213: 4495401862755633595
+    second: Karin_128
+  - first:
+      213: 5057795898865215939
+    second: Karin_129
+  - first:
+      213: 3271591591811993665
+    second: Karin_130
+  - first:
+      213: 6445546355449612994
+    second: Karin_131
+  - first:
+      213: -8957230906274812593
+    second: Karin_132
+  - first:
+      213: -6509073118661465992
+    second: Karin_133
+  - first:
+      213: -3616241308804465479
+    second: Karin_134
+  - first:
+      213: 9132239391589997491
+    second: Karin_135
+  - first:
+      213: -1415175356547390315
+    second: Karin_136
+  - first:
+      213: 4832010451708909670
+    second: Karin_137
+  - first:
+      213: 4843387583774948666
+    second: Karin_138
+  - first:
+      213: -8577190471693836351
+    second: Karin_139
+  - first:
+      213: 6590070053787444512
+    second: Karin_140
+  - first:
+      213: -134786240680335131
+    second: Karin_141
+  - first:
+      213: 5879294764928588750
+    second: Karin_142
+  - first:
+      213: 5487397239380938541
+    second: Karin_143
+  - first:
+      213: -455100554908511662
+    second: Karin_144
+  - first:
+      213: 2187071272337074300
+    second: Karin_145
+  - first:
+      213: 5202786990565358111
+    second: Karin_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karin_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1968
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee906c3197df8450800000000000000
+      internalID: 6093325839638765291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1968
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1f6b6362f017030800000000000000
+      internalID: 3490587842989978088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1968
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e1a01bd7e757b0800000000000000
+      internalID: -5235461113732013299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1968
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55de0b9d6b8001750800000000000000
+      internalID: 6273523862356421973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2042
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b33f96a5ab44b720800000000000000
+      internalID: 2860994838124245945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2036
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137a182559996780800000000000000
+      internalID: -8689245415010569449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2030
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedcbe3252ba5ce30800000000000000
+      internalID: 4523209576768327146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1949
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa166276097c8afb0800000000000000
+      internalID: -4636236393358138961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2030
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ad0b7782466940800000000000000
+      internalID: 5288987962045735814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2024
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58704dcb9918892d0800000000000000
+      internalID: -3271722631986673787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2020
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b175f4210b6dca60800000000000000
+      internalID: 7695924990905250228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2015
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a4cac49d64e7560800000000000000
+      internalID: 7313360744004471366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2004
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6116118bb6e81f0800000000000000
+      internalID: -1040776025566275901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2013
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61156f16ed1dfb080800000000000000
+      internalID: -9169379563246563050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2013
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbd5ea784ed6980800000000000000
+      internalID: -8543921646654865953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2004
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d8bb4cb08d3ac20800000000000000
+      internalID: 3216652103929531801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2015
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c4d13208306520800000000000000
+      internalID: 2693214159244674401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2015
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472943054c02646c0800000000000000
+      internalID: -4159601178298772876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2004
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d54f670b3102490800000000000000
+      internalID: -7773191308210578088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2013
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09dfb07e0006930800000000000000
+      internalID: 4134305450264727805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2015
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5138f4e7d7cd290800000000000000
+      internalID: -7864272867842386440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2004
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef8d28ea8215e00800000000000000
+      internalID: 1031650519629233837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef02d33a7afd9950800000000000000
+      internalID: 6457592843481518059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76744d51e24fe6b0800000000000000
+      internalID: -5264915903672977795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2013
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b9b7e9a42c86620800000000000000
+      internalID: 2767675596761439076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4979a200d7f679b90800000000000000
+      internalID: -7235191693683026028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2014
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c57f3459390a0040800000000000000
+      internalID: 4614510910025725377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1988
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a4674e69790e7f0800000000000000
+      internalID: -585301277224318352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2004
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8acdacfe8082690800000000000000
+      internalID: -7626836142958270270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2004
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78d035acacc4d30800000000000000
+      internalID: 4417128304869214194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2004
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd35043d01a5c300800000000000000
+      internalID: 271800430605188542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_31
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2004
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a93bef7108f590800000000000000
+      internalID: -7640355118915148136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2004
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f1c0b407ded940800000000000000
+      internalID: 5322928224743847668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1967
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262f177d6a1d0a40800000000000000
+      internalID: 5335950190956193319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1886
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fba9e9a4bfb0e20800000000000000
+      internalID: 3318021848395595521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1886
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d63fa78eb82ae1a0800000000000000
+      internalID: -6779561490267556138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1886
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b90137ec2c9404c0800000000000000
+      internalID: -4322158025697588813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1886
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75004793041cf7ce0800000000000000
+      internalID: -1405192077130334121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_38
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1957
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ec851dbe684b60800000000000000
+      internalID: 7730550518770886389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1804
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba8bc7bfcbd7050800000000000000
+      internalID: 5799999683438357413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1804
+        width: 31
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1dfa21f0157b9c0800000000000000
+      internalID: -3911568626168114765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1804
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79718d845f88c560800000000000000
+      internalID: 7334269586486950268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1724
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f01f1a766719160800000000000000
+      internalID: 7030530680772693905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1722
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd31cc251d5a8000800000000000000
+      internalID: 38945892312628729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1722
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7c1181aee30200800000000000000
+      internalID: 145221990429260486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1722
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2176c3bba81da4a40800000000000000
+      internalID: 5353321500860245778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1724
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58fca53e8f673ea0800000000000000
+      internalID: -5893118930814437281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1724
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e51753208d15c60800000000000000
+      internalID: 7805257133207936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1640
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a709c81b30dae0800000000000000
+      internalID: -1526655296040621992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1640
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0f52598c3e2c5f0800000000000000
+      internalID: -737776938300084055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1644
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b80934743a88310800000000000000
+      internalID: 1407554410024831754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1642
+        width: 37
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b6bab93f8ee020800000000000000
+      internalID: 2372991531779272838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1640
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafeaa2cb3e7aaff0800000000000000
+      internalID: -24068052862963795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_53
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1668
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baa15bd3b889b7e0800000000000000
+      internalID: -1749216674196641100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1641
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a70efcfef4cf70800000000000000
+      internalID: 9206763900799263740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_55
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1641
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41af82859464aec0800000000000000
+      internalID: -3556607212412493493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1558
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0794b88f32c1bb0800000000000000
+      internalID: -4964053138873421620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1558
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263f01a16983eac70800000000000000
+      internalID: 8984180523984286562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_58
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1558
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b441dec2532992a0800000000000000
+      internalID: -6730309329564384078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1476
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3325d84a87648a850800000000000000
+      internalID: 6388433555395793459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1478
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf56e3fee77885b0800000000000000
+      internalID: -5365907087834062898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1480
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26867373124a3bc90800000000000000
+      internalID: -7155194920394332062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1477
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09674b694fd18ad0800000000000000
+      internalID: -2701632795020138230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1478
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126338f9fb2e83e00800000000000000
+      internalID: 1024818227869595169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_64
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1488
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31985d537cb293200800000000000000
+      internalID: 160207396350036243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1486
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f397b6fd0f5d3f700800000000000000
+      internalID: 573036808123414847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_66
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1394
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987df288cdc977c30800000000000000
+      internalID: 4357123635495819145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1403
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eee8cc571a7d3540800000000000000
+      internalID: 4989278202955886313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1398
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280897b5c9600af40800000000000000
+      internalID: 5737593193889366146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_69
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1393
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de292981295577580800000000000000
+      internalID: -8829494458470722835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_70
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1394
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f45c1977b356360800000000000000
+      internalID: 7162196167135416182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1394
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fae6776e98700f0800000000000000
+      internalID: -1150799556830646371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_72
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1395
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23876034a34ecf180800000000000000
+      internalID: -9080131809802029006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1304
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22485db8fc1ef5780800000000000000
+      internalID: -8691980474281262046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1309
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4546dc25a31a28780800000000000000
+      internalID: -8682199859747527596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1311
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281597433f895590800000000000000
+      internalID: -7684953838723983323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1304
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4429c8ea6ca98b90800000000000000
+      internalID: -7239065350849354674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1214
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9501920c062634d50800000000000000
+      internalID: 6720323236647211097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1214
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10045dff2eb0247a0800000000000000
+      internalID: -6394535451330002943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1214
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba242e8742e7070800000000000000
+      internalID: 8105956480924167102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1214
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d981b59fc8bf00800000000000000
+      internalID: 1132883548119357898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1214
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bc0d11fe805ba90800000000000000
+      internalID: -7298917798194918516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_82
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1124
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162a8653eb73c26d0800000000000000
+      internalID: -3013972760538340767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1124
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e202199e6fa250800000000000000
+      internalID: 5958102435745686979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_84
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1124
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb62596b7dbbcde0800000000000000
+      internalID: -1311746528702731322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1124
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e82b27e6e01283a0800000000000000
+      internalID: -6664745914648024857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_86
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1124
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47d46eed104ac010800000000000000
+      internalID: 1209849947200214863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1044
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3171cfeddfd70c9f0800000000000000
+      internalID: -450221433415788781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1045
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274362a2acf717bd0800000000000000
+      internalID: -2634183800767761294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1040
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8323915966bbde0800000000000000
+      internalID: -1316345675516856153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_90
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1040
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0a22da8e5aa9970800000000000000
+      internalID: 8762498443758444773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 944
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac26be4b1553ca50800000000000000
+      internalID: 6540164659645131947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 946
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4656218a5f794510800000000000000
+      internalID: 1533897174786922061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 947
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5ecb7af9c9e9e80800000000000000
+      internalID: -8169920464475593236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 948
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b560919fc36e640800000000000000
+      internalID: 5108837867862776695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 855
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2bf5245df2dc780800000000000000
+      internalID: -8661213915375488342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_96
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 858
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59cc3db4fba0e60800000000000000
+      internalID: 7929360426336032248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_97
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 855
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfea5af3ddb489b40800000000000000
+      internalID: 5447187162932293373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_98
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 856
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b724531de2d86aa30800000000000000
+      internalID: 4226220532551729787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_99
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 857
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c499e5375fc5c8b0800000000000000
+      internalID: -5132468226845207357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 764
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a85ee9b15ab3ce0800000000000000
+      internalID: -1424363319084086677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_101
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 764
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3a6714aa639bf00800000000000000
+      internalID: 1132996886131024838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_102
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 764
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766f74f406f5b8600800000000000000
+      internalID: 471575453241964135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_103
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 764
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c404e60a2e4ae130800000000000000
+      internalID: 3596773194819962048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_104
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 674
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e22c1068d8c7e0800000000000000
+      internalID: -1744906948305557988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_105
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 674
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b50b329740d030800000000000000
+      internalID: 3517390002357384112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 674
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1628675d8c7cb9a00800000000000000
+      internalID: 764424227158131297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 674
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923fa1107395792f0800000000000000
+      internalID: -966205502271065303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_108
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 674
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf5d21bd4d1a0070800000000000000
+      internalID: 8073297501537263544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 584
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b6e3e63ae4b070800000000000000
+      internalID: 8121373549528527441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_110
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 585
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3961f3e11ee4710800000000000000
+      internalID: 1679527231079486443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 585
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cca20859d8e0250800000000000000
+      internalID: 5912819034023971872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 585
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b269339f751f3200800000000000000
+      internalID: 161871749283668662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_113
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 584
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729b9c045457fb50800000000000000
+      internalID: 6626858096664482423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_114
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 494
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46e09e25a3be85a0800000000000000
+      internalID: -6517074088726305205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_115
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 494
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f49df7ae54b690800000000000000
+      internalID: -7587335396605495325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 494
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c027ba588ef8ac60800000000000000
+      internalID: 7829787813774565572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_117
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 494
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341cb5bc136ef5030800000000000000
+      internalID: 3485757738147627331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_118
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 494
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19126af9d285a70800000000000000
+      internalID: 8815846434288013738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_119
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 404
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f75ab860f710b6e0800000000000000
+      internalID: -1823931527768418317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_120
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 404
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f0e4846ff7d9a0800000000000000
+      internalID: -6208212754115790903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_121
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 404
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14931fee88c3440800000000000000
+      internalID: 4916955453012394440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_122
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 404
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ec5f782fe07b980800000000000000
+      internalID: -8523327334949466596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_123
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 404
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f7cfd1621b5660800000000000000
+      internalID: 7375509026324869914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_124
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 314
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41445567e933ed0800000000000000
+      internalID: -2435428742403451654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 314
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6051dfa036d91a200800000000000000
+      internalID: 189605708037952774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_126
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 314
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d68f355cc9e8890800000000000000
+      internalID: -7453847961920311980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_127
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 314
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafb70d2eb1ec9a30800000000000000
+      internalID: 4223498757482201005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_128
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 224
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9cd203d20e26e30800000000000000
+      internalID: 4495401862755633595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_129
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9e94a9296e03640800000000000000
+      internalID: 5057795898865215939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_130
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 224
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140db181837076d20800000000000000
+      internalID: 3271591591811993665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca43e3a24e237950800000000000000
+      internalID: 6445546355449612994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_132
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 134
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de65cb2f581b380800000000000000
+      internalID: -8957230906274812593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_133
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 134
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a3213c702ba5a0800000000000000
+      internalID: -6509073118661465992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_134
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 134
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcbd9670b780ddc0800000000000000
+      internalID: -3616241308804465479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_135
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 134
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb1d8b875b3cbe70800000000000000
+      internalID: 9132239391589997491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_136
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 67
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942b1ad2894c5ce0800000000000000
+      internalID: -1415175356547390315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_137
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 67
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668951d97efbe0340800000000000000
+      internalID: 4832010451708909670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_138
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 72
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7178985b273340800000000000000
+      internalID: 4843387583774948666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_139
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 70
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd2dbb5b2b7f880800000000000000
+      internalID: -8577190471693836351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_140
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025a0f85cc1a47b50800000000000000
+      internalID: 6590070053787444512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e863a3d0a4212ef0800000000000000
+      internalID: -134786240680335131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_142
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbd1695073779150800000000000000
+      internalID: 5879294764928588750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_143
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f82ca37b6272c40800000000000000
+      internalID: 5487397239380938541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_144
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252589fd4782fa9f0800000000000000
+      internalID: -455100554908511662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_145
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78ec1e0cb90a5e10800000000000000
+      internalID: 2187071272337074300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karin_146
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1afbaec333043840800000000000000
+      internalID: 5202786990565358111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

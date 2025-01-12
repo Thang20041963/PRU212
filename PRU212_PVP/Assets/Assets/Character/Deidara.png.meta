@@ -1,0 +1,5417 @@
+fileFormatVersion: 2
+guid: fe19802590445044b869188eddff5064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5417266599746277689
+    second: Deidara_0
+  - first:
+      213: 6411624989573408859
+    second: Deidara_1
+  - first:
+      213: 6978072358975572897
+    second: Deidara_2
+  - first:
+      213: 8752953646906596295
+    second: Deidara_3
+  - first:
+      213: -7743890267518928131
+    second: Deidara_4
+  - first:
+      213: -6933529194185316304
+    second: Deidara_5
+  - first:
+      213: -3487030114629049080
+    second: Deidara_6
+  - first:
+      213: 2992854206038755914
+    second: Deidara_7
+  - first:
+      213: 4256738613755420680
+    second: Deidara_8
+  - first:
+      213: -7446164241955981145
+    second: Deidara_9
+  - first:
+      213: -6155649896766252893
+    second: Deidara_10
+  - first:
+      213: 2692110846269265347
+    second: Deidara_11
+  - first:
+      213: -7225435364626127544
+    second: Deidara_12
+  - first:
+      213: 6689622906936715561
+    second: Deidara_13
+  - first:
+      213: 948847839084023301
+    second: Deidara_14
+  - first:
+      213: -3633481820803458380
+    second: Deidara_15
+  - first:
+      213: 1759104208534048278
+    second: Deidara_16
+  - first:
+      213: -771714323017473588
+    second: Deidara_17
+  - first:
+      213: 4914412258191407768
+    second: Deidara_18
+  - first:
+      213: -9065773489569923856
+    second: Deidara_19
+  - first:
+      213: 1723195598392654079
+    second: Deidara_20
+  - first:
+      213: -2651850268770030753
+    second: Deidara_21
+  - first:
+      213: -3259094195573020941
+    second: Deidara_22
+  - first:
+      213: 4736128862043137422
+    second: Deidara_23
+  - first:
+      213: -6815783468159030119
+    second: Deidara_24
+  - first:
+      213: -8216281909475727103
+    second: Deidara_25
+  - first:
+      213: 3781744141521224146
+    second: Deidara_26
+  - first:
+      213: 4395807157748027757
+    second: Deidara_27
+  - first:
+      213: -7029640521868607442
+    second: Deidara_28
+  - first:
+      213: 7212818471914470100
+    second: Deidara_29
+  - first:
+      213: -5203866558350719651
+    second: Deidara_30
+  - first:
+      213: -8736400067134319720
+    second: Deidara_31
+  - first:
+      213: 325862188238290870
+    second: Deidara_32
+  - first:
+      213: 7287772138832807801
+    second: Deidara_33
+  - first:
+      213: -2030908869948287114
+    second: Deidara_34
+  - first:
+      213: -9195756896833804600
+    second: Deidara_35
+  - first:
+      213: 822701999297132003
+    second: Deidara_36
+  - first:
+      213: -3191445920041167832
+    second: Deidara_37
+  - first:
+      213: 7279543008099832690
+    second: Deidara_38
+  - first:
+      213: -6901783364853953242
+    second: Deidara_39
+  - first:
+      213: 6579300981174917304
+    second: Deidara_40
+  - first:
+      213: 3019842563936648132
+    second: Deidara_41
+  - first:
+      213: 4691072241397136885
+    second: Deidara_42
+  - first:
+      213: 2872733693132241838
+    second: Deidara_43
+  - first:
+      213: 6229257334134841785
+    second: Deidara_44
+  - first:
+      213: 2353820604246171038
+    second: Deidara_45
+  - first:
+      213: 6999141529784716723
+    second: Deidara_46
+  - first:
+      213: -3366815939367238193
+    second: Deidara_47
+  - first:
+      213: -7759643872911018298
+    second: Deidara_48
+  - first:
+      213: -2663057638030477104
+    second: Deidara_49
+  - first:
+      213: -43863945930231739
+    second: Deidara_50
+  - first:
+      213: 982319768811775159
+    second: Deidara_51
+  - first:
+      213: -2683838626806570503
+    second: Deidara_52
+  - first:
+      213: 7905408794663966221
+    second: Deidara_53
+  - first:
+      213: 2332442251859380205
+    second: Deidara_54
+  - first:
+      213: 5561953259328037819
+    second: Deidara_55
+  - first:
+      213: -1406060374627422179
+    second: Deidara_56
+  - first:
+      213: 8688065108966639404
+    second: Deidara_57
+  - first:
+      213: 6552044071966140730
+    second: Deidara_58
+  - first:
+      213: 3762658189307734451
+    second: Deidara_59
+  - first:
+      213: -1237753110211600680
+    second: Deidara_60
+  - first:
+      213: -7971625054845023997
+    second: Deidara_61
+  - first:
+      213: 8558354309276818482
+    second: Deidara_62
+  - first:
+      213: -6050457034284529508
+    second: Deidara_63
+  - first:
+      213: -7990750989812526185
+    second: Deidara_64
+  - first:
+      213: 8207097643175788594
+    second: Deidara_65
+  - first:
+      213: 4416360709596465545
+    second: Deidara_66
+  - first:
+      213: 1172483942224856671
+    second: Deidara_67
+  - first:
+      213: -4467932668129318735
+    second: Deidara_68
+  - first:
+      213: 1915808130728835653
+    second: Deidara_69
+  - first:
+      213: 6411396658867329665
+    second: Deidara_70
+  - first:
+      213: 4473081100438049588
+    second: Deidara_71
+  - first:
+      213: -9138966581059575596
+    second: Deidara_72
+  - first:
+      213: -2977511433338544195
+    second: Deidara_73
+  - first:
+      213: 1824704289606959710
+    second: Deidara_74
+  - first:
+      213: 851507429799909463
+    second: Deidara_75
+  - first:
+      213: 4576494792839931274
+    second: Deidara_76
+  - first:
+      213: 3013978680154751278
+    second: Deidara_77
+  - first:
+      213: -1621965378975728198
+    second: Deidara_78
+  - first:
+      213: -415714313761887909
+    second: Deidara_79
+  - first:
+      213: -8463218206232988381
+    second: Deidara_80
+  - first:
+      213: 6465270328182273722
+    second: Deidara_81
+  - first:
+      213: -2563172762166102290
+    second: Deidara_82
+  - first:
+      213: -2420119263839567892
+    second: Deidara_83
+  - first:
+      213: 8185023732416580719
+    second: Deidara_84
+  - first:
+      213: -2997395139036379330
+    second: Deidara_85
+  - first:
+      213: 2960587323382382250
+    second: Deidara_86
+  - first:
+      213: 6066503309030738145
+    second: Deidara_87
+  - first:
+      213: 4381982621081472838
+    second: Deidara_88
+  - first:
+      213: -861787491762939934
+    second: Deidara_89
+  - first:
+      213: 7757359834449364497
+    second: Deidara_90
+  - first:
+      213: -1500386957111528912
+    second: Deidara_91
+  - first:
+      213: 7814386380105840589
+    second: Deidara_92
+  - first:
+      213: 1442268901634987592
+    second: Deidara_93
+  - first:
+      213: 5040175708375757779
+    second: Deidara_94
+  - first:
+      213: -7733912369182880369
+    second: Deidara_95
+  - first:
+      213: 1007569211558184968
+    second: Deidara_96
+  - first:
+      213: -8018811100981606668
+    second: Deidara_97
+  - first:
+      213: 7444147571681424791
+    second: Deidara_98
+  - first:
+      213: -8214268121463551792
+    second: Deidara_99
+  - first:
+      213: -5402311931188081832
+    second: Deidara_100
+  - first:
+      213: 3553746528837065913
+    second: Deidara_101
+  - first:
+      213: 5306591833262273393
+    second: Deidara_102
+  - first:
+      213: -4902288835603420010
+    second: Deidara_103
+  - first:
+      213: -7926831796908810988
+    second: Deidara_104
+  - first:
+      213: -7653249445460585687
+    second: Deidara_105
+  - first:
+      213: -673071955930425343
+    second: Deidara_106
+  - first:
+      213: -5027508493908021524
+    second: Deidara_107
+  - first:
+      213: -6689777335752467427
+    second: Deidara_108
+  - first:
+      213: 5216569427022462490
+    second: Deidara_109
+  - first:
+      213: -2545539044613043871
+    second: Deidara_110
+  - first:
+      213: -3662858982706469311
+    second: Deidara_111
+  - first:
+      213: -7216885987622206240
+    second: Deidara_112
+  - first:
+      213: -5899204841394617263
+    second: Deidara_113
+  - first:
+      213: 7714431117241720462
+    second: Deidara_114
+  - first:
+      213: -3511396886133955670
+    second: Deidara_115
+  - first:
+      213: 5967323884921282932
+    second: Deidara_116
+  - first:
+      213: 6508988833571487076
+    second: Deidara_117
+  - first:
+      213: -9015584401157178926
+    second: Deidara_118
+  - first:
+      213: -8476246164128352802
+    second: Deidara_119
+  - first:
+      213: -7963221271967976603
+    second: Deidara_120
+  - first:
+      213: -5166240725189764184
+    second: Deidara_121
+  - first:
+      213: 3713343487105621399
+    second: Deidara_122
+  - first:
+      213: -5411386179848003676
+    second: Deidara_123
+  - first:
+      213: -6804965351949105243
+    second: Deidara_124
+  - first:
+      213: 4742222419083563436
+    second: Deidara_125
+  - first:
+      213: -616690858057804248
+    second: Deidara_126
+  - first:
+      213: -3223939949219444818
+    second: Deidara_127
+  - first:
+      213: 5580176454061958724
+    second: Deidara_128
+  - first:
+      213: 8571529317323926931
+    second: Deidara_129
+  - first:
+      213: 6138199835178453064
+    second: Deidara_130
+  - first:
+      213: -4442993458466364068
+    second: Deidara_131
+  - first:
+      213: 1979021974474426970
+    second: Deidara_132
+  - first:
+      213: 4140640715923850058
+    second: Deidara_133
+  - first:
+      213: 4138170739501506048
+    second: Deidara_134
+  - first:
+      213: 1894913014626816014
+    second: Deidara_135
+  - first:
+      213: 4294011425714386322
+    second: Deidara_136
+  - first:
+      213: 3820395162776556031
+    second: Deidara_137
+  - first:
+      213: -3963314492133834318
+    second: Deidara_138
+  - first:
+      213: -4821543320366362645
+    second: Deidara_139
+  - first:
+      213: -5567857789699557016
+    second: Deidara_140
+  - first:
+      213: -7183341234280617048
+    second: Deidara_141
+  - first:
+      213: 8012041249396255649
+    second: Deidara_142
+  - first:
+      213: 4043205055749264575
+    second: Deidara_143
+  - first:
+      213: -186904171575160172
+    second: Deidara_144
+  - first:
+      213: -4581942089495494602
+    second: Deidara_145
+  - first:
+      213: -6106082135736064998
+    second: Deidara_146
+  - first:
+      213: -6475625397290660100
+    second: Deidara_147
+  - first:
+      213: -2361892090719168765
+    second: Deidara_148
+  - first:
+      213: 6890467209909208905
+    second: Deidara_149
+  - first:
+      213: 7661127551458288498
+    second: Deidara_150
+  - first:
+      213: -5194498578117121669
+    second: Deidara_151
+  - first:
+      213: 3453499812448536951
+    second: Deidara_152
+  - first:
+      213: 5753867621777876838
+    second: Deidara_153
+  - first:
+      213: -7089204429718974820
+    second: Deidara_154
+  - first:
+      213: 1385538944271248368
+    second: Deidara_155
+  - first:
+      213: 6538256324045442498
+    second: Deidara_156
+  - first:
+      213: -8463016969106969034
+    second: Deidara_157
+  - first:
+      213: -7798939967784331457
+    second: Deidara_158
+  - first:
+      213: -7613798379956357437
+    second: Deidara_159
+  - first:
+      213: 8936057559225972613
+    second: Deidara_160
+  - first:
+      213: -3125733525797399837
+    second: Deidara_161
+  - first:
+      213: -1680148966897229289
+    second: Deidara_162
+  - first:
+      213: -6802879190335445254
+    second: Deidara_163
+  - first:
+      213: 8013492614430527660
+    second: Deidara_164
+  - first:
+      213: -3412732874659634401
+    second: Deidara_165
+  - first:
+      213: -4430813303190967987
+    second: Deidara_166
+  - first:
+      213: 220736320728327786
+    second: Deidara_167
+  - first:
+      213: 5478686294230734634
+    second: Deidara_168
+  - first:
+      213: -7484081795333265992
+    second: Deidara_169
+  - first:
+      213: -6771621303588865750
+    second: Deidara_170
+  - first:
+      213: 2263288936800886447
+    second: Deidara_171
+  - first:
+      213: -5700477094890938240
+    second: Deidara_172
+  - first:
+      213: 374180522995102932
+    second: Deidara_173
+  - first:
+      213: -6590467203796694396
+    second: Deidara_174
+  - first:
+      213: 4707505906881984615
+    second: Deidara_175
+  - first:
+      213: 7875493527146772448
+    second: Deidara_176
+  - first:
+      213: -4715637474140038053
+    second: Deidara_177
+  - first:
+      213: -5739683929022031329
+    second: Deidara_178
+  - first:
+      213: -3808959754283449376
+    second: Deidara_179
+  - first:
+      213: 2041975616432204046
+    second: Deidara_180
+  - first:
+      213: 1910609148817007131
+    second: Deidara_181
+  - first:
+      213: -6138821124642115898
+    second: Deidara_182
+  - first:
+      213: 3000013227467803513
+    second: Deidara_183
+  - first:
+      213: 8778297504321503569
+    second: Deidara_184
+  - first:
+      213: 8957706881449901472
+    second: Deidara_185
+  - first:
+      213: -3453690848879250060
+    second: Deidara_186
+  - first:
+      213: 8592527645153278132
+    second: Deidara_187
+  - first:
+      213: -7070908534864833568
+    second: Deidara_188
+  - first:
+      213: -4388669533245891283
+    second: Deidara_189
+  - first:
+      213: 4307185981305238418
+    second: Deidara_190
+  - first:
+      213: 247448378560603154
+    second: Deidara_191
+  - first:
+      213: 4613889150462344509
+    second: Deidara_192
+  - first:
+      213: 5978788901495124118
+    second: Deidara_193
+  - first:
+      213: 1527485507830051586
+    second: Deidara_194
+  - first:
+      213: -5837031790174909332
+    second: Deidara_195
+  - first:
+      213: 6496505860063214061
+    second: Deidara_196
+  - first:
+      213: -293607825144922773
+    second: Deidara_197
+  - first:
+      213: -1637936726590425660
+    second: Deidara_198
+  - first:
+      213: -8035760239878187883
+    second: Deidara_199
+  - first:
+      213: 5624757254058593029
+    second: Deidara_200
+  - first:
+      213: 7908349860980615597
+    second: Deidara_201
+  - first:
+      213: -8665905762018486142
+    second: Deidara_202
+  - first:
+      213: -5619509494889691223
+    second: Deidara_203
+  - first:
+      213: -7853051690238754128
+    second: Deidara_204
+  - first:
+      213: -5540972569391682832
+    second: Deidara_205
+  - first:
+      213: 7114956218703948010
+    second: Deidara_206
+  - first:
+      213: -9104403434141358772
+    second: Deidara_207
+  - first:
+      213: -3042140132121979950
+    second: Deidara_208
+  - first:
+      213: -1002672994449147456
+    second: Deidara_209
+  - first:
+      213: -5075306052946132235
+    second: Deidara_210
+  - first:
+      213: 2310706464379492048
+    second: Deidara_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deidara_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2213
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cee88cbab002d4b0800000000000000
+      internalID: -5417266599746277689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2213
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b586a8035faaaf850800000000000000
+      internalID: 6411624989573408859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2213
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab06bdc6d717d060800000000000000
+      internalID: 6978072358975572897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2213
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd35b77fcb87970800000000000000
+      internalID: 8752953646906596295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_4
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafde0a4dc288490800000000000000
+      internalID: -7743890267518928131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_5
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2293
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a8cceee727cf90800000000000000
+      internalID: -6933529194185316304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_6
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2290
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8052278f5949b9fc0800000000000000
+      internalID: -3487030114629049080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_7
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2290
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a49772b01c88920800000000000000
+      internalID: 2992854206038755914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_8
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2293
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a49e4739f21b30800000000000000
+      internalID: 4256738613755420680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a87ffac219e9a890800000000000000
+      internalID: -7446164241955981145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_10
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8d39d680db29aa0800000000000000
+      internalID: -6155649896766252893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_11
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2290
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c51bdf1d8c4c5520800000000000000
+      internalID: 2692110846269265347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_12
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8452aef51d81abb90800000000000000
+      internalID: -7225435364626127544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_13
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9296749379056dc50800000000000000
+      internalID: 6689622906936715561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_14
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2293
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e008a151cfa2d00800000000000000
+      internalID: 948847839084023301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_15
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba9b25f887439dc0800000000000000
+      internalID: -3633481820803458380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_16
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2293
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e019025f7996810800000000000000
+      internalID: 1759104208534048278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1667479e15a45f0800000000000000
+      internalID: -771714323017473588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_18
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af25149ef733440800000000000000
+      internalID: 4914412258191407768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_19
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2293
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf7043b07ef2280800000000000000
+      internalID: -9065773489569923856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_20
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2263
+        width: 146
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8f5b054450ae710800000000000000
+      internalID: 1723195598392654079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2263
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b207c0b3cb23bd0800000000000000
+      internalID: -2651850268770030753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_22
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2263
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62557b81f55c2d0800000000000000
+      internalID: -3259094195573020941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_23
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856e806b1c1ab140800000000000000
+      internalID: 4736128862043137422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_24
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca66a1c097961a0800000000000000
+      internalID: -6815783468159030119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092b339227e9fd80800000000000000
+      internalID: -8216281909475727103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_26
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2263
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d189ca92447b7430800000000000000
+      internalID: 3781744141521224146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_27
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d0bae15b010d30800000000000000
+      internalID: 4395807157748027757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_28
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2263
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e208453a033b17e90800000000000000
+      internalID: -7029640521868607442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_29
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2260
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da76df5f24191460800000000000000
+      internalID: 7212818471914470100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_30
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5588fabfe628c7b0800000000000000
+      internalID: -5203866558350719651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_31
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89392c62d6212c680800000000000000
+      internalID: -8736400067134319720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_32
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfbca70fe1b58400800000000000000
+      internalID: 325862188238290870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_33
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2263
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774e13e52e532560800000000000000
+      internalID: 7287772138832807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_34
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2263
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677da8b9423c0d3e0800000000000000
+      internalID: -2030908869948287114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_35
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2248
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c66f53d2db126080800000000000000
+      internalID: -9195756896833804600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_36
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2248
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5fb180c13da6b00800000000000000
+      internalID: 822701999297132003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_37
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2245
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824931048d4b5b3d0800000000000000
+      internalID: -3191445920041167832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_38
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2248
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27318f41cc1260560800000000000000
+      internalID: 7279543008099832690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_39
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2248
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0e2dc890f730a0800000000000000
+      internalID: -6901783364853953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_40
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2248
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b85f4d326f5e4b50800000000000000
+      internalID: 6579300981174917304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_41
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2248
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb7c05efc2a8e920800000000000000
+      internalID: 3019842563936648132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_42
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2248
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdfb2469590a1140800000000000000
+      internalID: 4691072241397136885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_43
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2233
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7171d2100ed720800000000000000
+      internalID: 2872733693132241838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_44
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2233
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1aa979a84c27650800000000000000
+      internalID: 6229257334134841785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2233
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d96155e537aa020800000000000000
+      internalID: 2353820604246171038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_46
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2230
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd80876322f12160800000000000000
+      internalID: 6999141529784716723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2206
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc584e5cdbaa641d0800000000000000
+      internalID: -3366815939367238193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2206
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c63a9b8205305490800000000000000
+      internalID: -7759643872911018298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2206
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d87dcc003bea0bd0800000000000000
+      internalID: -2663057638030477104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2206
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540b16c39f9246ff0800000000000000
+      internalID: -43863945930231739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2110
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4aedb00a6e1ad00800000000000000
+      internalID: 982319768811775159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2110
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1e8be0df611cad0800000000000000
+      internalID: -2683838626806570503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2110
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d1320a67a5bd60800000000000000
+      internalID: 7905408794663966221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2110
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7c039cedf7e5020800000000000000
+      internalID: 2332442251859380205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2013
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e2975507003d40800000000000000
+      internalID: 5561953259328037819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2013
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d107495f98bac7ce0800000000000000
+      internalID: -1406060374627422179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2013
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c270c6d6f25329870800000000000000
+      internalID: 8688065108966639404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_58
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2013
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39ee368e598dea50800000000000000
+      internalID: 6552044071966140730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2013
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e6e010b5a73430800000000000000
+      internalID: 3762658189307734451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1916
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded33aaa1e92dee0800000000000000
+      internalID: -1237753110211600680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1916
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309cb538f391f5190800000000000000
+      internalID: -7971625054845023997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1916
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cd06276e165c670800000000000000
+      internalID: 8558354309276818482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1819
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9805be4265780ca0800000000000000
+      internalID: -6050457034284529508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_64
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1820
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939f93cf462b1190800000000000000
+      internalID: -7990750989812526185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1819
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230407ac2d775e170800000000000000
+      internalID: 8207097643175788594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1819
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894d7f9aa01a4d30800000000000000
+      internalID: 4416360709596465545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_67
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1819
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568921feef754010800000000000000
+      internalID: 1172483942224856671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_68
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1819
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8e9c319e6bef1c0800000000000000
+      internalID: -4467932668129318735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1722
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab5e13851569a10800000000000000
+      internalID: 1915808130728835653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_70
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1722
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ad9edca4bd9f850800000000000000
+      internalID: 6411396658867329665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1627
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339f1bbf83931e30800000000000000
+      internalID: 4473081100438049588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1625
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d027c9905edb2180800000000000000
+      internalID: -9138966581059575596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1528
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf113d7021cda6d0800000000000000
+      internalID: -2977511433338544195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1530
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52872a32e6a25910800000000000000
+      internalID: 1824704289606959710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_75
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1537
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75854d4fe7921db00800000000000000
+      internalID: 851507429799909463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1431
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8526ab44c9f28f30800000000000000
+      internalID: 4576494792839931274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1431
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21893f04adc3d920800000000000000
+      internalID: 3013978680154751278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_78
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1431
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd7b24d41f9d79e0800000000000000
+      internalID: -1621965378975728198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1431
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596d20c8061b3af0800000000000000
+      internalID: -415714313761887909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1431
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3253dd8a1eb9c8a80800000000000000
+      internalID: -8463218206232988381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_81
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1431
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab67d28eb1149b950800000000000000
+      internalID: 6465270328182273722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_82
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1431
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f12df3f7cd6cd0800000000000000
+      internalID: -2563172762166102290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1333
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef33c41a520a6ed0800000000000000
+      internalID: -2420119263839567892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_84
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1333
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c05d0f7bb079170800000000000000
+      internalID: 8185023732416580719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1333
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37014e700d1766d0800000000000000
+      internalID: -2997395139036379330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_86
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1333
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae3bb81c7e161920800000000000000
+      internalID: 2960587323382382250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1239
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8428b2e9c803450800000000000000
+      internalID: 6066503309030738145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1243
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f0f752afdefcc30800000000000000
+      internalID: 4381982621081472838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_89
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1239
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7589997d05a04f0800000000000000
+      internalID: -861787491762939934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1238
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116cc3f4bada7ab60800000000000000
+      internalID: 7757359834449364497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1144
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032fcbb030e8d2be0800000000000000
+      internalID: -1500386957111528912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_92
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1144
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7fbd3a207427c60800000000000000
+      internalID: 7814386380105840589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1144
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846db80bce7f30410800000000000000
+      internalID: 1442268901634987592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_94
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1141
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33a4f4a1d42f540800000000000000
+      internalID: 5040175708375757779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1141
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dcade1daf9ba490800000000000000
+      internalID: -7733912369182880369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1042
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808cb8d0cda9bfd00800000000000000
+      internalID: 1007569211558184968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_97
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1042
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f648050ac577b090800000000000000
+      internalID: -8018811100981606668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 945
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79578a196ccee4760800000000000000
+      internalID: 7444147571681424791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 945
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d889522aae010e80800000000000000
+      internalID: -8214268121463551792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 945
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0ea7dbe12705b0800000000000000
+      internalID: -5402311931188081832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_101
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 945
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5c11b3a1715130800000000000000
+      internalID: 3553746528837065913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 855
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1733695282dc4a940800000000000000
+      internalID: 5306591833262273393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_103
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 852
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cae77074297fbb0800000000000000
+      internalID: -4902288835603420010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_104
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 852
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d9af69a7c3ef190800000000000000
+      internalID: -7926831796908810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923ddd19d223ac590800000000000000
+      internalID: -7653249445460585687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 752
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1085d764f94c8a6f0800000000000000
+      internalID: -673071955930425343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_107
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 752
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee6a5369a3ba3ab0800000000000000
+      internalID: -5027508493908021524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_108
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 756
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cd30405f22923a0800000000000000
+      internalID: -6689777335752467427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_109
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 756
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e36db514af46840800000000000000
+      internalID: 5216569427022462490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_110
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 758
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169c3fbc9bd6cacd0800000000000000
+      internalID: -2545539044613043871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ae617929ea2dc0800000000000000
+      internalID: -3662858982706469311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_112
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 655
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4c8435e6878db90800000000000000
+      internalID: -7216885987622206240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 655
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154c86bb370d12ea0800000000000000
+      internalID: -5899204841394617263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 655
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e99637a3a2f0b60800000000000000
+      internalID: 7714431117241720462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_115
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 655
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a290e223054fc0800000000000000
+      internalID: -3511396886133955670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_116
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 655
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ef64057130d250800000000000000
+      internalID: 5967323884921282932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 558
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d3308abd2945a50800000000000000
+      internalID: 6508988833571487076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_118
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 558
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d93976f0c532e280800000000000000
+      internalID: -9015584401157178926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 558
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5bc56d5035e5a80800000000000000
+      internalID: -8476246164128352802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_120
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 558
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563b380b174fc7190800000000000000
+      internalID: -7963221271967976603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_121
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 558
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab58eeae63dd48b0800000000000000
+      internalID: -5166240725189764184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_122
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 558
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd0f53a32788330800000000000000
+      internalID: 3713343487105621399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_123
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 558
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af93bfa0f4e6e4b0800000000000000
+      internalID: -5411386179848003676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_124
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 558
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a78b301118ef81a0800000000000000
+      internalID: -6804965351949105243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_125
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 558
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca19e5f2a22cfc140800000000000000
+      internalID: 4742222419083563436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_126
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 558
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826db359ee21177f0800000000000000
+      internalID: -616690858057804248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_127
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 558
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7859582b34243d0800000000000000
+      internalID: -3223939949219444818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_128
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 558
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ac508be4c07d40800000000000000
+      internalID: 5580176454061958724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 469
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d60fc008034f670800000000000000
+      internalID: 8571529317323926931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 470
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484c208a344f2550800000000000000
+      internalID: 6138199835178453064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 473
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556ab05df05752c0800000000000000
+      internalID: -4442993458466364068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_132
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 381
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8d3f1006e67b10800000000000000
+      internalID: 1979021974474426970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_133
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 382
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4309270bc2867930800000000000000
+      internalID: 4140640715923850058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_134
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 381
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e17e3dc5cbd6930800000000000000
+      internalID: 4138170739501506048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_135
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 382
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00981dd8551c4a10800000000000000
+      internalID: 1894913014626816014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_136
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 381
+        width: 34
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295bc2b14a4679b30800000000000000
+      internalID: 4294011425714386322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_137
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 290
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1dae2c825c40530800000000000000
+      internalID: 3820395162776556031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_138
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 290
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1843bc77a7ff8c0800000000000000
+      internalID: -3963314492133834318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_139
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 290
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befc76055ef661db0800000000000000
+      internalID: -4821543320366362645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_140
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 290
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869f01d07defab2b0800000000000000
+      internalID: -5567857789699557016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_141
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 201
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba946d435af4c90800000000000000
+      internalID: -7183341234280617048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_142
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 212
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab6a04111d703f60800000000000000
+      internalID: 8012041249396255649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_143
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 185
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49ffd83995c1830800000000000000
+      internalID: 4043205055749264575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_144
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 209
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492593e65abf76df0800000000000000
+      internalID: -186904171575160172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_145
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 210
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630c53e12fba960c0800000000000000
+      internalID: -4581942089495494602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_146
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 227
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e71226a6d24ba0800000000000000
+      internalID: -6106082135736064998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_147
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 227
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe0effa205f126a0800000000000000
+      internalID: -6475625397290660100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_148
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 193
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30711e648afd83fd0800000000000000
+      internalID: -2361892090719168765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_149
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 199
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478d1f8b6bdf9f50800000000000000
+      internalID: 6890467209909208905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_150
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27321abeaeac15a60800000000000000
+      internalID: 7661127551458288498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_151
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 190
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79ae09901f69e7b0800000000000000
+      internalID: -5194498578117121669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_152
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 194
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7798fd038cb4def20800000000000000
+      internalID: 3453499812448536951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_153
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 194
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66721b0ed18d9df40800000000000000
+      internalID: 5753867621777876838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_154
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 129
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8972a1261e9d90800000000000000
+      internalID: -7089204429718974820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_155
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 129
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbe1c3345c6a3310800000000000000
+      internalID: 1385538944271248368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_156
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 188
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd0e2d4c7d8cba50800000000000000
+      internalID: 6538256324045442498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_157
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ea644d7e25d8a80800000000000000
+      internalID: -8463016969106969034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_158
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 129
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375e9b7b6994c390800000000000000
+      internalID: -7798939967784331457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_159
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 136
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6b14b86ba565690800000000000000
+      internalID: -7613798379956357437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_160
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587bb1e3101430c70800000000000000
+      internalID: 8936057559225972613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_161
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2115c4be92f94d0800000000000000
+      internalID: -3125733525797399837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_162
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 136
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e95a9a69eea8e0800000000000000
+      internalID: -1680148966897229289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_163
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 174
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6a82a6b615791a0800000000000000
+      internalID: -6802879190335445254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_164
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 151
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca019555315a53f60800000000000000
+      internalID: 8013492614430527660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_165
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 147
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f136d9c288983a0d0800000000000000
+      internalID: -3412732874659634401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_166
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d492a35b6c69282c0800000000000000
+      internalID: -4430813303190967987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_167
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e902a386301300800000000000000
+      internalID: 220736320728327786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_168
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 130
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a279c634824380c40800000000000000
+      internalID: 5478686294230734634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_169
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 69
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5613f6243332890800000000000000
+      internalID: -7484081795333265992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_170
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 130
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a293e1e4d4e5602a0800000000000000
+      internalID: -6771621303588865750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_171
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 130
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae961eeb41d86f10800000000000000
+      internalID: 2263288936800886447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_172
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 130
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08066ccd846d3e0b0800000000000000
+      internalID: -5700477094890938240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_173
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 130
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d43ef2043b513500800000000000000
+      internalID: 374180522995102932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_174
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 68
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a06d5fef4f984a0800000000000000
+      internalID: -6590467203796694396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_175
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 104
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f0cd4eab645140800000000000000
+      internalID: 4707505906881984615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_176
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 117
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7b87403af5b4d60800000000000000
+      internalID: 7875493527146772448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_177
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 105
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cdc58a3b0be8eb0800000000000000
+      internalID: -4715637474140038053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_178
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 105
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9f9f60eb8850b0800000000000000
+      internalID: -5739683929022031329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_179
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 117
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e30d22c84bd32bc0800000000000000
+      internalID: -3808959754283449376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_180
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 105
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096379110e865c10800000000000000
+      internalID: 2041975616432204046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_181
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 65
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1269d3e5e8d38a10800000000000000
+      internalID: 1910609148817007131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_182
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 65
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceea0646b68ecaa0800000000000000
+      internalID: -6138821124642115898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_183
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 87
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b01b8b22032a920800000000000000
+      internalID: 3000013227467803513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_184
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 80
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15108cd1217c2d970800000000000000
+      internalID: 8778297504321503569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_185
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 90
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adb4eed2fa205c70800000000000000
+      internalID: 8957706881449901472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_186
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 81
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475f88ca8760210d0800000000000000
+      internalID: -3453690848879250060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_187
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 77
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b51c3e5ace3770800000000000000
+      internalID: 8592527645153278132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_188
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 87
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39a1c96261fdd90800000000000000
+      internalID: -7070908534864833568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_189
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 80
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d9c4acf405813c0800000000000000
+      internalID: -4388669533245891283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_190
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 91
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293bd3d54d236cb30800000000000000
+      internalID: 4307185981305238418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_191
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 82
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e9504dfc1f6300800000000000000
+      internalID: 247448378560603154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_192
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 78
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3656acb3d70040800000000000000
+      internalID: 4613889150462344509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_193
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6903aa434dce8f250800000000000000
+      internalID: 5978788901495124118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_194
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 48
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20374c5f9f7b23510800000000000000
+      internalID: 1527485507830051586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_195
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 47
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c46f34382befea0800000000000000
+      internalID: -5837031790174909332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_196
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 45
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9bf46e8a9382a50800000000000000
+      internalID: 6496505860063214061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_197
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 49
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d36f61d35ecebf0800000000000000
+      internalID: -293607825144922773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_198
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 48
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5f20fa931e449e0800000000000000
+      internalID: -1637936726590425660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_199
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 46
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5945ad913ae3b7090800000000000000
+      internalID: -8035760239878187883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_200
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc6fbdbe62f0e40800000000000000
+      internalID: 5624757254058593029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_201
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9624f5c4a10cd60800000000000000
+      internalID: 7908349860980615597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_202
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28890e59f948cb780800000000000000
+      internalID: -8665905762018486142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_203
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74a2943ed7302b0800000000000000
+      internalID: -5619509494889691223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_204
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c980581b540390800000000000000
+      internalID: -7853051690238754128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_205
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 25
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa9333ec28a13b0800000000000000
+      internalID: -5540972569391682832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_206
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 26
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82e48fbf66db260800000000000000
+      internalID: 7114956218703948010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_207
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 25
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4568285059a6a180800000000000000
+      internalID: -9104403434141358772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_208
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 25
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d8e3faa528c5d0800000000000000
+      internalID: -3042140132121979950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_209
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 27
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c93bf3593ac512f0800000000000000
+      internalID: -1002672994449147456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_210
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 25
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f281c3f804e099b0800000000000000
+      internalID: -5075306052946132235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deidara_211
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6d9856947411020800000000000000
+      internalID: 2310706464379492048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
