@@ -1,0 +1,5367 @@
+fileFormatVersion: 2
+guid: cb8ab44abd903db4ab9887820bd0e28c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8197096490766115807
+    second: Jugo_0
+  - first:
+      213: 3844381027435296693
+    second: Jugo_1
+  - first:
+      213: 439429303237081276
+    second: Jugo_2
+  - first:
+      213: 5168512725562541296
+    second: Jugo_3
+  - first:
+      213: 6684413601202855615
+    second: Jugo_4
+  - first:
+      213: 8242148946795716092
+    second: Jugo_5
+  - first:
+      213: 163443629897432261
+    second: Jugo_6
+  - first:
+      213: 4052729454305691797
+    second: Jugo_7
+  - first:
+      213: 5993452588934179396
+    second: Jugo_8
+  - first:
+      213: -4371432976974052711
+    second: Jugo_9
+  - first:
+      213: 6670289657701224127
+    second: Jugo_10
+  - first:
+      213: 2841191273651444838
+    second: Jugo_11
+  - first:
+      213: 1539125991399565035
+    second: Jugo_12
+  - first:
+      213: 3789201201294369603
+    second: Jugo_13
+  - first:
+      213: 3227821840435878085
+    second: Jugo_14
+  - first:
+      213: -2605698402438646828
+    second: Jugo_15
+  - first:
+      213: -1922805379314606050
+    second: Jugo_16
+  - first:
+      213: -6031498347765192281
+    second: Jugo_17
+  - first:
+      213: -6160175773020927031
+    second: Jugo_18
+  - first:
+      213: 1537418790380121526
+    second: Jugo_19
+  - first:
+      213: 6898699576347119742
+    second: Jugo_20
+  - first:
+      213: 144611854589856074
+    second: Jugo_21
+  - first:
+      213: -281230766774357136
+    second: Jugo_22
+  - first:
+      213: -5693710698412758476
+    second: Jugo_23
+  - first:
+      213: 5694272779489902687
+    second: Jugo_24
+  - first:
+      213: -5469656830464853374
+    second: Jugo_25
+  - first:
+      213: -9200791089570253663
+    second: Jugo_26
+  - first:
+      213: 7611007642502965965
+    second: Jugo_27
+  - first:
+      213: 2132687048606113956
+    second: Jugo_28
+  - first:
+      213: 1102449145790512334
+    second: Jugo_29
+  - first:
+      213: 1181688915256494368
+    second: Jugo_30
+  - first:
+      213: 2681286434631420578
+    second: Jugo_31
+  - first:
+      213: -771148426774853723
+    second: Jugo_32
+  - first:
+      213: 1012401802037299161
+    second: Jugo_33
+  - first:
+      213: -6799885721762039572
+    second: Jugo_34
+  - first:
+      213: -1036436803120929657
+    second: Jugo_35
+  - first:
+      213: 4033669897122712293
+    second: Jugo_36
+  - first:
+      213: 5475843717848547366
+    second: Jugo_37
+  - first:
+      213: -2862704053138785254
+    second: Jugo_38
+  - first:
+      213: 7806788343791930682
+    second: Jugo_39
+  - first:
+      213: 4388607400170494361
+    second: Jugo_40
+  - first:
+      213: 3197599821225948604
+    second: Jugo_41
+  - first:
+      213: -3188234785825055775
+    second: Jugo_42
+  - first:
+      213: -3769554485953501260
+    second: Jugo_43
+  - first:
+      213: -8011887811255218874
+    second: Jugo_44
+  - first:
+      213: 6815458882912043675
+    second: Jugo_45
+  - first:
+      213: -2806832232193232136
+    second: Jugo_46
+  - first:
+      213: 4739968865000101067
+    second: Jugo_47
+  - first:
+      213: 5915227619456240861
+    second: Jugo_48
+  - first:
+      213: 3822513207567128887
+    second: Jugo_49
+  - first:
+      213: -1074912748928546582
+    second: Jugo_50
+  - first:
+      213: -8650358787240810168
+    second: Jugo_51
+  - first:
+      213: 4845597617453109875
+    second: Jugo_52
+  - first:
+      213: -3582797258151279928
+    second: Jugo_53
+  - first:
+      213: -4337389084784064888
+    second: Jugo_54
+  - first:
+      213: -7910002373686068670
+    second: Jugo_55
+  - first:
+      213: -188469007749070326
+    second: Jugo_56
+  - first:
+      213: -2485796075580782360
+    second: Jugo_57
+  - first:
+      213: 8467464541346893586
+    second: Jugo_58
+  - first:
+      213: 6923394966869132610
+    second: Jugo_59
+  - first:
+      213: 2516523248811708544
+    second: Jugo_60
+  - first:
+      213: -730709470543865385
+    second: Jugo_61
+  - first:
+      213: 2711266774635122706
+    second: Jugo_62
+  - first:
+      213: -9027921243152634723
+    second: Jugo_63
+  - first:
+      213: 2834883315863676832
+    second: Jugo_64
+  - first:
+      213: 5269342252138314028
+    second: Jugo_65
+  - first:
+      213: -9020795479636940539
+    second: Jugo_66
+  - first:
+      213: -6002406886423202240
+    second: Jugo_67
+  - first:
+      213: -5844357796677896174
+    second: Jugo_68
+  - first:
+      213: -1914596643539692555
+    second: Jugo_69
+  - first:
+      213: 1794718779073583707
+    second: Jugo_70
+  - first:
+      213: 6116556923749275605
+    second: Jugo_71
+  - first:
+      213: -2256122165670186010
+    second: Jugo_72
+  - first:
+      213: -3353000503079338617
+    second: Jugo_73
+  - first:
+      213: 7827675098308406645
+    second: Jugo_74
+  - first:
+      213: -6096130386362000009
+    second: Jugo_75
+  - first:
+      213: 6323573923860908983
+    second: Jugo_76
+  - first:
+      213: 7737725587948599265
+    second: Jugo_77
+  - first:
+      213: -3498620437567875681
+    second: Jugo_78
+  - first:
+      213: -2949370587985780690
+    second: Jugo_79
+  - first:
+      213: 8136608909694346457
+    second: Jugo_80
+  - first:
+      213: -794099166762019392
+    second: Jugo_81
+  - first:
+      213: -1436611350205949214
+    second: Jugo_82
+  - first:
+      213: 6798307541053053792
+    second: Jugo_83
+  - first:
+      213: 5635722101802451640
+    second: Jugo_84
+  - first:
+      213: 5217768237650981266
+    second: Jugo_85
+  - first:
+      213: -3272691143830982507
+    second: Jugo_86
+  - first:
+      213: -7571214627320853054
+    second: Jugo_87
+  - first:
+      213: 3177824049977177163
+    second: Jugo_88
+  - first:
+      213: 33921650043670348
+    second: Jugo_89
+  - first:
+      213: 6213213337872608861
+    second: Jugo_90
+  - first:
+      213: 2647943647374473439
+    second: Jugo_91
+  - first:
+      213: 3339205110801723552
+    second: Jugo_92
+  - first:
+      213: 2923573605572044611
+    second: Jugo_93
+  - first:
+      213: -4508469395919797853
+    second: Jugo_94
+  - first:
+      213: 3491282555251030565
+    second: Jugo_95
+  - first:
+      213: -4484054356119970758
+    second: Jugo_96
+  - first:
+      213: 1346270734510172663
+    second: Jugo_97
+  - first:
+      213: -4833532166413838808
+    second: Jugo_98
+  - first:
+      213: 5878634556506805040
+    second: Jugo_99
+  - first:
+      213: 362979220855110169
+    second: Jugo_100
+  - first:
+      213: -8943443986641805545
+    second: Jugo_101
+  - first:
+      213: -1041892871959933166
+    second: Jugo_102
+  - first:
+      213: -6234814309622548545
+    second: Jugo_103
+  - first:
+      213: 2523942333515781285
+    second: Jugo_104
+  - first:
+      213: -2920478831269135863
+    second: Jugo_105
+  - first:
+      213: 4252830460680364634
+    second: Jugo_106
+  - first:
+      213: -6772032383686509883
+    second: Jugo_107
+  - first:
+      213: 6492799023016786357
+    second: Jugo_108
+  - first:
+      213: 6910297823939288134
+    second: Jugo_109
+  - first:
+      213: 4253636198831525521
+    second: Jugo_110
+  - first:
+      213: -6506894249423138300
+    second: Jugo_111
+  - first:
+      213: -6381437045591975370
+    second: Jugo_112
+  - first:
+      213: -8740035273679202999
+    second: Jugo_113
+  - first:
+      213: -3789054044642673119
+    second: Jugo_114
+  - first:
+      213: 6927039027070721300
+    second: Jugo_115
+  - first:
+      213: -1765303450997625133
+    second: Jugo_116
+  - first:
+      213: 1487624439042570075
+    second: Jugo_117
+  - first:
+      213: 7581726467719506912
+    second: Jugo_118
+  - first:
+      213: 4285934468765271604
+    second: Jugo_119
+  - first:
+      213: -8959887777060253329
+    second: Jugo_120
+  - first:
+      213: -8543105715737671076
+    second: Jugo_121
+  - first:
+      213: -6588635057815018744
+    second: Jugo_122
+  - first:
+      213: 4949949425012862149
+    second: Jugo_123
+  - first:
+      213: -83860730494926830
+    second: Jugo_124
+  - first:
+      213: 8211885053616448638
+    second: Jugo_125
+  - first:
+      213: -534917358311448309
+    second: Jugo_126
+  - first:
+      213: -1323635167102101610
+    second: Jugo_127
+  - first:
+      213: 9205534699208393929
+    second: Jugo_128
+  - first:
+      213: 9026346652033713917
+    second: Jugo_129
+  - first:
+      213: 4989296761868283513
+    second: Jugo_130
+  - first:
+      213: -3866310215355577312
+    second: Jugo_131
+  - first:
+      213: -2377633319838838351
+    second: Jugo_132
+  - first:
+      213: -6904522208779537061
+    second: Jugo_133
+  - first:
+      213: -6888386973892091673
+    second: Jugo_134
+  - first:
+      213: -1044754690124229540
+    second: Jugo_135
+  - first:
+      213: -7153501875615614837
+    second: Jugo_136
+  - first:
+      213: 1900457620578355
+    second: Jugo_137
+  - first:
+      213: 9081685025402697652
+    second: Jugo_138
+  - first:
+      213: -5803171290733677264
+    second: Jugo_139
+  - first:
+      213: 9068192546982710648
+    second: Jugo_140
+  - first:
+      213: -745361056524270208
+    second: Jugo_141
+  - first:
+      213: 8592490187985956240
+    second: Jugo_142
+  - first:
+      213: 7327806093785618567
+    second: Jugo_143
+  - first:
+      213: -1770234069114121914
+    second: Jugo_144
+  - first:
+      213: -8039686192141368138
+    second: Jugo_145
+  - first:
+      213: 1394926200303616057
+    second: Jugo_146
+  - first:
+      213: 1079830983896918036
+    second: Jugo_147
+  - first:
+      213: -3375489298643548302
+    second: Jugo_148
+  - first:
+      213: -2492825229381386013
+    second: Jugo_149
+  - first:
+      213: 7016835918776114886
+    second: Jugo_150
+  - first:
+      213: -475032650464741381
+    second: Jugo_151
+  - first:
+      213: 5555935503237307990
+    second: Jugo_152
+  - first:
+      213: -5311616803498762163
+    second: Jugo_153
+  - first:
+      213: 3803451667960097755
+    second: Jugo_154
+  - first:
+      213: 5669411591997798763
+    second: Jugo_155
+  - first:
+      213: 2183006751597737143
+    second: Jugo_156
+  - first:
+      213: -1103738400659653875
+    second: Jugo_157
+  - first:
+      213: 9074857100484374775
+    second: Jugo_158
+  - first:
+      213: -3621446535412462876
+    second: Jugo_159
+  - first:
+      213: 7713168548929805662
+    second: Jugo_160
+  - first:
+      213: 1009134339945359406
+    second: Jugo_161
+  - first:
+      213: -1419484809086871390
+    second: Jugo_162
+  - first:
+      213: -6451201472433257441
+    second: Jugo_163
+  - first:
+      213: 1802337862075605283
+    second: Jugo_164
+  - first:
+      213: -1010360308139093585
+    second: Jugo_165
+  - first:
+      213: 5950768792380520344
+    second: Jugo_166
+  - first:
+      213: -5403905580920151728
+    second: Jugo_167
+  - first:
+      213: 3443840741707669677
+    second: Jugo_168
+  - first:
+      213: 4523942820760426858
+    second: Jugo_169
+  - first:
+      213: 5271628721438400543
+    second: Jugo_170
+  - first:
+      213: 4525632949364590373
+    second: Jugo_171
+  - first:
+      213: -1683249317075070909
+    second: Jugo_172
+  - first:
+      213: -4582986749404625444
+    second: Jugo_173
+  - first:
+      213: 6034039453603072117
+    second: Jugo_174
+  - first:
+      213: 977859737454183761
+    second: Jugo_175
+  - first:
+      213: -6716228032762120452
+    second: Jugo_176
+  - first:
+      213: -889026503842995221
+    second: Jugo_177
+  - first:
+      213: 1315604439142335489
+    second: Jugo_178
+  - first:
+      213: 8304338170402274934
+    second: Jugo_179
+  - first:
+      213: -642399439941001596
+    second: Jugo_180
+  - first:
+      213: 2318404987181731764
+    second: Jugo_181
+  - first:
+      213: 788329658956141820
+    second: Jugo_182
+  - first:
+      213: -2108480602626726991
+    second: Jugo_183
+  - first:
+      213: 8409549104038839479
+    second: Jugo_184
+  - first:
+      213: 5914314466001270201
+    second: Jugo_185
+  - first:
+      213: 7846543145518661962
+    second: Jugo_186
+  - first:
+      213: -6123983099014502403
+    second: Jugo_187
+  - first:
+      213: -3587051237835560107
+    second: Jugo_188
+  - first:
+      213: -290339217374782179
+    second: Jugo_189
+  - first:
+      213: 3182993107483140583
+    second: Jugo_190
+  - first:
+      213: 3511764693183668749
+    second: Jugo_191
+  - first:
+      213: 2756284697528030035
+    second: Jugo_192
+  - first:
+      213: 8597989334181094165
+    second: Jugo_193
+  - first:
+      213: -7978527877271864686
+    second: Jugo_194
+  - first:
+      213: 1081408504751484629
+    second: Jugo_195
+  - first:
+      213: -7309460850179576369
+    second: Jugo_196
+  - first:
+      213: 7683753662986517084
+    second: Jugo_197
+  - first:
+      213: 1928908285721394448
+    second: Jugo_198
+  - first:
+      213: -7386689993675173318
+    second: Jugo_199
+  - first:
+      213: -7155962033516099201
+    second: Jugo_200
+  - first:
+      213: 1653456403616302084
+    second: Jugo_201
+  - first:
+      213: 6509462376700752031
+    second: Jugo_202
+  - first:
+      213: -4683991014340694475
+    second: Jugo_203
+  - first:
+      213: 8087861017840076734
+    second: Jugo_204
+  - first:
+      213: 3899102958018759744
+    second: Jugo_205
+  - first:
+      213: 5837250915291356045
+    second: Jugo_206
+  - first:
+      213: 4322535036259929329
+    second: Jugo_207
+  - first:
+      213: 8897793956572605716
+    second: Jugo_208
+  - first:
+      213: -2065824274698749276
+    second: Jugo_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jugo_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3286
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd846fb201e3e80800000000000000
+      internalID: -8197096490766115807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3286
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b738811d2cf95530800000000000000
+      internalID: 3844381027435296693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3287
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f7538f9a291600800000000000000
+      internalID: 439429303237081276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3287
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4cd30a0fe3ab740800000000000000
+      internalID: 5168512725562541296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3287
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe5c7731cec3cc50800000000000000
+      internalID: 6684413601202855615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3287
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd5e9f5ccef16270800000000000000
+      internalID: 8242148946795716092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3181
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc36dc8d1ba44200800000000000000
+      internalID: 163443629897432261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3181
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59847a667ff2e3830800000000000000
+      internalID: 4052729454305691797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3181
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a219dff550d2350800000000000000
+      internalID: 5993452588934179396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3083
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99288084edc8553c0800000000000000
+      internalID: -4371432976974052711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3077
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4e3c5a11a19c50800000000000000
+      internalID: 6670289657701224127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3077
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1fecf860fd6720800000000000000
+      internalID: 2841191273651444838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3083
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be621fd3fe21c5510800000000000000
+      internalID: 1539125991399565035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3077
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34362a1aa62f59430800000000000000
+      internalID: 3789201201294369603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3077
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c89d65bcd68bcc20800000000000000
+      internalID: 3227821840435878085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3079
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d377dacb13b6dbd0800000000000000
+      internalID: -2605698402438646828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2973
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e102eb9e1b2d055e0800000000000000
+      internalID: -1922805379314606050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2976
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9a91e7530db4ca0800000000000000
+      internalID: -6031498347765192281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2984
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbce1fb5c8a28aa0800000000000000
+      internalID: -6160175773020927031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2870
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2e978e32065510800000000000000
+      internalID: 1537418790380121526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2870
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70de4cb6ba1dbf50800000000000000
+      internalID: 6898699576347119742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2870
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49832f27b3c10200800000000000000
+      internalID: 144611854589856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2870
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073f08e8b1ed81cf0800000000000000
+      internalID: -281230766774357136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2870
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a244f4940ebf0b0800000000000000
+      internalID: -5693710698412758476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2773
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f500ca36cee160f40800000000000000
+      internalID: 5694272779489902687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2795
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a7ad89710e714b0800000000000000
+      internalID: -5469656830464853374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2777
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4f59d7049305080800000000000000
+      internalID: -9200791089570253663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2769
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca2c22402bbf9960800000000000000
+      internalID: 7611007642502965965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2765
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a06e3d3293d89d10800000000000000
+      internalID: 2132687048606113956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2629
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccb6c538afac4f00800000000000000
+      internalID: 1102449145790512334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2629
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02941ecbec3366010800000000000000
+      internalID: 1181688915256494368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2630
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa87456ec7d53520800000000000000
+      internalID: 2681286434631420578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2630
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7cbf077945c45f0800000000000000
+      internalID: -771148426774853723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2630
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d706643316cc0e00800000000000000
+      internalID: 1012401802037299161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2493
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce87f11a6f3f1a1a0800000000000000
+      internalID: -6799885721762039572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2493
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e5d50836dd91f0800000000000000
+      internalID: -1036436803120929657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2493
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8f2f66697af730800000000000000
+      internalID: 4033669897122712293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_37
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2493
+        width: 109
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620caef59da1efb40800000000000000
+      internalID: 5475843717848547366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2357
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7797b4d1a548d0800000000000000
+      internalID: -2862704053138785254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2357
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dc064f2a8475c60800000000000000
+      internalID: 7806788343791930682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2360
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99910d9bd2777ec30800000000000000
+      internalID: 4388607400170494361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2360
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb576068818206c20800000000000000
+      internalID: 3197599821225948604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_42
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2359
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9a52ba5d11c3d0800000000000000
+      internalID: -3188234785825055775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_43
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2222
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e24fba2adfabc0800000000000000
+      internalID: -3769554485953501260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2221
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc9d50c7e00d090800000000000000
+      internalID: -8011887811255218874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2221
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c0418ebf559e50800000000000000
+      internalID: 6815458882912043675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2221
+        width: 57
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f27100c4f02c09d0800000000000000
+      internalID: -2806832232193232136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_47
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2222
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc41ebcb190c7c140800000000000000
+      internalID: 4739968865000101067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_48
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2221
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc44ffd2c171250800000000000000
+      internalID: 5915227619456240861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2085
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739174e728b4c0530800000000000000
+      internalID: 3822513207567128887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_50
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2086
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8439bcc842511f0800000000000000
+      internalID: -1074912748928546582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_51
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2085
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84925dab380c3f780800000000000000
+      internalID: -8650358787240810168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2085
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37295c82c550f3340800000000000000
+      internalID: 4845597617453109875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_53
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2085
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c246ad40e8574ec0800000000000000
+      internalID: -3582797258151279928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2087
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860acc9b9f7ec3c0800000000000000
+      internalID: -4337389084784064888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1949
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24af1f700c60a3290800000000000000
+      internalID: -7910002373686068670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1949
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0242fd9f6c626df0800000000000000
+      internalID: -188469007749070326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1949
+        width: 129
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e882fab3ada08dd0800000000000000
+      internalID: -2485796075580782360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1949
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f8237432a728570800000000000000
+      internalID: 8467464541346893586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1949
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24546f76a07d41060800000000000000
+      internalID: 6923394966869132610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1950
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801f6acf8c7ce220800000000000000
+      internalID: 2516523248811708544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1821
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d91836ab9ffbd5f0800000000000000
+      internalID: -730709470543865385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1827
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210127144ca50a520800000000000000
+      internalID: 2711266774635122706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1816
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c2fa9167166b280800000000000000
+      internalID: -9027921243152634723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_64
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1837
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a76cbd1b57875720800000000000000
+      internalID: 2834883315863676832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_65
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1830
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2939a23cd6702940800000000000000
+      internalID: 5269342252138314028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1693
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5096ac43e42bfc280800000000000000
+      internalID: -9020795479636940539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1686
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f2692dba23bca0800000000000000
+      internalID: -6002406886423202240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1684
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218bab47c8ba4eea0800000000000000
+      internalID: -5844357796677896174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_69
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1681
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f359a52f7cfd65e0800000000000000
+      internalID: -1914596643539692555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1555
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5762883f18e810800000000000000
+      internalID: 1794718779073583707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1553
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d718808d1062e450800000000000000
+      internalID: 6116556923749275605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_72
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1547
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3f75108d4a0b0e0800000000000000
+      internalID: -2256122165670186010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1549
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dff32becfb771d0800000000000000
+      internalID: -3353000503079338617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_74
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1554
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de7d3770d71ac60800000000000000
+      internalID: 7827675098308406645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_75
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1541
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d9d6856b1366ba0800000000000000
+      internalID: -6096130386362000009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1406
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb07a2eaf8d1c750800000000000000
+      internalID: 6323573923860908983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1406
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7702f0d6ce16b60800000000000000
+      internalID: 7737725587948599265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1405
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9558de9f37627fc0800000000000000
+      internalID: -3498620437567875681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_79
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1405
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206f10a31bb117d0800000000000000
+      internalID: -2949370587985780690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1406
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42c9a91ba0be070800000000000000
+      internalID: 8136608909694346457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1269
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c557b0e30bcaf4f0800000000000000
+      internalID: -794099166762019392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1269
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea1ea6a691201ce0800000000000000
+      internalID: -1436611350205949214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1269
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b935a80b0785e50800000000000000
+      internalID: 6798307541053053792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_84
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1269
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c0ca646b163e40800000000000000
+      internalID: 5635722101802451640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_85
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1269
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b085319c396840800000000000000
+      internalID: 5217768237650981266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_86
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1270
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59033608eb01592d0800000000000000
+      internalID: -3272691143830982507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_87
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1271
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd8c441964ade690800000000000000
+      internalID: -7571214627320853054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_88
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1147
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443599f226e91c20800000000000000
+      internalID: 3177824049977177163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_89
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1145
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f4c0d9f83887000800000000000000
+      internalID: 33921650043670348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_90
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1148
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ead9d9c94c93650800000000000000
+      internalID: 6213213337872608861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_91
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1139
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f107c7b26fb420800000000000000
+      internalID: 2647943647374473439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_92
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1141
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0718d3b5d375e20800000000000000
+      internalID: 3339205110801723552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_93
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1146
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34764da54be929820800000000000000
+      internalID: 2923573605572044611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_94
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1144
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a10b77a8f2be61c0800000000000000
+      internalID: -4508469395919797853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_95
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 997
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a71448cf6837030800000000000000
+      internalID: 3491282555251030565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1003
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1de5125075c1c0800000000000000
+      internalID: -4484054356119970758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1003
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9abf5a91aeea210800000000000000
+      internalID: 1346270734510172663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_98
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1003
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8269a729a18dbecb0800000000000000
+      internalID: -4833532166413838808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_99
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1002
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0339ce89bfa159150800000000000000
+      internalID: 5878634556506805040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_100
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 997
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91abaef9daf890500800000000000000
+      internalID: 362979220855110169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_101
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 998
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f9c9b141182e380800000000000000
+      internalID: -8943443986641805545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_102
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 867
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f01d004f37a81f0800000000000000
+      internalID: -1041892871959933166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_103
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 861
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7fc6a3b6d7979a0800000000000000
+      internalID: -6234814309622548545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_104
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 861
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a457ce0e28d60320800000000000000
+      internalID: 2523942333515781285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_105
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 861
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ab720f9ff5877d0800000000000000
+      internalID: -2920478831269135863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_106
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 861
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5260d285c6150b30800000000000000
+      internalID: 4252830460680364634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 861
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7ce24d68e402a0800000000000000
+      internalID: -6772032383686509883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 725
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93be4af4e0b1a50800000000000000
+      internalID: 6492799023016786357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_109
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 725
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c5e00324f46ef50800000000000000
+      internalID: 6910297823939288134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_110
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 725
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e881b0693f70b30800000000000000
+      internalID: 4253636198831525521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_111
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 726
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4021a18b72ed2b5a0800000000000000
+      internalID: -6506894249423138300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_112
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 726
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad8fc31d49077a0800000000000000
+      internalID: -6381437045591975370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_113
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 726
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94597fba93825b680800000000000000
+      internalID: -8740035273679202999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_114
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 726
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef052fb639a6bc0800000000000000
+      internalID: -3789054044642673119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_115
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 726
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d51d94b49c12060800000000000000
+      internalID: 6927039027070721300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_116
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 633
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dee3824dd16087e0800000000000000
+      internalID: -1765303450997625133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_117
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 631
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b577258ab8a15a410800000000000000
+      internalID: 1487624439042570075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 633
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb299c7d04b73960800000000000000
+      internalID: 7581726467719506912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_119
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 629
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4364b5501b2ba7b30800000000000000
+      internalID: 4285934468765271604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_120
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 638
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6195fcc98518a380800000000000000
+      internalID: -8959887777060253329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_121
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 631
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ac8d66d9ac07980800000000000000
+      internalID: -8543105715737671076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_122
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 633
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032040b2577094a0800000000000000
+      internalID: -6588635057815018744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_123
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 630
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc6a0ea6c0c1b440800000000000000
+      internalID: 4949949425012862149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_124
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 540
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210ce342c1116def0800000000000000
+      internalID: -83860730494926830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_125
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 538
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74e525a2f976f170800000000000000
+      internalID: 8211885053616448638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 535
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01e7a92f779398f0800000000000000
+      internalID: -534917358311448309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_127
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 535
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6971aa414d081ade0800000000000000
+      internalID: -1323635167102101610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_128
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 549
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c449d13901a0cf70800000000000000
+      internalID: 9205534699208393929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_129
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 540
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df68106d476044d70800000000000000
+      internalID: 9026346652033713917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_130
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 539
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6a2278fa8d3540800000000000000
+      internalID: 4989296761868283513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_131
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 539
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c444ef75b185ac0800000000000000
+      internalID: -3866310215355577312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_132
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 461
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19fd4c713f00fd0800000000000000
+      internalID: -2377633319838838351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 461
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5576e102a53e20a0800000000000000
+      internalID: -6904522208779537061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_134
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 464
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ebb12b888760a0800000000000000
+      internalID: -6888386973892091673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_135
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 464
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d8b905294081f0800000000000000
+      internalID: -1044754690124229540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_136
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 389
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8837dbe1f7a9bc90800000000000000
+      internalID: -7153501875615614837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_137
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 389
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a265c470c60000800000000000000
+      internalID: 1900457620578355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_138
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 390
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7bc1de960a80e70800000000000000
+      internalID: 9081685025402697652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 389
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f215257ef67fa0800000000000000
+      internalID: -5803171290733677264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_140
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 389
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dcfbd7311b8dd70800000000000000
+      internalID: 9068192546982710648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_141
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 389
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08506747112f7a5f0800000000000000
+      internalID: -745361056524270208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_142
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 389
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09daeee0d48ae3770800000000000000
+      internalID: 8592490187985956240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_143
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 279
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d80361d891b560800000000000000
+      internalID: 7327806093785618567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_144
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 285
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64198254e7dde67e0800000000000000
+      internalID: -1770234069114121914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_145
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 279
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b40dcb110c4d6090800000000000000
+      internalID: -8039686192141368138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 285
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308bf01df5cb5310800000000000000
+      internalID: 1394926200303616057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 279
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418e2a40f845cfe00800000000000000
+      internalID: 1079830983896918036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_148
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 285
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2770833fd5ad721d0800000000000000
+      internalID: -3375489298643548302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_149
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 279
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0479359a4b76dd0800000000000000
+      internalID: -2492825229381386013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 285
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1ad1671fc06160800000000000000
+      internalID: 7016835918776114886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_151
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 247
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7365c32585869f0800000000000000
+      internalID: -475032650464741381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 241
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed07157e5aa1d40800000000000000
+      internalID: 5555935503237307990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_153
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 187
+        width: 103
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e57cc8a85946b0800000000000000
+      internalID: -5311616803498762163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_154
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 234
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe025f32398c430800000000000000
+      internalID: 3803451667960097755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_155
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b28a1ecbcdae40800000000000000
+      internalID: 5669411591997798763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_156
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 239
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4334313199b4e10800000000000000
+      internalID: 2183006751597737143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_157
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 262
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b39bfb5cbbea0f0800000000000000
+      internalID: -1103738400659653875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_158
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 262
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f07dc5c37e50fd70800000000000000
+      internalID: 9074857100484374775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_159
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 259
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eacba330990ebdc0800000000000000
+      internalID: -3621446535412462876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_160
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 259
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d1dabddedaa0b60800000000000000
+      internalID: 7713168548929805662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_161
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 237
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e286717e55a210e00800000000000000
+      internalID: 1009134339945359406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_162
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 239
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8505e361afc4ce0800000000000000
+      internalID: -1419484809086871390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_163
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 239
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f148325d07ab876a0800000000000000
+      internalID: -6451201472433257441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_164
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 241
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e0428cb0330910800000000000000
+      internalID: 1802337862075605283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_165
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 231
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1173227aa7af1f0800000000000000
+      internalID: -1010360308139093585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_166
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897325a20b0659250800000000000000
+      internalID: 5950768792380520344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_167
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 191
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e08951887105b0800000000000000
+      internalID: -5403905580920151728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_168
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 220
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0e08888eafacf20800000000000000
+      internalID: 3443840741707669677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_169
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 196
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699a9fc60648ce30800000000000000
+      internalID: 4523942820760426858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_170
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 219
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1025115466982940800000000000000
+      internalID: 5271628721438400543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_171
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5270eaa80374ece30800000000000000
+      internalID: 4525632949364590373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_172
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 207
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34052531aa5e3a8e0800000000000000
+      internalID: -1683249317075070909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_173
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 228
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54a6745d5f560c0800000000000000
+      internalID: -4582986749404625444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_174
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 183
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57804b0d9e63db350800000000000000
+      internalID: 6034039453603072117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_175
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 233
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1550d13104e029d00800000000000000
+      internalID: 977859737454183761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_176
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 227
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf671b4303a2bc2a0800000000000000
+      internalID: -6716228032762120452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_177
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 200
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e782ea1b89a3f0800000000000000
+      internalID: -889026503842995221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 194
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104810c5447f14210800000000000000
+      internalID: 1315604439142335489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 197
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e7b85519fee3370800000000000000
+      internalID: 8304338170402274934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_180
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 213
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e186aec1db517f0800000000000000
+      internalID: -642399439941001596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_181
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 182
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf067a6d01ac2020800000000000000
+      internalID: 2318404987181731764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_182
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 210
+        width: 73
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf45cf7e5a5b0fa00800000000000000
+      internalID: 788329658956141820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_183
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 207
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e1a8201c2db2e0800000000000000
+      internalID: -2108480602626726991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_184
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 196
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4807bba58b4b470800000000000000
+      internalID: 8409549104038839479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_185
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 205
+        width: 77
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b5f3ebadd31250800000000000000
+      internalID: 5914314466001270201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_186
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 200
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418a670b6584ec60800000000000000
+      internalID: 7846543145518661962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_187
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 183
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7aeb451dd330ba0800000000000000
+      internalID: -6123983099014502403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_188
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 175
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bafa977eb383ec0800000000000000
+      internalID: -3587051237835560107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_189
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 175
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd204250288fbf0800000000000000
+      internalID: -290339217374782179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_190
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 175
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1ac06fd534c2c20800000000000000
+      internalID: 3182993107483140583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_191
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 160
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a8ffd16b4cb030800000000000000
+      internalID: 3511764693183668749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_192
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 151
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353d008345a404620800000000000000
+      internalID: 2756284697528030035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_193
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 190
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513267eceb1325770800000000000000
+      internalID: 8597989334181094165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_194
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 167
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab8acea23964190800000000000000
+      internalID: -7978527877271864686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_195
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 152
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de6cc63e4fe10f00800000000000000
+      internalID: 1081408504751484629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_196
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdeb6d75149f8a90800000000000000
+      internalID: -7309460850179576369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_197
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5afae70f3d22aa60800000000000000
+      internalID: 7683753662986517084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_198
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 151
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3bb6bddbd4ca10800000000000000
+      internalID: 1928908285721394448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_199
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 148
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321f0d46943d7990800000000000000
+      internalID: -7386689993675173318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_200
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 174
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794716c17ae0bc90800000000000000
+      internalID: -7155962033516099201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_201
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 155
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4040525b6d142f610800000000000000
+      internalID: 1653456403616302084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_202
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 160
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b4020b81465a50800000000000000
+      internalID: 6509462376700752031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_203
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 158
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee9134dfe1ffeb0800000000000000
+      internalID: -4683991014340694475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_204
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 159
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb746119ebadd3070800000000000000
+      internalID: 8087861017840076734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_205
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 256
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c02636b756c1630800000000000000
+      internalID: 3899102958018759744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_206
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 143
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd3c6c7c4120150800000000000000
+      internalID: 5837250915291356045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_207
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc0475b6babcfb30800000000000000
+      internalID: 4322535036259929329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_208
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 143
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41da02206705b7b70800000000000000
+      internalID: 8897793956572605716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jugo_209
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 71
+        width: 255
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab33274c7b453e0800000000000000
+      internalID: -2065824274698749276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
