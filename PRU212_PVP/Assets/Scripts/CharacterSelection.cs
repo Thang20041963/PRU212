@@ -3,18 +3,18 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class CharacterManager : MonoBehaviour
+public class CharacterSelection : MonoBehaviour
 {
     public CharacterDatabase characterDB;
     public TextMeshProUGUI nameText;
     public SpriteRenderer artworkSprite;
-
+    public int playerID;
     private int selectedCharacterOption;
 
     void Start()
     {
        
-        selectedCharacterOption = PlayerPrefs.GetInt("selectedCharacterOption", 0);
+        selectedCharacterOption = PlayerPrefs.GetInt($"{playerID}_selectedCharacterOption", 0);
         UpdateCharacter(selectedCharacterOption);
     }
 
@@ -52,14 +52,10 @@ public class CharacterManager : MonoBehaviour
 
     private void Save()
     {
-        PlayerPrefs.SetInt("selectedCharacterOption", selectedCharacterOption);
+        PlayerPrefs.SetInt($"{playerID}_selectedCharacterOption", selectedCharacterOption);
     }
 
-    public void ChangeScene(int sceneID)
-    {
-        Save();
-        SceneManager.LoadScene(sceneID);
-    }
+
 
     private void OnDestroy()
     {

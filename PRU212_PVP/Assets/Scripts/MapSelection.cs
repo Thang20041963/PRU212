@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-public class MapManager : MonoBehaviour
+public class MapSelection : MonoBehaviour
 {
 
     public MapDatabase MapDB;
@@ -24,7 +24,7 @@ public class MapManager : MonoBehaviour
     }
     public void NextOption()
     {
-        Debug.Log("click");
+        
         selectedMapOption++;
         if (selectedMapOption >= MapDB.MapCount)
         {
@@ -35,7 +35,7 @@ public class MapManager : MonoBehaviour
     }
     public void BackOption()
     {
-        Debug.Log("click");
+       
         selectedMapOption--;
         if (selectedMapOption < 0)
         {
@@ -59,8 +59,5 @@ public class MapManager : MonoBehaviour
     {
         PlayerPrefs.SetInt("selectedMapOption", selectedMapOption);
     }
-    public void ChangeScene(int sceneID)
-    {
-        SceneManager.LoadScene(sceneID);
-    }
+   
 }
