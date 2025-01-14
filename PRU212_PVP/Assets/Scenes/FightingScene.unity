@@ -268,8 +268,8 @@ GameObject:
   - component: {fileID: 930298184}
   - component: {fileID: 930298183}
   - component: {fileID: 930298182}
-  - component: {fileID: 930298186}
   - component: {fileID: 930298187}
+  - component: {fileID: 930298186}
   m_Layer: 0
   m_Name: Naruto_11
   m_TagString: Untagged
