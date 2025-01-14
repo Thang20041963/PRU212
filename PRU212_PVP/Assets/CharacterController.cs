@@ -1,4 +1,6 @@
 using JetBrains.Annotations;
+using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterController : MonoBehaviour
@@ -10,10 +12,14 @@ public class CharacterController : MonoBehaviour
     public float atk;
     public float def;
     public float mana;
+    public LayerMask groundLayer;
+    public Transform groundCheck;
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteToDisplay;
     public InputHandler inputHandler;
+    
 
     private void Awake()
     {
@@ -56,82 +62,83 @@ public class CharacterController : MonoBehaviour
     private void Update()
     {
         if (inputHandler == null) return;
-        string inputAction = inputHandler.GetCurrentInput();
-        HandleAction(inputAction);
+        List<string> currentInputs = inputHandler.GetCurrentInputs();
+        HandleActions(currentInputs);
     }
 
-    private void HandleAction(string action)
+    private void HandleActions(List<string> actions)
     {
-        switch (action)
+        bool isMovingLeft = actions.Contains("moveLeft");
+        bool isMovingRight = actions.Contains("moveRight");
+        bool isJumping = actions.Contains("jump");
+
+        if (isMovingLeft && isJumping)
         {
-            case "moveLeft":
-                MoveLeftRight(-1);
-                break;
-            case "moveRight":
-                MoveLeftRight(1);
-                break;
-            case "jump":
-                Jump();
-                break;
-            case "block":
-                Block();
-                break;
-            case "normalAtack":
-                NormalAttack();
-                break;
-            case "dash":
-                Dash();
-                break;
-            case "specialAttack1":
-                SpecialAttack1();
-                break;
-            case "specialAttack2":
-                SpecialAttack2();
-                break;
-            default:
-                StopMovement();
-                break;
+            MoveLeftRight(-1);
+            Jump();
         }
+        else if (isMovingRight && isJumping)
+        {
+            MoveLeftRight(1);
+            Jump();
+        }
+        else if (isMovingLeft)
+        {
+            MoveLeftRight(-1);
+        }
+        else if (isMovingRight)
+        {
+            MoveLeftRight(1);
+        }
+        else if (isJumping)
+        {
+            Jump();
+        }
+        else
+        {
+            StopMovement();
+        }
+
+        if (actions.Contains("block")) Block();
+        if (actions.Contains("punchAttack")) PunchAttack();
+        if (actions.Contains("kickAttack")) KickAttack();
+        if (actions.Contains("throwDart")) ThrowDart();
+        if (actions.Contains("specialAttack1")) SpecialAttack1();
+        if (actions.Contains("specialAttack2")) SpecialAttack2();
     }
 
     private void MoveLeftRight(float direction)
     {
         rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
         transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
+        animator.SetBool("run", true);
     }
 
     private void Jump()
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed); // Apply jump force
+        if (IsGrounded())
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed); // Apply jump force
+            animator.SetTrigger("jump");
+        }
+
+        animator.SetBool("grounded", true);
     }
 
-    private void Block()
+    private void Block() => Debug.Log($"{characterName} is blocking!");
+    private void PunchAttack() 
     {
-        Debug.Log($"{characterName} is blocking!");
+    
     }
-
-    private void NormalAttack()
-    {
-        Debug.Log($"{characterName} is performing a normal attack!");
-    }
-
-    private void SpecialAttack1()
-    {
-        Debug.Log($"{characterName} is performing special attack 1!");
-    }
-
-    private void SpecialAttack2()
-    {
-        Debug.Log($"{characterName} is performing special attack 2!");
-    }
-
-    private void Dash()
-    {
-        Debug.Log($"{characterName} is performing a dash!");
-    }
-
+    private void KickAttack() => Debug.Log($"{characterName} is performing a normal attack!");
+    private void SpecialAttack1() => Debug.Log($"{characterName} is performing special attack 1!");
+    private void SpecialAttack2() => Debug.Log($"{characterName} is performing special attack 2!");
+    private void ThrowDart() => Debug.Log($"{characterName} is throwing dart!");
     private void StopMovement()
     {
         rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+        animator.SetBool("run", false);
     }
+
+    private bool IsGrounded() => Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
 }

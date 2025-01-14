@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.TextCore.Text;
 
@@ -11,46 +12,54 @@ public class InputHandler : MonoBehaviour
         playerId = id;
     }
 
-    public string GetCurrentInput()
+    public List<string> GetCurrentInputs()
     {
+        List<string> inputs = new List<string>();
+
         if (playerId == 1)
         {
-            return HandlePlayer1Input();
+            inputs = GetPlayer1Inputs();
         }
         else if (playerId == 2)
         {
-            return HandlePlayer2Input();
+            inputs = GetPlayer2Inputs();
         }
 
-        return "";
+        return inputs;
     }
 
-    private string HandlePlayer1Input()
+    private List<string> GetPlayer1Inputs()
     {
-        if (Input.GetKey(KeyCode.A)) return "moveLeft";
-        if (Input.GetKey(KeyCode.D)) return "moveRight";
-        if (Input.GetKey(KeyCode.W)) return "jump";
-        if (Input.GetKey(KeyCode.S)) return "block";
-        if (Input.GetKey(KeyCode.J)) return "normalAtack";
-        if (Input.GetKey(KeyCode.K)) return "jump";
-        if (Input.GetKey(KeyCode.L)) return "dash";
-        if (Input.GetKey(KeyCode.U)) return "specialAttack1";
-        if (Input.GetKey(KeyCode.I)) return "specialAttack2";
-        return "";
+        List<string> inputs = new List<string>();
+
+        if (Input.GetKey(KeyCode.A)) inputs.Add("moveLeft");
+        if (Input.GetKey(KeyCode.D)) inputs.Add("moveRight");
+        if (Input.GetKey(KeyCode.W)) inputs.Add("jump");
+        if (Input.GetKey(KeyCode.S)) inputs.Add("block");
+        if (Input.GetKey(KeyCode.J)) inputs.Add("punchAttack");
+        if (Input.GetKey(KeyCode.K)) inputs.Add("kickAttack");
+        if (Input.GetKey(KeyCode.L)) inputs.Add("throwDart");
+        if (Input.GetKey(KeyCode.U)) inputs.Add("specialAttack1");
+        if (Input.GetKey(KeyCode.I)) inputs.Add("specialAttack2");
+
+        return inputs;
     }
 
-    private string HandlePlayer2Input()
+    private List<string> GetPlayer2Inputs()
     {
-        if (Input.GetKey(KeyCode.LeftArrow)) return "moveLeft";
-        if (Input.GetKey(KeyCode.RightArrow)) return "moveRight";
-        if (Input.GetKey(KeyCode.UpArrow)) return "jump";
-        if (Input.GetKey(KeyCode.DownArrow)) return "block";
-        if (Input.GetKey(KeyCode.Keypad1)) return "normalAtack";
-        if (Input.GetKey(KeyCode.Keypad2)) return "jump";
-        if (Input.GetKey(KeyCode.Keypad3)) return "dash";
-        if (Input.GetKey(KeyCode.Keypad4)) return "specialAttack1";
-        if (Input.GetKey(KeyCode.Keypad5)) return "specialAttack2";
-        return "";
+        List<string> inputs = new List<string>();
+
+        if (Input.GetKey(KeyCode.LeftArrow)) inputs.Add("moveLeft");
+        if (Input.GetKey(KeyCode.RightArrow)) inputs.Add("moveRight");
+        if (Input.GetKey(KeyCode.UpArrow)) inputs.Add("jump");
+        if (Input.GetKey(KeyCode.DownArrow)) inputs.Add("block");
+        if (Input.GetKey(KeyCode.Keypad1)) inputs.Add("punchAttack");
+        if (Input.GetKey(KeyCode.Keypad2)) inputs.Add("kickAttack");
+        if (Input.GetKey(KeyCode.Keypad3)) inputs.Add("throwDart");
+        if (Input.GetKey(KeyCode.Keypad4)) inputs.Add("specialAttack1");
+        if (Input.GetKey(KeyCode.Keypad5)) inputs.Add("specialAttack2");
+
+        return inputs;
     }
 }
 
