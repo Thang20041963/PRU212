@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 65d6c0260f39f8a4baccc52212e7c86e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1735008753636697516
+    second: kks_jump_run_0
+  - first:
+      213: 3195453918098047597
+    second: kks_jump_run_1
+  - first:
+      213: -5030151852068542863
+    second: kks_jump_run_2
+  - first:
+      213: -6736493695176515855
+    second: kks_jump_run_3
+  - first:
+      213: -67803395243500708
+    second: kks_jump_run_4
+  - first:
+      213: 8665985551530832672
+    second: kks_jump_run_5
+  - first:
+      213: -5683076204818951780
+    second: kks_jump_run_6
+  - first:
+      213: -234790095658143733
+    second: kks_jump_run_7
+  - first:
+      213: 5528274548170995147
+    second: kks_jump_run_8
+  - first:
+      213: -1082711344094980250
+    second: kks_jump_run_9
+  - first:
+      213: 2545503311135874422
+    second: kks_jump_run_10
+  - first:
+      213: -2939815188771097715
+    second: kks_jump_run_11
+  - first:
+      213: 7035708882863673164
+    second: kks_jump_run_12
+  - first:
+      213: 8858872200479577058
+    second: kks_jump_run_13
+  - first:
+      213: -1434777303714778103
+    second: kks_jump_run_14
+  - first:
+      213: 6222210196864139724
+    second: kks_jump_run_15
+  - first:
+      213: 4899998547813935458
+    second: kks_jump_run_16
+  - first:
+      213: -1791437426333008738
+    second: kks_jump_run_17
+  - first:
+      213: -723202933743639056
+    second: kks_jump_run_18
+  - first:
+      213: 4940367877387856744
+    second: kks_jump_run_19
+  - first:
+      213: -7670364257652635338
+    second: kks_jump_run_20
+  - first:
+      213: 707688258904151682
+    second: kks_jump_run_21
+  - first:
+      213: -1413438711097007606
+    second: kks_jump_run_22
+  - first:
+      213: -3136635366474181311
+    second: kks_jump_run_23
+  - first:
+      213: 7689750140457158095
+    second: kks_jump_run_24
+  - first:
+      213: 6091070495924950707
+    second: kks_jump_run_25
+  - first:
+      213: 1835964292003963660
+    second: kks_jump_run_26
+  - first:
+      213: 9073920997960941939
+    second: kks_jump_run_27
+  - first:
+      213: -4542597370966703010
+    second: kks_jump_run_28
+  - first:
+      213: -333037429703151760
+    second: kks_jump_run_29
+  - first:
+      213: 8839687703562187948
+    second: kks_jump_run_30
+  - first:
+      213: -226709890903675376
+    second: kks_jump_run_31
+  - first:
+      213: -7493627766352232661
+    second: kks_jump_run_32
+  - first:
+      213: 6776692317940121330
+    second: kks_jump_run_33
+  - first:
+      213: 5694958523246575390
+    second: kks_jump_run_34
+  - first:
+      213: 5783477473707872482
+    second: kks_jump_run_35
+  - first:
+      213: 6953430134186522611
+    second: kks_jump_run_36
+  - first:
+      213: 6667188391482201707
+    second: kks_jump_run_37
+  - first:
+      213: -4715968272673890326
+    second: kks_jump_run_38
+  - first:
+      213: 2850054271639412304
+    second: kks_jump_run_39
+  - first:
+      213: 6144516512145833154
+    second: kks_jump_run_40
+  - first:
+      213: 6845055484803785202
+    second: kks_jump_run_41
+  - first:
+      213: -5372216969583781563
+    second: kks_jump_run_42
+  - first:
+      213: -6930470521712435695
+    second: kks_jump_run_43
+  - first:
+      213: 1476322567237461788
+    second: kks_jump_run_44
+  - first:
+      213: 7397625330638265796
+    second: kks_jump_run_45
+  - first:
+      213: 1427093955416959005
+    second: kks_jump_run_46
+  - first:
+      213: 116454745379383035
+    second: kks_jump_run_47
+  - first:
+      213: 442806114297247285
+    second: kks_jump_run_48
+  - first:
+      213: -2861799826984604137
+    second: kks_jump_run_49
+  - first:
+      213: 963420751462948580
+    second: kks_jump_run_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kks_jump_run_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 565
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9a452bb20ce7e0800000000000000
+      internalID: -1735008753636697516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 565
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d624d548868885c20800000000000000
+      internalID: 3195453918098047597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1766e2b9a8f413ab0800000000000000
+      internalID: -5030151852068542863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 488
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe585bfcaa2382a0800000000000000
+      internalID: -6736493695176515855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 488
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b12f7db2d1f0ff0800000000000000
+      internalID: -67803395243500708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 488
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b9abd1f3c34870800000000000000
+      internalID: 8665985551530832672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 488
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919a4c4d48a121b0800000000000000
+      internalID: -5683076204818951780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 488
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003487e6abddbcf0800000000000000
+      internalID: -234790095658143733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 488
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5b098596068bc40800000000000000
+      internalID: 5528274548170995147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 488
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667deecd4cf69f0f0800000000000000
+      internalID: -1082711344094980250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 488
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d95da56c1735320800000000000000
+      internalID: 2545503311135874422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 488
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83300069ada337d0800000000000000
+      internalID: -2939815188771097715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_12
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 488
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f4622c3fbd3a160800000000000000
+      internalID: 7035708882863673164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 488
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31b2c745901fa70800000000000000
+      internalID: 8858872200479577058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 453
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904b940e4a5a61ce0800000000000000
+      internalID: -1434777303714778103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 457
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc186e5153bb95650800000000000000
+      internalID: 6222210196864139724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269216ac7ba400440800000000000000
+      internalID: 4899998547813935458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 383
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb416f6298327e0800000000000000
+      internalID: -1791437426333008738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 383
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a0b173caa6f5f0800000000000000
+      internalID: -723202933743639056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 383
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2477c866bf8440800000000000000
+      internalID: 4940367877387856744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 350
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63903c4d8546d8590800000000000000
+      internalID: -7670364257652635338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28652b3d8b632d900800000000000000
+      internalID: 707688258904151682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 270
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02e6412bf4726ce0800000000000000
+      internalID: -1413438711097007606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 269
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1451167b0ce6874d0800000000000000
+      internalID: -3136635366474181311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 270
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5857db20b77ba60800000000000000
+      internalID: 7689750140457158095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 269
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6187b1854d78450800000000000000
+      internalID: 6091070495924950707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 270
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03a235dbc7aa7910800000000000000
+      internalID: 1835964292003963660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 233
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3718b6b621b0ded70800000000000000
+      internalID: 9073920997960941939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 233
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5408e142c375f0c0800000000000000
+      internalID: -4542597370966703010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 233
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f62a1e830d06bf0800000000000000
+      internalID: -333037429703151760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 233
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47638b121ecaa70800000000000000
+      internalID: 8839687703562187948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 233
+        width: 76
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e6e9d2e809adcf0800000000000000
+      internalID: -226709890903675376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f329bdf39410890800000000000000
+      internalID: -7493627766352232661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 169
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe70fa32c5ab0e50800000000000000
+      internalID: 6776692317940121330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 164
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff1bc8a9e880f40800000000000000
+      internalID: 5694958523246575390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 164
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0d4d2ce1a034050800000000000000
+      internalID: 5783477473707872482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 168
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f73faebddb8f7060800000000000000
+      internalID: 6953430134186522611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 167
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6697ec848c968c50800000000000000
+      internalID: 6667188391482201707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_38
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 164
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef924f97d38d8eb0800000000000000
+      internalID: -4715968272673890326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 164
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ed6a3824d6d8720800000000000000
+      internalID: 2850054271639412304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc79f67635b54550800000000000000
+      internalID: 6144516512145833154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1a19f52b58efe50800000000000000
+      internalID: 6845055484803785202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54912af112d0275b0800000000000000
+      internalID: -5372216969583781563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 36
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e930b97c502df90800000000000000
+      internalID: -6930470521712435695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e4129d83fc7410800000000000000
+      internalID: 1476322567237461788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 26
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd102e3b05a9a660800000000000000
+      internalID: 7397625330638265796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 36
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182cb1346e0ec310800000000000000
+      internalID: 1427093955416959005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 36
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62fb259fabd9100800000000000000
+      internalID: 116454745379383035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 36
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536fe0b90d9252600800000000000000
+      internalID: 442806114297247285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_49
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 36
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eee464838d848d0800000000000000
+      internalID: -2861799826984604137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_jump_run_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 26
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee503ca112ce5d00800000000000000
+      internalID: 963420751462948580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kks_jump_run_0: -1735008753636697516
+      kks_jump_run_1: 3195453918098047597
+      kks_jump_run_10: 2545503311135874422
+      kks_jump_run_11: -2939815188771097715
+      kks_jump_run_12: 7035708882863673164
+      kks_jump_run_13: 8858872200479577058
+      kks_jump_run_14: -1434777303714778103
+      kks_jump_run_15: 6222210196864139724
+      kks_jump_run_16: 4899998547813935458
+      kks_jump_run_17: -1791437426333008738
+      kks_jump_run_18: -723202933743639056
+      kks_jump_run_19: 4940367877387856744
+      kks_jump_run_2: -5030151852068542863
+      kks_jump_run_20: -7670364257652635338
+      kks_jump_run_21: 707688258904151682
+      kks_jump_run_22: -1413438711097007606
+      kks_jump_run_23: -3136635366474181311
+      kks_jump_run_24: 7689750140457158095
+      kks_jump_run_25: 6091070495924950707
+      kks_jump_run_26: 1835964292003963660
+      kks_jump_run_27: 9073920997960941939
+      kks_jump_run_28: -4542597370966703010
+      kks_jump_run_29: -333037429703151760
+      kks_jump_run_3: -6736493695176515855
+      kks_jump_run_30: 8839687703562187948
+      kks_jump_run_31: -226709890903675376
+      kks_jump_run_32: -7493627766352232661
+      kks_jump_run_33: 6776692317940121330
+      kks_jump_run_34: 5694958523246575390
+      kks_jump_run_35: 5783477473707872482
+      kks_jump_run_36: 6953430134186522611
+      kks_jump_run_37: 6667188391482201707
+      kks_jump_run_38: -4715968272673890326
+      kks_jump_run_39: 2850054271639412304
+      kks_jump_run_4: -67803395243500708
+      kks_jump_run_40: 6144516512145833154
+      kks_jump_run_41: 6845055484803785202
+      kks_jump_run_42: -5372216969583781563
+      kks_jump_run_43: -6930470521712435695
+      kks_jump_run_44: 1476322567237461788
+      kks_jump_run_45: 7397625330638265796
+      kks_jump_run_46: 1427093955416959005
+      kks_jump_run_47: 116454745379383035
+      kks_jump_run_48: 442806114297247285
+      kks_jump_run_49: -2861799826984604137
+      kks_jump_run_5: 8665985551530832672
+      kks_jump_run_50: 963420751462948580
+      kks_jump_run_6: -5683076204818951780
+      kks_jump_run_7: -234790095658143733
+      kks_jump_run_8: 5528274548170995147
+      kks_jump_run_9: -1082711344094980250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
