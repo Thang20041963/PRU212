@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController : MonoBehaviour
+public abstract class CharacterController : MonoBehaviour
 {
     public string characterName;
     public Sprite characterSprite;
@@ -15,11 +15,22 @@ public class CharacterController : MonoBehaviour
     public LayerMask groundLayer;
     public Transform groundCheck;
 
+
+    public float dartCooldownDuration = 0.5f; // Duration of cooldown in seconds
+    private float dartCooldownTimer = 0.0f;
+
+    public float punchCooldownDuration = 0.3f; // Cooldown for punch attack
+    private float punchCooldownTimer = 0.0f;
+
+    public float kickCooldownDuration = 0.3f; // Cooldown for kick attack
+    private float kickCooldownTimer = 0.0f;
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteToDisplay;
+
     public InputHandler inputHandler;
-    
+
 
     private void Awake()
     {
@@ -62,6 +73,23 @@ public class CharacterController : MonoBehaviour
     private void Update()
     {
         if (inputHandler == null) return;
+
+        // Update the cooldown timer
+        if (dartCooldownTimer > 0)
+        {
+            dartCooldownTimer -= Time.deltaTime;
+        }
+
+        if (punchCooldownTimer > 0)
+        {
+            punchCooldownTimer -= Time.deltaTime;
+        }
+
+        if (kickCooldownTimer > 0)
+        {
+            kickCooldownTimer -= Time.deltaTime;
+        }
+
         List<string> currentInputs = inputHandler.GetCurrentInputs();
         HandleActions(currentInputs);
     }
@@ -71,6 +99,18 @@ public class CharacterController : MonoBehaviour
         bool isMovingLeft = actions.Contains("moveLeft");
         bool isMovingRight = actions.Contains("moveRight");
         bool isJumping = actions.Contains("jump");
+
+        bool isFighting = actions.Contains("punchAttack") ||
+                      actions.Contains("kickAttack") ||
+                      actions.Contains("specialAttack1") ||
+                      actions.Contains("specialAttack2");
+
+        // Allow only move and jump actions together, block fight actions
+        if ((isMovingLeft || isMovingRight || isJumping) && isFighting)
+        {
+            Debug.Log("Cannot fight while moving or jumping.");
+            return;
+        }
 
         if (isMovingLeft && isJumping)
         {
@@ -125,15 +165,42 @@ public class CharacterController : MonoBehaviour
         animator.SetBool("grounded", true);
     }
 
-    private void Block() => Debug.Log($"{characterName} is blocking!");
-    private void PunchAttack() 
+    protected bool CanThrowDart()
     {
-    
+        return dartCooldownTimer <= 0;
     }
-    private void KickAttack() => Debug.Log($"{characterName} is performing a normal attack!");
-    private void SpecialAttack1() => Debug.Log($"{characterName} is performing special attack 1!");
-    private void SpecialAttack2() => Debug.Log($"{characterName} is performing special attack 2!");
-    private void ThrowDart() => Debug.Log($"{characterName} is throwing dart!");
+
+    protected void StartDartCooldown()
+    {
+        dartCooldownTimer = dartCooldownDuration;
+    }
+
+    protected bool CanPunch()
+    {
+        return punchCooldownTimer <= 0 && IsGrounded();
+    }
+
+    protected void StartPunchCooldown()
+    {
+        punchCooldownTimer = punchCooldownDuration;
+    }
+
+    protected bool CanKick()
+    {
+        return kickCooldownTimer <= 0 && IsGrounded();
+    }
+
+    protected void StartKickCooldown()
+    {
+        kickCooldownTimer = kickCooldownDuration;
+    }
+
+    public abstract void Block();
+    public abstract void PunchAttack();
+    public abstract void KickAttack();
+    public abstract void SpecialAttack1();
+    public abstract void SpecialAttack2();
+    public abstract void ThrowDart();
     private void StopMovement()
     {
         rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
