@@ -138,6 +138,7 @@ public class CharacterController : MonoBehaviour
     {
         rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         animator.SetBool("run", false);
+        animator.SetBool("jump", false);
     }
 
     private bool IsGrounded() => Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
