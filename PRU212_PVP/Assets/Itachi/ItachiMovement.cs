@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Kakashi : CharacterController
+public class ItachiMovement : CharacterController
 {
 
     public Transform dartPoint;
@@ -8,7 +8,6 @@ public class Kakashi : CharacterController
     public float punchRange = 0.3f;
     public float kickRange = 0.5f;
     public GameObject[] darts;
-
     public override void Block()
     {
         Debug.Log("Blocking");
@@ -42,7 +41,6 @@ public class Kakashi : CharacterController
             }
             StartPunchCooldown();
         }
-
     }
 
     public override void SpecialAttack1()
@@ -65,15 +63,13 @@ public class Kakashi : CharacterController
             StartDartCooldown();
         }
     }
-
     private int FindDart()
     {
-        for (int i = 0; i < darts.Length; i++) 
+        for (int i = 0; i < darts.Length; i++)
         {
             if (!darts[i].gameObject.activeInHierarchy)
                 return i;
         }
         return 0;
     }
-
 }

@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 3598d6f825aaa76479f6c2c7900d0ce9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 964077277037600187
+    second: kks_throw_0
+  - first:
+      213: -7755727952125275807
+    second: kks_throw_1
+  - first:
+      213: -1354115321861936123
+    second: kks_throw_2
+  - first:
+      213: 3916233082198799220
+    second: kks_throw_3
+  - first:
+      213: 8118895623592863607
+    second: kks_throw_4
+  - first:
+      213: 6372170945166686964
+    second: kks_throw_5
+  - first:
+      213: 7461202937774721025
+    second: kks_throw_6
+  - first:
+      213: -8611144910691437662
+    second: kks_throw_7
+  - first:
+      213: 3682960475811480258
+    second: kks_throw_8
+  - first:
+      213: -4557247357655508995
+    second: kks_throw_9
+  - first:
+      213: -5642747292121125845
+    second: kks_throw_10
+  - first:
+      213: -2205788643865606686
+    second: kks_throw_11
+  - first:
+      213: -356947255430720933
+    second: kks_throw_12
+  - first:
+      213: 4987992410210955835
+    second: kks_throw_13
+  - first:
+      213: 3080655953178012478
+    second: kks_throw_14
+  - first:
+      213: 8545642330195067888
+    second: kks_throw_15
+  - first:
+      213: 7226132577309487646
+    second: kks_throw_16
+  - first:
+      213: 1121217247720892597
+    second: kks_throw_17
+  - first:
+      213: 673504626819474916
+    second: kks_throw_18
+  - first:
+      213: -1408517149733452713
+    second: kks_throw_19
+  - first:
+      213: 3612068576694926368
+    second: kks_throw_20
+  - first:
+      213: -4402610671045166413
+    second: kks_throw_21
+  - first:
+      213: -9112185272580811800
+    second: kks_throw_22
+  - first:
+      213: -8576849279902752786
+    second: kks_throw_23
+  - first:
+      213: -4321680906355084643
+    second: kks_throw_24
+  - first:
+      213: -7354091590425444973
+    second: kks_throw_25
+  - first:
+      213: -7457458774739765995
+    second: kks_throw_26
+  - first:
+      213: -4705204723846773640
+    second: kks_throw_27
+  - first:
+      213: 6252548700958406302
+    second: kks_throw_28
+  - first:
+      213: -7423825587066098130
+    second: kks_throw_29
+  - first:
+      213: 4914026784410912045
+    second: kks_throw_30
+  - first:
+      213: 4958757681636322478
+    second: kks_throw_31
+  - first:
+      213: -5393487712385914874
+    second: kks_throw_32
+  - first:
+      213: 8139189178964849025
+    second: kks_throw_33
+  - first:
+      213: 2167493932183921913
+    second: kks_throw_34
+  - first:
+      213: 8484543757371600827
+    second: kks_throw_35
+  - first:
+      213: -4697636823787136243
+    second: kks_throw_36
+  - first:
+      213: -8465159067145598992
+    second: kks_throw_37
+  - first:
+      213: -1194232197051503826
+    second: kks_throw_38
+  - first:
+      213: 1272339124603178234
+    second: kks_throw_39
+  - first:
+      213: -2968598764980976723
+    second: kks_throw_40
+  - first:
+      213: 6510672345331606745
+    second: kks_throw_41
+  - first:
+      213: 3699989155483333933
+    second: kks_throw_42
+  - first:
+      213: 4067253861249900241
+    second: kks_throw_43
+  - first:
+      213: -6720634998496850580
+    second: kks_throw_44
+  - first:
+      213: -4956777039264995822
+    second: kks_throw_45
+  - first:
+      213: 9183926188615474813
+    second: kks_throw_46
+  - first:
+      213: -2539884995443400043
+    second: kks_throw_47
+  - first:
+      213: -8020152306926009800
+    second: kks_throw_48
+  - first:
+      213: 7329385298856981928
+    second: kks_throw_49
+  - first:
+      213: -3633543429476970
+    second: kks_throw_50
+  - first:
+      213: 7764384343226579682
+    second: kks_throw_51
+  - first:
+      213: -7944244497610882634
+    second: kks_throw_52
+  - first:
+      213: 3048502717601998932
+    second: kks_throw_53
+  - first:
+      213: 3358107545630388583
+    second: kks_throw_54
+  - first:
+      213: 1540100699768769247
+    second: kks_throw_55
+  - first:
+      213: 7905550497224919221
+    second: kks_throw_56
+  - first:
+      213: 4232262075673161132
+    second: kks_throw_57
+  - first:
+      213: -4596397581783043814
+    second: kks_throw_58
+  - first:
+      213: 5296962979853115140
+    second: kks_throw_59
+  - first:
+      213: -4920799083156634038
+    second: kks_throw_60
+  - first:
+      213: 816138009379164005
+    second: kks_throw_61
+  - first:
+      213: 3589960283831854131
+    second: kks_throw_62
+  - first:
+      213: -787461744754242718
+    second: kks_throw_63
+  - first:
+      213: -4436200435054595314
+    second: kks_throw_64
+  - first:
+      213: 669711791291750860
+    second: kks_throw_65
+  - first:
+      213: -6761876501831706166
+    second: kks_throw_66
+  - first:
+      213: -6162954152596362927
+    second: kks_throw_67
+  - first:
+      213: -7375417504803251642
+    second: kks_throw_68
+  - first:
+      213: -71897793397512132
+    second: kks_throw_69
+  - first:
+      213: 3314927456021654485
+    second: kks_throw_70
+  - first:
+      213: -3129502412929321620
+    second: kks_throw_71
+  - first:
+      213: 5527883639916463862
+    second: kks_throw_72
+  - first:
+      213: -323184726436965484
+    second: kks_throw_73
+  - first:
+      213: -6832913650153844942
+    second: kks_throw_74
+  - first:
+      213: 8763144608395617032
+    second: kks_throw_75
+  - first:
+      213: 5003538595792583355
+    second: kks_throw_76
+  - first:
+      213: -6373689493995358803
+    second: kks_throw_77
+  - first:
+      213: 3549112332505504906
+    second: kks_throw_78
+  - first:
+      213: 7241348174794050847
+    second: kks_throw_79
+  - first:
+      213: 4958458142180789700
+    second: kks_throw_80
+  - first:
+      213: 1300512539779878294
+    second: kks_throw_81
+  - first:
+      213: 9212185810937410171
+    second: kks_throw_82
+  - first:
+      213: -1336474340360609146
+    second: kks_throw_83
+  - first:
+      213: -6222667075733131847
+    second: kks_throw_84
+  - first:
+      213: -4000050383263415151
+    second: kks_throw_85
+  - first:
+      213: -5862727127209532980
+    second: kks_throw_86
+  - first:
+      213: -1383410387539420655
+    second: kks_throw_87
+  - first:
+      213: 7097627656161856067
+    second: kks_throw_88
+  - first:
+      213: 9028588680084394504
+    second: kks_throw_89
+  - first:
+      213: 7607264902345650587
+    second: kks_throw_90
+  - first:
+      213: 4276690741379629991
+    second: kks_throw_91
+  - first:
+      213: -3486030982106163758
+    second: kks_throw_92
+  - first:
+      213: 1666184667594912543
+    second: kks_throw_93
+  - first:
+      213: 1177694720328886679
+    second: kks_throw_94
+  - first:
+      213: -254186885253564009
+    second: kks_throw_95
+  - first:
+      213: -2531823901694139535
+    second: kks_throw_96
+  - first:
+      213: 7084114015970453615
+    second: kks_throw_97
+  - first:
+      213: -7785556442621513093
+    second: kks_throw_98
+  - first:
+      213: 7150356537195124866
+    second: kks_throw_99
+  - first:
+      213: 2637509202156691380
+    second: kks_throw_100
+  - first:
+      213: -2449471056451125668
+    second: kks_throw_101
+  - first:
+      213: 110763051669463018
+    second: kks_throw_102
+  - first:
+      213: -9120600500179009912
+    second: kks_throw_103
+  - first:
+      213: -3248205406892745965
+    second: kks_throw_104
+  - first:
+      213: 5800723438455550363
+    second: kks_throw_105
+  - first:
+      213: -2436575979955583830
+    second: kks_throw_106
+  - first:
+      213: 3053466778753357151
+    second: kks_throw_107
+  - first:
+      213: -1336619550801590832
+    second: kks_throw_108
+  - first:
+      213: -7603307091601411956
+    second: kks_throw_109
+  - first:
+      213: 9110713837670583195
+    second: kks_throw_110
+  - first:
+      213: -4067396776174917574
+    second: kks_throw_111
+  - first:
+      213: -5233659809089901598
+    second: kks_throw_112
+  - first:
+      213: 1958996945572619873
+    second: kks_throw_113
+  - first:
+      213: 158506089588041482
+    second: kks_throw_114
+  - first:
+      213: 2705158595140557424
+    second: kks_throw_115
+  - first:
+      213: 5544453793612898430
+    second: kks_throw_116
+  - first:
+      213: -1442711099808651611
+    second: kks_throw_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kks_throw_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 401
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd1ad1fc27116d00800000000000000
+      internalID: 964077277037600187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 401
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1615107e48e1e5490800000000000000
+      internalID: -7755727952125275807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 401
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c61870a47353de0800000000000000
+      internalID: -1354115321861936123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 401
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b71a3d31495630800000000000000
+      internalID: 3916233082198799220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 401
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e9bccd8c1ca070800000000000000
+      internalID: 8118895623592863607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 401
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab9b2a6bf7e6850800000000000000
+      internalID: 6372170945166686964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_6
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 399
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108c92f6a848b8760800000000000000
+      internalID: 7461202937774721025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 399
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f2d8d3511f7880800000000000000
+      internalID: -8611144910691437662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 399
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c20c822a018c1330800000000000000
+      internalID: 3682960475811480258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 399
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71b5d6ca761c0c0800000000000000
+      internalID: -4557247357655508995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 399
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca2dffb3fe0b1b0800000000000000
+      internalID: -5642747292121125845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 399
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5ccc84ae67361e0800000000000000
+      internalID: -2205788643865606686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 399
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b525084cc5edb0bf0800000000000000
+      internalID: -356947255430720933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_13
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 399
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f7f86ba8e83540800000000000000
+      internalID: 4987992410210955835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_14
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 362
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b2e547440b0ca20800000000000000
+      internalID: 3080655953178012478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 362
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f381dc2c68389670800000000000000
+      internalID: 8545642330195067888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 362
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f86a1b41684460800000000000000
+      internalID: 7226132577309487646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_17
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 362
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8e176752d5f8f00800000000000000
+      internalID: 1121217247720892597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_18
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 362
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e52824c3e4c85900800000000000000
+      internalID: 673504626819474916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_19
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 362
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754871e6d11f37ce0800000000000000
+      internalID: -1408517149733452713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_20
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 362
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c7042ab35a02230800000000000000
+      internalID: 3612068576694926368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_21
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 362
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba3204bbe8c6e2c0800000000000000
+      internalID: -4402610671045166413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_22
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 362
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35644e5c30b8180800000000000000
+      internalID: -9112185272580811800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_23
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 362
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd453a509e8f880800000000000000
+      internalID: -8576849279902752786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_24
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 362
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92fd18ec1e4604c0800000000000000
+      internalID: -4321680906355084643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 360
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39df00389a401f990800000000000000
+      internalID: -7354091590425444973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515348471c8c18890800000000000000
+      internalID: -7457458774739765995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_27
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8748f9f9b31c3beb0800000000000000
+      internalID: -4705204723846773640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96b4758ae385c650800000000000000
+      internalID: 6252548700958406302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_29
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e287036f549f890800000000000000
+      internalID: -7423825587066098130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 322
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2541952351223440800000000000000
+      internalID: 4914026784410912045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_31
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac2c2db6db01d440800000000000000
+      internalID: 4958757681636322478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_32
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608adc2608b7625b0800000000000000
+      internalID: -5393487712385914874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_33
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18137eb5f6534f070800000000000000
+      internalID: 8139189178964849025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_34
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f423a85f3c741e10800000000000000
+      internalID: 2167493932183921913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_35
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf646328972fb570800000000000000
+      internalID: 8484543757371600827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_36
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 320
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b9f5aa234aeceb0800000000000000
+      internalID: -4697636823787136243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_37
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 320
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70c93cda6b58a80800000000000000
+      internalID: -8465159067145598992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 320
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b2963e42c3d6fe0800000000000000
+      internalID: -1194232197051503826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_39
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 320
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afccdc351b148a110800000000000000
+      internalID: 1272339124603178234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_40
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 325
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da345acc62b6dc6d0800000000000000
+      internalID: -2968598764980976723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_41
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 290
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42378c00e8a5a50800000000000000
+      internalID: 6510672345331606745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_42
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 291
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b1659880095330800000000000000
+      internalID: 3699989155483333933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_43
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 291
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ded22b66d9c17830800000000000000
+      internalID: 4067253861249900241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_44
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 276
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d898983128bb2a0800000000000000
+      internalID: -6720634998496850580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_45
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 279
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2162ccf7b8df53bb0800000000000000
+      internalID: -4956777039264995822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_46
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 277
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e15d3c53cd37f70800000000000000
+      internalID: 9183926188615474813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_47
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 278
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5926044bd0480ccd0800000000000000
+      internalID: -2539884995443400043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_48
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832452d28f1b2b090800000000000000
+      internalID: -8020152306926009800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_49
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a53758b81537b560800000000000000
+      internalID: 7329385298856981928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_50
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 279
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2c9ebf4713fff0800000000000000
+      internalID: -3633543429476970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_51
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 278
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaff953c62a0cb60800000000000000
+      internalID: 7764384343226579682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_52
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 278
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14d0748bf50c190800000000000000
+      internalID: -7944244497610882634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_53
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 279
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ea7be1157e4a20800000000000000
+      internalID: 3048502717601998932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761bbde45056a9e20800000000000000
+      internalID: 3358107545630388583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda4c083d698f5510800000000000000
+      internalID: 1540100699768769247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 178
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b80105ba4826bd60800000000000000
+      internalID: 7905550497224919221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 216
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2bd03fe30cba30800000000000000
+      internalID: 4232262075673161132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 216
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117b5b80c05630c0800000000000000
+      internalID: -4596397581783043814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 212
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f1a8204c7928940800000000000000
+      internalID: 5296962979853115140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_60
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 215
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46816d2e4fc5bbb0800000000000000
+      internalID: -4920799083156634038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_61
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 217
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f4db80231835b00800000000000000
+      internalID: 816138009379164005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_62
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 216
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ee839bd912d130800000000000000
+      internalID: 3589960283831854131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_63
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 216
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc6bd17bf5215f0800000000000000
+      internalID: -787461744754242718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_64
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03332455337f62c0800000000000000
+      internalID: -4436200435054595314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_65
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d5dd635b4b4900800000000000000
+      internalID: 669711791291750860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_66
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 239
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac99245c52df822a0800000000000000
+      internalID: -6761876501831706166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_67
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159a977d9d9c87aa0800000000000000
+      internalID: -6162954152596362927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_68
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 239
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a11042bd045a990800000000000000
+      internalID: -7375417504803251642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_69
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38286c7651900ff0800000000000000
+      internalID: -71897793397512132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_70
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 239
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2c5045fcf00e20800000000000000
+      internalID: 3314927456021654485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_71
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65be91e226c194d0800000000000000
+      internalID: -3129502412929321620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_72
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 239
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60aece1ecf6bc40800000000000000
+      internalID: 5527883639916463862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_73
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49394ef1431d38bf0800000000000000
+      internalID: -323184726436965484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_74
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 239
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f89adcc3d9c21a0800000000000000
+      internalID: -6832913650153844942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_75
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ecca9791fc9970800000000000000
+      internalID: 8763144608395617032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_76
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 239
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba7c2ec7d3207540800000000000000
+      internalID: 5003538595792583355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_77
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da574c9ac2b1c87a0800000000000000
+      internalID: -6373689493995358803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_78
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 239
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd2f6ccdaf04130800000000000000
+      internalID: 3549112332505504906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_79
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dc5857ccf6e7460800000000000000
+      internalID: 7241348174794050847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4456c86bffc440800000000000000
+      internalID: 4958458142180789700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4587b3495c0210800000000000000
+      internalID: 1300512539779878294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_82
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 178
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7271d1df2248df70800000000000000
+      internalID: 9212185810937410171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682a16b1ba3e37de0800000000000000
+      internalID: -1336474340360609146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 178
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd68638345a4a9a0800000000000000
+      internalID: -6222667075733131847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 178
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944bed9e57fc78c0800000000000000
+      internalID: -4000050383263415151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc121a76db863aea0800000000000000
+      internalID: -5862727127209532980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 94
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a902805932dcce0800000000000000
+      internalID: -1383410387539420655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 94
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a04899fb6df7260800000000000000
+      internalID: 7097627656161856067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 94
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8021b8ba19dfb4d70800000000000000
+      internalID: 9028588680084394504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 122
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fb98af1f629960800000000000000
+      internalID: 7607264902345650587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 112
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a38226029bd95b30800000000000000
+      internalID: 4276690741379629991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 94
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d55e83aa412f9fc0800000000000000
+      internalID: -3486030982106163758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 94
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13723a902a7f1710800000000000000
+      internalID: 1666184667594912543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_94
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 94
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7996e03cb13085010800000000000000
+      internalID: 1177694720328886679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 103
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f5e5ef52f87cf0800000000000000
+      internalID: -254186885253564009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 103
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736da953972ddcd0800000000000000
+      internalID: -2531823901694139535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_97
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 103
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e84e0a24df4260800000000000000
+      internalID: 7084114015970453615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_98
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 103
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727ac24aa524f390800000000000000
+      internalID: -7785556442621513093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_99
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 115
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28858e8e26b2b3360800000000000000
+      internalID: 7150356537195124866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9f5e25a05a9420800000000000000
+      internalID: 2637509202156691380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e31a05d0bb10ed0800000000000000
+      internalID: -2449471056451125668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_102
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1ffc9862898100800000000000000
+      internalID: 110763051669463018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_103
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e74980b2e1d6180800000000000000
+      internalID: -9120600500179009912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_104
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b97a4646e0ce2d0800000000000000
+      internalID: -3248205406892745965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_105
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fc65db3f408050800000000000000
+      internalID: 5800723438455550363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 94
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa48f764e0b8f2ed0800000000000000
+      internalID: -2436575979955583830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_107
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55dc097bd7106a20800000000000000
+      internalID: 3053466778753357151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 94
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d501aaa99f537de0800000000000000
+      internalID: -1336619550801590832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_109
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b3e6fb70ab7690800000000000000
+      internalID: -7603307091601411956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_110
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 94
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4798f6f1cf6e70800000000000000
+      internalID: 9110713837670583195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_111
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38668b9e24bd87c0800000000000000
+      internalID: -4067396776174917574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_112
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 94
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb25fbf12e4e57b0800000000000000
+      internalID: -5233659809089901598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_113
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1666ee0c751cf2b10800000000000000
+      internalID: 1958996945572619873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07a1acd270233200800000000000000
+      internalID: 158506089588041482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_115
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 14
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9274e867aa8520800000000000000
+      internalID: 2705158595140557424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702dd9795bd1fc40800000000000000
+      internalID: 5544453793612898430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kks_throw_117
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6646606e57afbe0800000000000000
+      internalID: -1442711099808651611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kks_throw_0: 964077277037600187
+      kks_throw_1: -7755727952125275807
+      kks_throw_10: -5642747292121125845
+      kks_throw_100: 2637509202156691380
+      kks_throw_101: -2449471056451125668
+      kks_throw_102: 110763051669463018
+      kks_throw_103: -9120600500179009912
+      kks_throw_104: -3248205406892745965
+      kks_throw_105: 5800723438455550363
+      kks_throw_106: -2436575979955583830
+      kks_throw_107: 3053466778753357151
+      kks_throw_108: -1336619550801590832
+      kks_throw_109: -7603307091601411956
+      kks_throw_11: -2205788643865606686
+      kks_throw_110: 9110713837670583195
+      kks_throw_111: -4067396776174917574
+      kks_throw_112: -5233659809089901598
+      kks_throw_113: 1958996945572619873
+      kks_throw_114: 158506089588041482
+      kks_throw_115: 2705158595140557424
+      kks_throw_116: 5544453793612898430
+      kks_throw_117: -1442711099808651611
+      kks_throw_12: -356947255430720933
+      kks_throw_13: 4987992410210955835
+      kks_throw_14: 3080655953178012478
+      kks_throw_15: 8545642330195067888
+      kks_throw_16: 7226132577309487646
+      kks_throw_17: 1121217247720892597
+      kks_throw_18: 673504626819474916
+      kks_throw_19: -1408517149733452713
+      kks_throw_2: -1354115321861936123
+      kks_throw_20: 3612068576694926368
+      kks_throw_21: -4402610671045166413
+      kks_throw_22: -9112185272580811800
+      kks_throw_23: -8576849279902752786
+      kks_throw_24: -4321680906355084643
+      kks_throw_25: -7354091590425444973
+      kks_throw_26: -7457458774739765995
+      kks_throw_27: -4705204723846773640
+      kks_throw_28: 6252548700958406302
+      kks_throw_29: -7423825587066098130
+      kks_throw_3: 3916233082198799220
+      kks_throw_30: 4914026784410912045
+      kks_throw_31: 4958757681636322478
+      kks_throw_32: -5393487712385914874
+      kks_throw_33: 8139189178964849025
+      kks_throw_34: 2167493932183921913
+      kks_throw_35: 8484543757371600827
+      kks_throw_36: -4697636823787136243
+      kks_throw_37: -8465159067145598992
+      kks_throw_38: -1194232197051503826
+      kks_throw_39: 1272339124603178234
+      kks_throw_4: 8118895623592863607
+      kks_throw_40: -2968598764980976723
+      kks_throw_41: 6510672345331606745
+      kks_throw_42: 3699989155483333933
+      kks_throw_43: 4067253861249900241
+      kks_throw_44: -6720634998496850580
+      kks_throw_45: -4956777039264995822
+      kks_throw_46: 9183926188615474813
+      kks_throw_47: -2539884995443400043
+      kks_throw_48: -8020152306926009800
+      kks_throw_49: 7329385298856981928
+      kks_throw_5: 6372170945166686964
+      kks_throw_50: -3633543429476970
+      kks_throw_51: 7764384343226579682
+      kks_throw_52: -7944244497610882634
+      kks_throw_53: 3048502717601998932
+      kks_throw_54: 3358107545630388583
+      kks_throw_55: 1540100699768769247
+      kks_throw_56: 7905550497224919221
+      kks_throw_57: 4232262075673161132
+      kks_throw_58: -4596397581783043814
+      kks_throw_59: 5296962979853115140
+      kks_throw_6: 7461202937774721025
+      kks_throw_60: -4920799083156634038
+      kks_throw_61: 816138009379164005
+      kks_throw_62: 3589960283831854131
+      kks_throw_63: -787461744754242718
+      kks_throw_64: -4436200435054595314
+      kks_throw_65: 669711791291750860
+      kks_throw_66: -6761876501831706166
+      kks_throw_67: -6162954152596362927
+      kks_throw_68: -7375417504803251642
+      kks_throw_69: -71897793397512132
+      kks_throw_7: -8611144910691437662
+      kks_throw_70: 3314927456021654485
+      kks_throw_71: -3129502412929321620
+      kks_throw_72: 5527883639916463862
+      kks_throw_73: -323184726436965484
+      kks_throw_74: -6832913650153844942
+      kks_throw_75: 8763144608395617032
+      kks_throw_76: 5003538595792583355
+      kks_throw_77: -6373689493995358803
+      kks_throw_78: 3549112332505504906
+      kks_throw_79: 7241348174794050847
+      kks_throw_8: 3682960475811480258
+      kks_throw_80: 4958458142180789700
+      kks_throw_81: 1300512539779878294
+      kks_throw_82: 9212185810937410171
+      kks_throw_83: -1336474340360609146
+      kks_throw_84: -6222667075733131847
+      kks_throw_85: -4000050383263415151
+      kks_throw_86: -5862727127209532980
+      kks_throw_87: -1383410387539420655
+      kks_throw_88: 7097627656161856067
+      kks_throw_89: 9028588680084394504
+      kks_throw_9: -4557247357655508995
+      kks_throw_90: 7607264902345650587
+      kks_throw_91: 4276690741379629991
+      kks_throw_92: -3486030982106163758
+      kks_throw_93: 1666184667594912543
+      kks_throw_94: 1177694720328886679
+      kks_throw_95: -254186885253564009
+      kks_throw_96: -2531823901694139535
+      kks_throw_97: 7084114015970453615
+      kks_throw_98: -7785556442621513093
+      kks_throw_99: 7150356537195124866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
