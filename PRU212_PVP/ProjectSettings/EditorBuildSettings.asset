@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Levels/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/CharacterSelection.unity
+    path: Assets/Levels/CharacterSelection.unity
     guid: fe6f09a64a40c924ba6428fe13c5ee6d
   - enabled: 1
-    path: Assets/Scenes/MapSelection.unity
+    path: Assets/Levels/MapSelection.unity
     guid: 90da5cb7be5306e4caafb072de4f593b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
