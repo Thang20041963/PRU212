@@ -17,4 +17,8 @@ public class CharacterDatabase : ScriptableObject
     {
         return character[index];
     }
+    public Sprite getCharacterSprite(int index)
+    {
+        return character[index].characterSprite;
+    }
 }

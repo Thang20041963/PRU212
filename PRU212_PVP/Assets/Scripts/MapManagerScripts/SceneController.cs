@@ -10,10 +10,6 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadScene(sceneName, LoadSceneMode.Single);
     }
 
-    /// <summary>
-    /// Closes the current scene and opens a new one by its build index.
-    /// </summary>
-    /// <param name="sceneIndex">The index of the scene to open.</param>
     public void OpenSceneByIndex(int sceneIndex)
     {
         // Ensure the new scene replaces the current one

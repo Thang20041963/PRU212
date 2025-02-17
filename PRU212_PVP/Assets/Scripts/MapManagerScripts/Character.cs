@@ -9,5 +9,6 @@ public class Character
     public float atk;
     public float def;
     public float mana;
+    public GameObject character;
 
 }

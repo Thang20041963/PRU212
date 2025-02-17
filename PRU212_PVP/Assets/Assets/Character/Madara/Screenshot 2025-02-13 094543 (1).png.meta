@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1cd8459d104b5394f8a4a9dcc4f0eff1
+guid: 6cae2c245db00b644be490b79ed50802
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -757711064242525727
-    second: Naruto_0
+      213: -3262272348957740320
+    second: Screenshot 2025-02-13 094543 (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Naruto_0
+      name: Screenshot 2025-02-13 094543 (1)_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 736
-        height: 414
+        width: 183
+        height: 129
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e9e0753dc11c75f0800000000000000
-      internalID: -757711064242525727
+      spriteID: 0e27bc735941ab2d0800000000000000
+      internalID: -3262272348957740320
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Naruto_0: -757711064242525727
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

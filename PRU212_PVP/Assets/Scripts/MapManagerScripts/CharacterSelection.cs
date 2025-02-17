@@ -13,14 +13,14 @@ public class CharacterSelection : MonoBehaviour
 
     void Start()
     {
-       
+      
         selectedCharacterOption = PlayerPrefs.GetInt($"{playerID}_selectedCharacterOption", 0);
         UpdateCharacter(selectedCharacterOption);
     }
 
     public void NextOption()
     {
-        
+        Debug.Log("Next");
         selectedCharacterOption = (selectedCharacterOption + 1) % characterDB.CharacterCount;
         UpdateCharacter(selectedCharacterOption);
         Save();
@@ -28,7 +28,7 @@ public class CharacterSelection : MonoBehaviour
 
     public void BackOption()
     {
-        
+        Debug.Log("Back");
         selectedCharacterOption = (selectedCharacterOption - 1 + characterDB.CharacterCount) % characterDB.CharacterCount;
         UpdateCharacter(selectedCharacterOption);
         Save();
@@ -36,6 +36,7 @@ public class CharacterSelection : MonoBehaviour
 
     private void UpdateCharacter(int selectOption)
     {
+        Debug.Log(selectOption);
         Character character = characterDB.GetCharacter(selectOption);
 
       

@@ -9,17 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScene.unity
     guid: d5077aef3fa6eb943a56741bc4cc6776
   - enabled: 1
-    path: Assets/Levels/CharacterSelection.unity
-    guid: fe6f09a64a40c924ba6428fe13c5ee6d
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: edb6a6f3f42332745b99f903a9f6d544
   - enabled: 1
-    path: Assets/Levels/MapSelection.unity
-    guid: 90da5cb7be5306e4caafb072de4f593b
+    path: Assets/Scenes/MapSelection.unity
+    guid: e1d3367426e4ac641bfea94039f25fcf
   - enabled: 1
     path: Assets/Scenes/FightingScene.unity
     guid: 0e37ad3820a97cf498796945586233d0
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
