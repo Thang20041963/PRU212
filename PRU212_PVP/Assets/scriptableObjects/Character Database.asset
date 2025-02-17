@@ -9,77 +9,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4188e08c6afe3dc42b40b63538b66cc8, type: 3}
+  m_Script: {fileID: 11500000, guid: 1be6420828ebf9147a4825ef6bef81d4, type: 3}
   m_Name: Character Database
   m_EditorClassIdentifier: 
   character:
-  - characterName: Deidara
-    characterSprite: {fileID: -5417266599746277689, guid: fe19802590445044b869188eddff5064, type: 3}
+  - characterName: Madara
+    characterSprite: {fileID: -3262272348957740320, guid: 6cae2c245db00b644be490b79ed50802, type: 3}
     health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Jugo
-    characterSprite: {fileID: -8197096490766115807, guid: cb8ab44abd903db4ab9887820bd0e28c, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
+    speed: 10
+    atk: 10
+    def: 10
+    mana: 10
+    character: {fileID: 5706290745374673860, guid: 7a21445a0857df94daab219201ff1c66, type: 3}
   - characterName: Kakashi
-    characterSprite: {fileID: -7864600565801719157, guid: b4bf708f67ba93f4abf6810a219ab61b, type: 3}
+    characterSprite: {fileID: 1208040086343421634, guid: 936c4a3eb4fc4e54f9281a72d21c8444, type: 3}
     health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Karin
-    characterSprite: {fileID: 6093325839638765291, guid: b60d0dfc06350e446b97c00d3d076bfe, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: naruto
-    characterSprite: {fileID: 9067339219352217995, guid: 37bf4a0c7eeb90e4c960e6103028228d, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Pain
-    characterSprite: {fileID: 43226203873635761, guid: 8ca206675709cfd4b96132f27ce8b111, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Sai
-    characterSprite: {fileID: -4386341367436440987, guid: 32075337be2388e40b4e13ad3be2c376, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Sakura
-    characterSprite: {fileID: 6671892880758633050, guid: b62c9e5985c36a2469c8dccf178aa343, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Sasuke
-    characterSprite: {fileID: -6940842658267130003, guid: 07eb7dda89148554cac0afba63fc242f, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
-  - characterName: Suigetsu
-    characterSprite: {fileID: 3740727523450411404, guid: 8e260015e0184e24399280ebc63b235d, type: 3}
-    health: 100
-    speed: 5
-    atk: 5
-    def: 5
-    mana: 5
+    speed: 10
+    atk: 10
+    def: 10
+    mana: 10
+    character: {fileID: 1536920935930106218, guid: 1fe318db940c2844a9e87cbd695b9b78, type: 3}

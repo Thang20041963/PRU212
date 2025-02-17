@@ -35,22 +35,46 @@ public class GameManager : MonoBehaviour
 
     private void InitializePlayers()
     {
-        int player1selectionId = PlayerPrefs.GetInt("1_selectedCharacterOption",0);
-        int player2selectionId = PlayerPrefs.GetInt("2_selectedCharacterOption",0);
+        int player1selectionId = PlayerPrefs.GetInt("1_selectedCharacterOption", 0);
+        int player2selectionId = PlayerPrefs.GetInt("2_selectedCharacterOption", 0);
+
         Debug.Log(player1selectionId);
         Debug.Log(player2selectionId);
+
         Character player1Character = CharacterDB.GetCharacter(player1selectionId);
+        Character player2Character = CharacterDB.GetCharacter(player2selectionId);
 
-        Character player2Character = CharacterDB.GetCharacter(player2selectionId);    
-       
+        if (player1Character.character != null)
+        {
+            GameObject p1Instance = Instantiate(player1Character.character, Vector3.left * 2, Quaternion.identity);
+            player1 = p1Instance.GetComponent<CharacterController>();
+        }
+        else
+        {
+            Debug.LogError("Player 1 character prefab is missing!");
+        }
 
-        player1.SetUpCharacter(player1Character);
-        player2.SetUpCharacter(player2Character);
+        if (player2Character.character != null)
+        {
+            GameObject p2Instance = Instantiate(player2Character.character, Vector3.right * 2, Quaternion.identity);
+            player2 = p2Instance.GetComponent<CharacterController>();
+        }
+        else
+        {
+            Debug.LogError("Player 2 character prefab is missing!");
+        }
 
-        player1.inputHandler.SetPlayerId(1);
-        player2.inputHandler.SetPlayerId(2);
+        if (player1 != null)
+        {
+            player1.SetUpCharacter(player1Character);
+            player1.inputHandler.SetPlayerId(1);
+        }
 
-        
+        if (player2 != null)
+        {
+            player2.SetUpCharacter(player2Character);
+            player2.inputHandler.SetPlayerId(2);
+        }
     }
     private void InitializeMap()
     {

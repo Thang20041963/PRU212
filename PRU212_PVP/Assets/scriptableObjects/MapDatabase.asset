@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 805a0e04fb777114f8496f2ad659f2a3, type: 3}
+  m_Script: {fileID: 11500000, guid: 9099a98c9ad253e41b25f5599aa37502, type: 3}
   m_Name: MapDatabase
   m_EditorClassIdentifier: 
   map:

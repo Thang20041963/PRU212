@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: 46477a8dcad33364e94ec58de2802d35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7663445654064098188
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_0
+  - first:
+      213: 5448119500858442505
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_1
+  - first:
+      213: 7958929859545329149
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_2
+  - first:
+      213: -5701174473045162439
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_3
+  - first:
+      213: 7108736394337841350
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_4
+  - first:
+      213: 2510762184909398509
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_5
+  - first:
+      213: 577304224376277371
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_6
+  - first:
+      213: -5683321675712023434
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_7
+  - first:
+      213: -8795039464019501470
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_8
+  - first:
+      213: 6775210442684884403
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_9
+  - first:
+      213: 7641112928834673611
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_10
+  - first:
+      213: 6802531564358063964
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_11
+  - first:
+      213: -4034994151038649026
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_12
+  - first:
+      213: -6823102542399044093
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_13
+  - first:
+      213: -6945043310911436064
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_14
+  - first:
+      213: 2988357088148024782
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_15
+  - first:
+      213: 2133874967463723142
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_16
+  - first:
+      213: -4451784277372867743
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_17
+  - first:
+      213: 3349079744847956944
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_18
+  - first:
+      213: -4393637904753172294
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_19
+  - first:
+      213: 5417656325042852802
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_20
+  - first:
+      213: 1160914841210593842
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_21
+  - first:
+      213: -5434076823944217898
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_22
+  - first:
+      213: 2951187497843891197
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_23
+  - first:
+      213: 3401084319832035906
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_24
+  - first:
+      213: -5766033435063298141
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_25
+  - first:
+      213: 5549491181508879045
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_26
+  - first:
+      213: -188863269903038381
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_27
+  - first:
+      213: -5480480767980996268
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_28
+  - first:
+      213: 9121861710281006729
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_29
+  - first:
+      213: 4624116143686211022
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_30
+  - first:
+      213: 7815073017376840923
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_31
+  - first:
+      213: -7188809998505835579
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_32
+  - first:
+      213: 3510924346138334921
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_33
+  - first:
+      213: 9050968191087773835
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_34
+  - first:
+      213: -1665848234090056835
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_35
+  - first:
+      213: 3253861643216154351
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_36
+  - first:
+      213: 4852788143468979480
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_37
+  - first:
+      213: 3335031730028843138
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_38
+  - first:
+      213: 8435851401392536449
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_39
+  - first:
+      213: -8223491850477852202
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_40
+  - first:
+      213: 5304644850874146133
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_41
+  - first:
+      213: -206166850743094912
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_42
+  - first:
+      213: -5473174219949243441
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_43
+  - first:
+      213: -6122790509750121660
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_44
+  - first:
+      213: -1240971992561060592
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_45
+  - first:
+      213: -918459762195634849
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_46
+  - first:
+      213: -5787793615463011535
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_47
+  - first:
+      213: 4489564045749277424
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_48
+  - first:
+      213: 4546148883992783803
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_49
+  - first:
+      213: 4068243930268449468
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_50
+  - first:
+      213: -447818820570638864
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_51
+  - first:
+      213: -1592011890274190954
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_52
+  - first:
+      213: 6848988285162792022
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_53
+  - first:
+      213: 7407621751496300962
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_54
+  - first:
+      213: 3083355014174242441
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_55
+  - first:
+      213: -7538002778806987243
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_56
+  - first:
+      213: 1863275709428367778
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_57
+  - first:
+      213: -1925541213989119714
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_58
+  - first:
+      213: -5303533118037771698
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_59
+  - first:
+      213: 2117417873571582355
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_60
+  - first:
+      213: 6791139447985389094
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_61
+  - first:
+      213: -3054866447218196495
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_62
+  - first:
+      213: 3087003144687164985
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_63
+  - first:
+      213: 2739493465816553055
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_64
+  - first:
+      213: 7831927750253797574
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_65
+  - first:
+      213: -2772999326189647793
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_66
+  - first:
+      213: 8568107744892039774
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_67
+  - first:
+      213: 5755987139566393011
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_68
+  - first:
+      213: 5108052733810212620
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_69
+  - first:
+      213: -4254869914909610858
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_70
+  - first:
+      213: 7174505110561895908
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_71
+  - first:
+      213: -5389680929305899792
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_72
+  - first:
+      213: -5340658137404333654
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_73
+  - first:
+      213: 6352801593184336676
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_74
+  - first:
+      213: -6078666758519086233
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_75
+  - first:
+      213: -3792852689332121590
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_76
+  - first:
+      213: -4551867783196375443
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_77
+  - first:
+      213: -4959757367303971311
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_78
+  - first:
+      213: 2926219474384459593
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_79
+  - first:
+      213: -4682988529872417600
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_80
+  - first:
+      213: 3631992022783447154
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_81
+  - first:
+      213: 7074173603024260944
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_82
+  - first:
+      213: -1168799484229403332
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_83
+  - first:
+      213: 3849419855042072966
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_84
+  - first:
+      213: -4874511883907905069
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_85
+  - first:
+      213: -6606817262974573047
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_86
+  - first:
+      213: -1810249570635284164
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_87
+  - first:
+      213: 257074965608007809
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_88
+  - first:
+      213: 2711660814390704042
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_89
+  - first:
+      213: -4814866448322354158
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_90
+  - first:
+      213: 1362522333191399584
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_91
+  - first:
+      213: 5849043017639342019
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_92
+  - first:
+      213: 616157981064374067
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_93
+  - first:
+      213: 1078083222423093544
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_94
+  - first:
+      213: 3244937556170626588
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_95
+  - first:
+      213: -1167999470119647590
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_96
+  - first:
+      213: -7811728344286683573
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_97
+  - first:
+      213: 6376183763254418046
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_98
+  - first:
+      213: 1152970843567438226
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_99
+  - first:
+      213: 7825550740031415388
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_100
+  - first:
+      213: -4818002610461951287
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_101
+  - first:
+      213: 7955663373740638999
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_102
+  - first:
+      213: 3886376698098348363
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_103
+  - first:
+      213: 3109606441662391478
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_104
+  - first:
+      213: -7312342213027660922
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_105
+  - first:
+      213: 2491333222552160168
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_106
+  - first:
+      213: 1492151274952614362
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_107
+  - first:
+      213: 1286460798050075303
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_108
+  - first:
+      213: -1939038765967894961
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_109
+  - first:
+      213: 8016412262545441170
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_110
+  - first:
+      213: 6870059435252492672
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_111
+  - first:
+      213: -8650019217614721495
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_112
+  - first:
+      213: -849271351595127451
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_113
+  - first:
+      213: 2488900981612699715
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_114
+  - first:
+      213: -4355142107966166416
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_115
+  - first:
+      213: -222751669076825366
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_116
+  - first:
+      213: -1754659130119812880
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_117
+  - first:
+      213: 175710021007280924
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_118
+  - first:
+      213: -1523085351954762578
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_119
+  - first:
+      213: 1377472779692764686
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_120
+  - first:
+      213: 2584002068762862366
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_121
+  - first:
+      213: -8340999599343881032
+    second: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1035
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b600e38370a5a60800000000000000
+      internalID: 7663445654064098188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 973
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903cb8612db9b9b40800000000000000
+      internalID: 5448119500858442505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 973
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfde27ef98cc37e60800000000000000
+      internalID: 7958929859545329149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 973
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364e9bd50c51e0b0800000000000000
+      internalID: -5701174473045162439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 973
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f562461e47a260800000000000000
+      internalID: 7108736394337841350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 973
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1220397e408d220800000000000000
+      internalID: 2510762184909398509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 973
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c745222ff20800800000000000000
+      internalID: 577304224376277371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 973
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67438e62c09c021b0800000000000000
+      internalID: -5683321675712023434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 973
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e5391a43eb1f580800000000000000
+      internalID: -8795039464019501470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1000
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5efb24002660e50800000000000000
+      internalID: 6775210442684884403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 973
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd5d379bfaa0a60800000000000000
+      internalID: 7641112928834673611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 973
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57d1fa9a62776e50800000000000000
+      internalID: 6802531564358063964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1000
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dff8ca232d008c0800000000000000
+      internalID: -4034994151038649026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 973
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3068d3653687f41a0800000000000000
+      internalID: -6823102542399044093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 973
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacb67b7ef3e9f90800000000000000
+      internalID: -6945043310911436064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 964
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd651d40f6c87920800000000000000
+      internalID: 2988357088148024782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 910
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68006c62afb0d9d10800000000000000
+      internalID: 2133874967463723142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 911
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b658a49c51832c0800000000000000
+      internalID: -4451784277372867743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 909
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db4e14a8425a7e20800000000000000
+      internalID: 3349079744847956944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 908
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ee77aa99a603c0800000000000000
+      internalID: -4393637904753172294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 905
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3d35149b16f2b40800000000000000
+      internalID: 5417656325042852802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 904
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23226d4b5e56c1010800000000000000
+      internalID: 1160914841210593842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 889
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da3f9a6be74694b0800000000000000
+      internalID: -5434076823944217898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 889
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1f8aa469b4f820800000000000000
+      internalID: 2951187497843891197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 889
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2425dbe4b24133f20800000000000000
+      internalID: 3401084319832035906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 889
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7d60cf32feaffa0800000000000000
+      internalID: -5766033435063298141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 889
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2effdb3d0c30d40800000000000000
+      internalID: 5549491181508879045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 889
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3588f4e4bd5016df0800000000000000
+      internalID: -188863269903038381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 809
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f12247cb61f3b0800000000000000
+      internalID: -5480480767980996268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 808
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e598355ec579e70800000000000000
+      internalID: 9121861710281006729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 808
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d09012292c2040800000000000000
+      internalID: 4624116143686211022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 807
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc9c76d087b47c60800000000000000
+      internalID: 7815073017376840923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 810
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38841f4673c3c90800000000000000
+      internalID: -7188809998505835579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 807
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c698d4571f49b030800000000000000
+      internalID: 3510924346138334921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 810
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88852f9d9f7b9d70800000000000000
+      internalID: 9050968191087773835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 798
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73b95d6bd7b1e8e0800000000000000
+      internalID: -1665848234090056835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 740
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeea20cce9082d20800000000000000
+      internalID: 3253861643216154351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 737
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81522b5fa11985340800000000000000
+      internalID: 4852788143468979480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 739
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280960f40b9684e20800000000000000
+      internalID: 3335031730028843138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 744
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bbbfd872a221570800000000000000
+      internalID: 8435851401392536449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_40
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 739
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a2fe5bb940ed80800000000000000
+      internalID: -8223491850477852202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 740
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d55fbf262ed9940800000000000000
+      internalID: 5304644850874146133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 739
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813ff0775c832df0800000000000000
+      internalID: -206166850743094912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 726
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3891a8b016b04b0800000000000000
+      internalID: -5473174219949243441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 725
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0638a87a770ba0800000000000000
+      internalID: -6122790509750121660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 660
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01570373c8e27cee0800000000000000
+      internalID: -1240971992561060592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 660
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e6d566b9f043f0800000000000000
+      internalID: -918459762195634849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 660
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bad0d2f50adafa0800000000000000
+      internalID: -5787793615463011535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 660
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2504f76b22e4e30800000000000000
+      internalID: 4489564045749277424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 697
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbad6ec25a271f30800000000000000
+      internalID: 4546148883992783803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 716
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3a43dc4e457830800000000000000
+      internalID: 4068243930268449468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_51
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 661
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51724c72709c9f0800000000000000
+      internalID: -447818820570638864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_52
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 660
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6993202ee9908e9e0800000000000000
+      internalID: -1592011890274190954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 678
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a0ffce8e7c0f50800000000000000
+      internalID: 6848988285162792022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_54
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 694
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d4685cb82dc660800000000000000
+      internalID: 7407621751496300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 663
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98676409c074aca20800000000000000
+      internalID: 3083355014174242441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 650
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5165d452962a36790800000000000000
+      internalID: -7538002778806987243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 586
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1871bb26fabd910800000000000000
+      internalID: 1863275709428367778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 584
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19ddc3c77a1745e0800000000000000
+      internalID: -1925541213989119714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 569
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab6dc7ab01666b0800000000000000
+      internalID: -5303533118037771698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 569
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3911c436654926d10800000000000000
+      internalID: 2117417873571582355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 504
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ebf41d859fe3e50800000000000000
+      internalID: 6791139447985389094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 506
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffbc41d62fea95d0800000000000000
+      internalID: -3054866447218196495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 507
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9793210d37da20800000000000000
+      internalID: 3087003144687164985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 502
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56df7eeac2a40620800000000000000
+      internalID: 2739493465816553055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 505
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0e6642bc890bc60800000000000000
+      internalID: 7831927750253797574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_66
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 546
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4881180ec35489d0800000000000000
+      internalID: -2772999326189647793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_67
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 546
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e523093299808e670800000000000000
+      internalID: 8568107744892039774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 492
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b652919ecf51ef40800000000000000
+      internalID: 5755987139566393011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 492
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f78b4d5e273e640800000000000000
+      internalID: 5108052733810212620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 422
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ce05c0b5aa3f4c0800000000000000
+      internalID: -4254869914909610858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5344ac266f09360800000000000000
+      internalID: 7174505110561895908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_72
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 392
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc460420c10435b0800000000000000
+      internalID: -5389680929305899792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_73
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 387
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1273558bb22e5b0800000000000000
+      internalID: -5340658137404333654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_74
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 388
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb942f36fa92850800000000000000
+      internalID: 6352801593184336676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_75
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 421
+        width: 136
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ae7e0acc34aba0800000000000000
+      internalID: -6078666758519086233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 377
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0059fe03941d5bc0800000000000000
+      internalID: -3792852689332121590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 377
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6609063e5484d0c0800000000000000
+      internalID: -4551867783196375443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 309
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e58bdc3f66b2bb0800000000000000
+      internalID: -4959757367303971311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 309
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9471481bb150c9820800000000000000
+      internalID: 2926219474384459593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 309
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccc9bd5ebea20fb0800000000000000
+      internalID: -4682988529872417600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 309
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705f09608d676230800000000000000
+      internalID: 3631992022783447154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 309
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc4bf49638c2260800000000000000
+      internalID: 7074173603024260944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 296
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3db8d8cf0797cfe0800000000000000
+      internalID: -1168799484229403332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 296
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815e1b86f2eb6530800000000000000
+      internalID: 3849419855042072966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 296
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9cf3294414a5cb0800000000000000
+      internalID: -4874511883907905069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9066b7824bedf44a0800000000000000
+      internalID: -6606817262974573047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 230
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310b7b4b93b0e6e0800000000000000
+      internalID: -1810249570635284164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 230
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18806b5b150519300800000000000000
+      internalID: 257074965608007809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_89
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 230
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ba19c421c1a520800000000000000
+      internalID: 2711660814390704042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 211
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214accab9782e2db0800000000000000
+      internalID: -4814866448322354158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_91
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 211
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e864d7d6a8e210800000000000000
+      internalID: 1362522333191399584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2f5e82a9fb2150800000000000000
+      internalID: 5849043017639342019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_93
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 125
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372dd25b680d8800800000000000000
+      internalID: 616157981064374067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_94
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 130
+        width: 149
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82146d69afe16fe00800000000000000
+      internalID: 1078083222423093544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_95
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 125
+        width: 129
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16dfd1d385580d20800000000000000
+      internalID: 3244937556170626588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_96
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 129
+        width: 126
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a968ca59bae6acfe0800000000000000
+      internalID: -1167999470119647590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e11fc857a279390800000000000000
+      internalID: -7811728344286683573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a9467a951cc7850800000000000000
+      internalID: 6376183763254418046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299383f9fdc200010800000000000000
+      internalID: 1152970843567438226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_100
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542e5fbfe0f99c60800000000000000
+      internalID: 7825550740031415388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 37
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab2841724032db0800000000000000
+      internalID: -4818002610461951287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 38
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713856000b1386e60800000000000000
+      internalID: 7955663373740638999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 25
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f189140f2fe530800000000000000
+      internalID: 3886376698098348363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 27
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ad82559a872b20800000000000000
+      internalID: 3109606441662391478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_105
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 29
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b746cef77558a90800000000000000
+      internalID: -7312342213027660922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_106
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 30
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c953cd5ef29220800000000000000
+      internalID: 2491333222552160168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_107
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 36
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad162b6cdaf25b410800000000000000
+      internalID: 1492151274952614362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_108
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 37
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a28d35a74d6ad110800000000000000
+      internalID: 1286460798050075303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_109
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 27
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4695cc04862715e0800000000000000
+      internalID: -1939038765967894961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_110
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2914b12ea74004f60800000000000000
+      internalID: 8016412262545441170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_111
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089ab0048aa575f50800000000000000
+      internalID: 6870059435252492672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ea5c1f955f4f780800000000000000
+      internalID: -8650019217614721495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da1429438c634f0800000000000000
+      internalID: -849271351595127451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340652a814a5a8220800000000000000
+      internalID: 2488900981612699715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aa45cc35d6f83c0800000000000000
+      internalID: -4355142107966166416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_116
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaec838980a8ecf0800000000000000
+      internalID: -222751669076825366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_117
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8005751d236a7e0800000000000000
+      internalID: -1754659130119812880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8d99455f307200800000000000000
+      internalID: 175710021007280924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_119
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4b22a21f9ecdae0800000000000000
+      internalID: -1523085351954762578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_120
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e6b59e134cd1310800000000000000
+      internalID: 1377472779692764686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_121
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e132c7fd0383cd320800000000000000
+      internalID: 2584002068762862366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_122
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 0
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4be619e01de3c80800000000000000
+      internalID: -8340999599343881032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_0: 7663445654064098188
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_1: 5448119500858442505
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_10: 7641112928834673611
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_100: 7825550740031415388
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_101: -4818002610461951287
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_102: 7955663373740638999
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_103: 3886376698098348363
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_104: 3109606441662391478
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_105: -7312342213027660922
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_106: 2491333222552160168
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_107: 1492151274952614362
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_108: 1286460798050075303
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_109: -1939038765967894961
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_11: 6802531564358063964
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_110: 8016412262545441170
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_111: 6870059435252492672
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_112: -8650019217614721495
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_113: -849271351595127451
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_114: 2488900981612699715
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_115: -4355142107966166416
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_116: -222751669076825366
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_117: -1754659130119812880
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_118: 175710021007280924
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_119: -1523085351954762578
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_12: -4034994151038649026
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_120: 1377472779692764686
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_121: 2584002068762862366
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_122: -8340999599343881032
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_13: -6823102542399044093
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_14: -6945043310911436064
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_15: 2988357088148024782
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_16: 2133874967463723142
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_17: -4451784277372867743
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_18: 3349079744847956944
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_19: -4393637904753172294
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_2: 7958929859545329149
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_20: 5417656325042852802
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_21: 1160914841210593842
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_22: -5434076823944217898
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_23: 2951187497843891197
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_24: 3401084319832035906
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_25: -5766033435063298141
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_26: 5549491181508879045
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_27: -188863269903038381
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_28: -5480480767980996268
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_29: 9121861710281006729
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_3: -5701174473045162439
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_30: 4624116143686211022
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_31: 7815073017376840923
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_32: -7188809998505835579
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_33: 3510924346138334921
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_34: 9050968191087773835
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_35: -1665848234090056835
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_36: 3253861643216154351
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_37: 4852788143468979480
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_38: 3335031730028843138
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_39: 8435851401392536449
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_4: 7108736394337841350
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_40: -8223491850477852202
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_41: 5304644850874146133
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_42: -206166850743094912
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_43: -5473174219949243441
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_44: -6122790509750121660
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_45: -1240971992561060592
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_46: -918459762195634849
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_47: -5787793615463011535
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_48: 4489564045749277424
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_49: 4546148883992783803
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_5: 2510762184909398509
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_50: 4068243930268449468
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_51: -447818820570638864
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_52: -1592011890274190954
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_53: 6848988285162792022
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_54: 7407621751496300962
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_55: 3083355014174242441
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_56: -7538002778806987243
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_57: 1863275709428367778
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_58: -1925541213989119714
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_59: -5303533118037771698
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_6: 577304224376277371
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_60: 2117417873571582355
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_61: 6791139447985389094
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_62: -3054866447218196495
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_63: 3087003144687164985
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_64: 2739493465816553055
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_65: 7831927750253797574
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_66: -2772999326189647793
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_67: 8568107744892039774
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_68: 5755987139566393011
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_69: 5108052733810212620
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_7: -5683321675712023434
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_70: -4254869914909610858
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_71: 7174505110561895908
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_72: -5389680929305899792
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_73: -5340658137404333654
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_74: 6352801593184336676
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_75: -6078666758519086233
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_76: -3792852689332121590
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_77: -4551867783196375443
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_78: -4959757367303971311
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_79: 2926219474384459593
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_8: -8795039464019501470
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_80: -4682988529872417600
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_81: 3631992022783447154
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_82: 7074173603024260944
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_83: -1168799484229403332
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_84: 3849419855042072966
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_85: -4874511883907905069
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_86: -6606817262974573047
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_87: -1810249570635284164
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_88: 257074965608007809
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_89: 2711660814390704042
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_9: 6775210442684884403
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_90: -4814866448322354158
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_91: 1362522333191399584
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_92: 5849043017639342019
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_93: 616157981064374067
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_94: 1078083222423093544
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_95: 3244937556170626588
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_96: -1167999470119647590
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_97: -7811728344286683573
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_98: 6376183763254418046
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) (1)_99: 1152970843567438226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
