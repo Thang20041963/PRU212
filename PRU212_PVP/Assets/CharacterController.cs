@@ -1,7 +1,9 @@
 using JetBrains.Annotations;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public abstract class CharacterController : MonoBehaviour
 {
@@ -11,10 +13,16 @@ public abstract class CharacterController : MonoBehaviour
     public float speed;
     public float atk;
     public float def;
-    public float mana;
+    public float chakra;
     public LayerMask groundLayer;
     public Transform groundCheck;
+    private float maxHealth = 100f;
+    private float maxChakra = 100f;
+    private float currentHealth;
+    private float currentChakra;
 
+    private HealthBar healthBar;
+    private ChakraBar chakraBar;
 
     public float dartCooldownDuration = 0.5f; // Duration of cooldown in seconds
     private float dartCooldownTimer = 0.0f;
@@ -31,6 +39,64 @@ public abstract class CharacterController : MonoBehaviour
 
     public InputHandler inputHandler;
 
+    public Transform dartPoint;
+    public Transform attackPoint;
+    public float punchRange = 0.3f;
+    public float kickRange = 0.5f;
+    public GameObject[] darts;
+
+    
+    private void Start()
+    {
+        currentHealth = maxHealth;
+        currentChakra = maxChakra;
+        UpdateUI();
+        AddDart();
+    }
+
+    public void AssignUIElements(HealthBar health, ChakraBar chakra)
+    {
+
+
+        healthBar = health;
+        chakraBar = chakra;
+        UpdateUI();
+    }
+
+    private void UpdateUI()
+    {
+        if (healthBar != null)
+            healthBar.SetHealth(Convert.ToInt32(currentHealth));
+        if (chakraBar != null)
+            chakraBar.SetMaxchakra(Convert.ToInt32(currentChakra));
+    }
+
+    public void TakeDamage(float damage)
+    {
+        animator.SetTrigger("hurt");
+        currentHealth -= damage;
+        if (currentHealth <= 0)
+        {
+            currentHealth = 0;
+            GameManager.Instance.PlayerDied(this);
+        }
+        UpdateUI();
+    }
+
+    public void UseChakra(float amount)
+    {
+        currentChakra -= amount;
+        if (currentChakra < 0) currentChakra = 0;
+        UpdateUI();
+    }
+    public void getChakra(float amount)
+    {
+        if (currentChakra < maxChakra)
+        {
+            currentChakra += amount;
+        }
+        UpdateUI();
+    }
 
     private void Awake()
     {
@@ -57,8 +123,10 @@ public abstract class CharacterController : MonoBehaviour
         speed = character.speed;
         atk = character.atk;
         def = character.def;
-        mana = character.mana;
-
+        chakra = character.chakra;
+        maxHealth = character.health;
+        currentHealth = character.health;
+        AddDart();
         if (spriteToDisplay != null && characterSprite != null)
         {
             spriteToDisplay.sprite = characterSprite;
@@ -149,9 +217,14 @@ public abstract class CharacterController : MonoBehaviour
 
     private void MoveLeftRight(float direction)
     {
-        rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
-        transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
-        animator.SetBool("run", true);
+        bool block = animator.GetBool("block");
+        if (!block)
+        {
+            rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
+            transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
+            animator.SetBool("run", true);
+        }
+
     }
 
     private void Jump()
@@ -195,12 +268,69 @@ public abstract class CharacterController : MonoBehaviour
         kickCooldownTimer = kickCooldownDuration;
     }
 
-    public abstract void Block();
-    public abstract void PunchAttack();
-    public abstract void KickAttack();
+    public void Block()
+    {
+
+        bool state = animator.GetBool("block");
+
+        animator.SetBool("block", !state);
+
+    }
+    public void PunchAttack()
+    {
+        if (CanPunch())
+        {
+            GetComponent<Animator>().SetTrigger("punch");
+
+            Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, punchRange, LayerMask.GetMask("Character"));
+
+            if (hit != null)
+            {
+                CharacterController target = hit.GetComponent<CharacterController>();
+             
+                if (target != null && target != this && target.animator.GetBool("block") == false)
+                {
+                    target.TakeDamage(atk);
+                    Debug.Log($"Punch hit: {hit.name}, remaining health: {target.currentHealth}");
+                }
+            }
+
+            StartPunchCooldown();
+        }
+    }
+    public void KickAttack()
+    {
+        if (CanKick())
+        {
+            GetComponent<Animator>().SetTrigger("kick");
+
+            Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, kickRange, LayerMask.GetMask("Character"));
+
+            if (hit != null)
+            {
+                CharacterController target = hit.GetComponent<CharacterController>();
+                if (target != null && target != this && !target.animator.GetBool("block"))
+                {
+                    target.TakeDamage(atk);
+                    Debug.Log($"Kick hit: {hit.name}, remaining health: {target.health}");
+                }
+            }
+
+            StartKickCooldown();
+        }
+    }
     public abstract void SpecialAttack1();
     public abstract void SpecialAttack2();
-    public abstract void ThrowDart();
+    public void ThrowDart()
+    {
+        if (CanThrowDart())
+        {
+            GetComponent<Animator>().SetTrigger("throwDart");
+            darts[FindDart()].transform.position = dartPoint.position;
+            darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+            StartDartCooldown();
+        }
+    }
     private void StopMovement()
     {
         rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
@@ -208,4 +338,34 @@ public abstract class CharacterController : MonoBehaviour
     }
 
     private bool IsGrounded() => Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+
+    public void AddDart()
+    {
+        // Find the DartHolder object
+        GameObject dartHolder = GameObject.Find("DartHolder");
+
+        if (dartHolder != null)
+        {
+            // Get all darts that are children of DartHolder
+            darts = new GameObject[dartHolder.transform.childCount];
+            for (int i = 0; i < dartHolder.transform.childCount; i++)
+            {
+                darts[i] = dartHolder.transform.GetChild(i).gameObject;
+            }
+        }
+        else
+        {
+            Debug.LogError("DartHolder not found! Make sure it's in the scene.");
+        }
+    }
+    private int FindDart()
+    {
+        for (int i = 0; i < darts.Length; i++)
+        {
+            if (!darts[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
+
 }
