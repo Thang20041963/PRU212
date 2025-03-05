@@ -1,5 +1,7 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI; // Required for UI handling
 
 public class GameManager : MonoBehaviour
 {
@@ -9,17 +11,22 @@ public class GameManager : MonoBehaviour
     public CharacterController player2;
 
     private bool isGameOver = false;
-    [SerializeField]
-    private CharacterDatabase CharacterDB;
-    [SerializeField]
-    private MapDatabase MapDB;
+
+    [SerializeField] private CharacterDatabase CharacterDB;
+    [SerializeField] private MapDatabase MapDB;
+
+    // UI Elements
+    [SerializeField] private HealthBar healthBarP1;
+    [SerializeField] private HealthBar healthBarP2;
+    [SerializeField] private ChakraBar chakraBarP1;
+    [SerializeField] private ChakraBar chakraBarP2;
+
     private void Awake()
     {
-        
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); 
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -37,9 +44,6 @@ public class GameManager : MonoBehaviour
     {
         int player1selectionId = PlayerPrefs.GetInt("1_selectedCharacterOption", 0);
         int player2selectionId = PlayerPrefs.GetInt("2_selectedCharacterOption", 0);
-
-        Debug.Log(player1selectionId);
-        Debug.Log(player2selectionId);
 
         Character player1Character = CharacterDB.GetCharacter(player1selectionId);
         Character player2Character = CharacterDB.GetCharacter(player2selectionId);
@@ -68,20 +72,26 @@ public class GameManager : MonoBehaviour
         {
             player1.SetUpCharacter(player1Character);
             player1.inputHandler.SetPlayerId(1);
+            healthBarP1.SetMaxHealth(Convert.ToInt32(player1.health));
+            chakraBarP1.SetMaxchakra(Convert.ToInt32(player1.chakra));
+            player1.AssignUIElements(healthBarP1, chakraBarP1); // Attach UI elements
         }
 
         if (player2 != null)
         {
             player2.SetUpCharacter(player2Character);
             player2.inputHandler.SetPlayerId(2);
+            healthBarP2.SetMaxHealth(Convert.ToInt32(player2.health));
+            chakraBarP2.SetMaxchakra(Convert.ToInt32(player2.chakra));
+            player2.AssignUIElements(healthBarP2, chakraBarP2); // Attach UI elements
+           
         }
     }
+
     private void InitializeMap()
     {
         int mapselectionId = PlayerPrefs.GetInt("selectedMapOption");
-
         Map map = MapDB.GetMap(mapselectionId);
-
     }
 
     public void PlayerDied(CharacterController player)
@@ -104,7 +114,6 @@ public class GameManager : MonoBehaviour
 
     private void EndGame()
     {
-        // Add logic for ending the game
         Debug.Log("Game Over!");
         Invoke("RestartGame", 3f); // Restart after 3 seconds
     }

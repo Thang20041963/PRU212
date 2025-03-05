@@ -8,7 +8,7 @@ public class Character
     public float speed;
     public float atk;
     public float def;
-    public float mana;
+    public float chakra;
     public GameObject character;
 
 }

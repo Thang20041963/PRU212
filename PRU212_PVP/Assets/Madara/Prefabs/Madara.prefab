@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 2320988481446637859}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.64, y: 0, z: 0}
+  m_LocalPosition: {x: 0.84, y: 0.08, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -76,8 +76,8 @@ GameObject:
   - component: {fileID: 4346817350420768084}
   - component: {fileID: 7079414200011318156}
   - component: {fileID: 5333494317738427331}
-  - component: {fileID: 8607695540885498780}
-  m_Layer: 0
+  - component: {fileID: 4448018616226780803}
+  m_Layer: 7
   m_Name: Madara
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -194,7 +194,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 5
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerId: 1
---- !u!114 &8607695540885498780
+--- !u!114 &4448018616226780803
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -283,7 +283,7 @@ MonoBehaviour:
   speed: 5
   atk: 5
   def: 5
-  mana: 5
+  chakra: 5
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -294,19 +294,9 @@ MonoBehaviour:
   inputHandler: {fileID: 5333494317738427331}
   dartPoint: {fileID: 1753458820864165620}
   attackPoint: {fileID: 7228591708030054980}
-  punchRange: 0.3
-  kickRange: 0.5
-  darts:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  punchRange: 0.2
+  kickRange: 0.2
+  darts: []
 --- !u!1 &8010782700446977987
 GameObject:
   m_ObjectHideFlags: 0
