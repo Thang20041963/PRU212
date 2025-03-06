@@ -5,9 +5,11 @@ public class Kakashi : CharacterController
 
     public Transform dartPoint;
     public Transform attackPoint;
+    public Transform specialPoint;
     public float punchRange = 0.3f;
     public float kickRange = 0.5f;
     public GameObject[] darts;
+    public GameObject[] special1s;
 
     public override void Block()
     {
@@ -47,7 +49,13 @@ public class Kakashi : CharacterController
 
     public override void SpecialAttack1()
     {
-        throw new System.NotImplementedException();
+        if (CanSpecial1())
+        {
+            GetComponent<Animator>().SetTrigger("special1");
+            special1s[FindSpecial1()].transform.position = specialPoint.position;
+            special1s[FindSpecial1()].GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
+            StartSpecial1Cooldown();
+        }
     }
 
     public override void SpecialAttack2()
@@ -71,6 +79,16 @@ public class Kakashi : CharacterController
         for (int i = 0; i < darts.Length; i++) 
         {
             if (!darts[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
+
+    private int FindSpecial1()
+    {
+        for (int i = 0; i < special1s.Length; i++)
+        {
+            if (!special1s[i].gameObject.activeInHierarchy)
                 return i;
         }
         return 0;
