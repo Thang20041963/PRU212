@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.TextCore.Text;
-
+using System.Collections.Generic;
 
 public class InputHandler : MonoBehaviour
 {
@@ -62,5 +61,3 @@ public class InputHandler : MonoBehaviour
         return inputs;
     }
 }
-
-
