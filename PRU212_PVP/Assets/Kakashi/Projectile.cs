@@ -7,7 +7,7 @@ public class Projectile : MonoBehaviour
     private bool hit;
     private BoxCollider2D boxCollider;
     private Animator animator;
-
+    public int damage = 10; // Add a damage variable
     private void Awake()
     {
         boxCollider = GetComponent<BoxCollider2D>();
@@ -21,12 +21,31 @@ public class Projectile : MonoBehaviour
         transform.Translate(movementSpeed, 0, 0);
     }
 
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (hit) return;
         hit = true;
         boxCollider.enabled = false;
         animator.SetTrigger("explode");
-        Debug.Log("Dart hit");
+
+
+        if (collision.CompareTag("Player")) // Check if the collided object is tagged "Player"
+        {
+            CharacterController enemy = collision.GetComponent<CharacterController>();
+
+            if (enemy != null)
+            {
+                bool isblock = enemy.getBlockStatus(); // Only call this if enemy is not null
+                if (!isblock)
+                {
+                    enemy.TakeDamage(damage);
+                    Debug.Log($"Dart hit {enemy.name}, remaining health: {enemy.health}");
+                }
+            }
+        }
+
+        Invoke(nameof(Deactivate), 0.5f); // Give time for explosion animation
     }
 
     public void SetDirection(float _direction)
