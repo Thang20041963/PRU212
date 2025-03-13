@@ -305,9 +305,6 @@ public abstract class CharacterController : MonoBehaviour
         special2CooldownTimer = special2CooldownDuration;
     }
 
-    public abstract void Block();
-    public abstract void PunchAttack();
-    public abstract void KickAttack();
     public void Block()
     {
 

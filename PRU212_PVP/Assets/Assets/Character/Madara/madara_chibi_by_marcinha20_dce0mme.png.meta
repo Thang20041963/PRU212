@@ -123,6 +123,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -359,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      madara_chibi_by_marcinha20_dce0mme_0: -6790401170518587869
+      madara_chibi_by_marcinha20_dce0mme_1: 7162827175013806846
+      madara_chibi_by_marcinha20_dce0mme_2: -5847137826698722526
+      madara_chibi_by_marcinha20_dce0mme_3: 6533615227499453623
+      madara_chibi_by_marcinha20_dce0mme_4: -3023141538278930609
+      madara_chibi_by_marcinha20_dce0mme_5: -58798366346999929
+      madara_chibi_by_marcinha20_dce0mme_6: -5884445795927550206
+      madara_chibi_by_marcinha20_dce0mme_7: -1219552242962788162
+      madara_chibi_by_marcinha20_dce0mme_8: 3968287391521677857
+      madara_chibi_by_marcinha20_dce0mme_9: 3254225245109743955
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

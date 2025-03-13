@@ -23,10 +23,12 @@ public class Special1 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (hit) return;
         hit = true;
         boxCollider.enabled = false;
         animator.SetTrigger("explode");
         Debug.Log("Special hit");
+        Invoke(nameof(Deactivate), 0.5f);
     }
 
     public void SetDirection(float _direction)
@@ -39,7 +41,7 @@ public class Special1 : MonoBehaviour
 
         float localScaleX = transform.localScale.x;
         if (Mathf.Sign(localScaleX) != direction)
-            localScaleX = -localScaleX;
+            localScaleX = - localScaleX;
 
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
     }
