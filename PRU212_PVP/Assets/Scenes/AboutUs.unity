@@ -547,6 +547,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UchihaLoader
       objectReference: {fileID: 0}
+    - target: {fileID: 5309121068482194151, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -952,7 +956,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -757711064242525727, guid: 1cd8459d104b5394f8a4a9dcc4f0eff1, type: 3}
+  m_Sprite: {fileID: 5565284403890650892, guid: 40080139700f9e34b80382f8f09d5c20, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -11,4 +11,5 @@ public class Character
     public float chakra;
     public GameObject character;
 
+    public GameObject[] relatedComponent;
 }

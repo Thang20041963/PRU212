@@ -5,17 +5,11 @@ public class SceneLoader : MonoBehaviour
 {
     public Animator transistion ;
     public float transistionTime = 1f;
-    // Update is called once per frame
-    void Update()
+    
+    
+    public void LoadNextScene(string scene)
     {
-        if (Input.GetKey(KeyCode.E))
-        {
-            LoadNextScene();
-        }
-    }
-    public void LoadNextScene()
-    {
-        StartCoroutine(LoadScene("MainMenuScene"));
+        StartCoroutine(LoadScene(scene));
         
     }
 

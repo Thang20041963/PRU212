@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Dart
+  - Ground
+  - Player1
+  - Player2
   layers:
   - Default
   - TransparentFX
@@ -14,7 +17,7 @@ TagManager:
   - UI
   - Ground
   - Character
-  - 
+  - Loader
   - 
   - 
   - 
