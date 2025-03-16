@@ -33,6 +33,13 @@ public abstract class CharacterController : MonoBehaviour
     public float kickCooldownDuration = 0.3f; // Cooldown for kick attack
     private float kickCooldownTimer = 0.0f;
 
+
+    public float special1CooldownDuration = 2; // Duration of cooldown in seconds
+    private float special1CooldownTimer = 0.0f;
+
+    public float special2CooldownDuration = 2; // Duration of cooldown in seconds
+    private float special2CooldownTimer = 0.0f;
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteToDisplay;
@@ -47,7 +54,7 @@ public abstract class CharacterController : MonoBehaviour
     private bool isStunned = false; // Add this flag
 
     public BoxCollider2D standingCollider; // Collider khi đứng
-    public BoxCollider2D lyingCollider;    // Collider khi nằm
+   // public BoxCollider2D lyingCollider;    // Collider khi nằm
 
     private enum AttackState { None, Punching, Kicking, Throwing }
     private AttackState currentAttackState = AttackState.None;
@@ -55,7 +62,7 @@ public abstract class CharacterController : MonoBehaviour
     private void Start()
     {
         standingCollider.enabled = true;
-        lyingCollider.enabled = false;
+       // lyingCollider.enabled = false;
         currentHealth = maxHealth;
         currentChakra = maxChakra;
         UpdateUI();
@@ -184,6 +191,16 @@ public abstract class CharacterController : MonoBehaviour
             kickCooldownTimer -= Time.deltaTime;
         }
 
+        if (special1CooldownTimer > 0)
+        {
+            special1CooldownTimer -= Time.deltaTime;
+        }
+
+        if (special2CooldownTimer > 0)
+        {
+            special2CooldownTimer -= Time.deltaTime;
+        }
+
         List<string> currentInputs = inputHandler.GetCurrentInputs();
         HandleActions(currentInputs);
     }
@@ -297,6 +314,26 @@ public abstract class CharacterController : MonoBehaviour
     protected void StartKickCooldown()
     {
         kickCooldownTimer = kickCooldownDuration;
+    }
+
+    protected bool CanSpecial1()
+    {
+        return special1CooldownTimer <= 0;
+    }
+
+    protected void StartSpecial1Cooldown()
+    {
+        special1CooldownTimer = special1CooldownDuration;
+    }
+
+    protected bool CanSpecial2()
+    {
+        return special2CooldownTimer <= 0;
+    }
+
+    protected void StartSpecial2Cooldown()
+    {
+        special2CooldownTimer = special2CooldownDuration;
     }
 
     public void Block()

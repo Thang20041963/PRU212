@@ -102,7 +102,7 @@ public class GameManager : MonoBehaviour
         isGameOver = true;
         player.getAnimator().SetTrigger("die");
         player.standingCollider.enabled = false;
-        player.lyingCollider.enabled = true;
+     //   player.lyingCollider.enabled = true;
         if (player == player1)
         {
             Debug.Log("Player 1 has been defeated! Player 2 wins!");

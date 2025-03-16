@@ -1,0 +1,4095 @@
+fileFormatVersion: 2
+guid: 93437625164bf024793aec932cb34ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3698035324683559472
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_0
+  - first:
+      213: 5301554724952940387
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_1
+  - first:
+      213: 8452312990562907645
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_2
+  - first:
+      213: 572368882750539409
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_3
+  - first:
+      213: 7743165192234167636
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_4
+  - first:
+      213: -2824072557544476034
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_5
+  - first:
+      213: 7347045556460605701
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_6
+  - first:
+      213: -1371454211490570354
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_7
+  - first:
+      213: -6906780143482074608
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_8
+  - first:
+      213: -9206317858702366779
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_9
+  - first:
+      213: -3037534423863706390
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_10
+  - first:
+      213: 8476043242474070680
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_11
+  - first:
+      213: 8050643198300908837
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_12
+  - first:
+      213: 974416138901428119
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_13
+  - first:
+      213: -3265106250713952854
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_14
+  - first:
+      213: -2187988214908882777
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_15
+  - first:
+      213: 477683422712120498
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_16
+  - first:
+      213: -9170782772358613661
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_17
+  - first:
+      213: 3193029016076262112
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_18
+  - first:
+      213: 9147488083223332322
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_19
+  - first:
+      213: 6803290466367933553
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_20
+  - first:
+      213: -2679536066423266939
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_21
+  - first:
+      213: -231468474387111957
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_22
+  - first:
+      213: 6220914941300327155
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_23
+  - first:
+      213: -2876514429180746960
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_24
+  - first:
+      213: 2910840155098539377
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_25
+  - first:
+      213: -364325485212341588
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_26
+  - first:
+      213: -4752464037093992765
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_27
+  - first:
+      213: -1861988610997068692
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_28
+  - first:
+      213: -7191453710295193031
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_29
+  - first:
+      213: 7169934669294921513
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_30
+  - first:
+      213: 4312684913422086360
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_31
+  - first:
+      213: 6776106538440225159
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_32
+  - first:
+      213: -941430763781613085
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_33
+  - first:
+      213: -2440867613614892395
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_34
+  - first:
+      213: -5058570583261568232
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_35
+  - first:
+      213: -3854803523877308502
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_36
+  - first:
+      213: 5634386520927523463
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_37
+  - first:
+      213: 963741121807150894
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_38
+  - first:
+      213: 3240338811366594169
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_39
+  - first:
+      213: 5017100198910220690
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_40
+  - first:
+      213: -3332673091950481576
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_41
+  - first:
+      213: 2703671446830838972
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_42
+  - first:
+      213: -1099958590056658329
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_43
+  - first:
+      213: 2801060864976462263
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_44
+  - first:
+      213: -8441155460012432197
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_45
+  - first:
+      213: -8956504708360707316
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_46
+  - first:
+      213: 1197127699456953557
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_47
+  - first:
+      213: 1730626512343467642
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_48
+  - first:
+      213: 7735880481100343512
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_49
+  - first:
+      213: 5919891217617350560
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_50
+  - first:
+      213: -9184394384347668138
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_51
+  - first:
+      213: 438401195801881662
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_52
+  - first:
+      213: -5897043011331839921
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_53
+  - first:
+      213: -6482740456001902213
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_54
+  - first:
+      213: 6982214295848702677
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_55
+  - first:
+      213: -9009755080036592948
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_56
+  - first:
+      213: -359151293912783918
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_57
+  - first:
+      213: -6474910355421219650
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_58
+  - first:
+      213: -236284928412882158
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_59
+  - first:
+      213: -5934630758350795789
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_60
+  - first:
+      213: -5191965451081480811
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_61
+  - first:
+      213: 2384767327838184923
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_62
+  - first:
+      213: -1423880832804826434
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_63
+  - first:
+      213: -873791066143336580
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_64
+  - first:
+      213: 1344917193504080003
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_65
+  - first:
+      213: 5224244428080449439
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_66
+  - first:
+      213: -9040200621566786149
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_67
+  - first:
+      213: 8846223086626730857
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_68
+  - first:
+      213: -1532755865196228375
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_69
+  - first:
+      213: -6957999388868835781
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_70
+  - first:
+      213: -3272936908553641886
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_71
+  - first:
+      213: 8196636437588674402
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_72
+  - first:
+      213: 7917072040464748100
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_73
+  - first:
+      213: -3125663899610615100
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_74
+  - first:
+      213: 8670393111007108267
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_75
+  - first:
+      213: 2827283229862168590
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_76
+  - first:
+      213: -2774733501065742142
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_77
+  - first:
+      213: -7498002790889151035
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_78
+  - first:
+      213: 968006126282243227
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_79
+  - first:
+      213: 6409892572898778691
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_80
+  - first:
+      213: 6034530078353691209
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_81
+  - first:
+      213: 5765215380993594354
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_82
+  - first:
+      213: -5543152514449847436
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_83
+  - first:
+      213: -4489051197106080898
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_84
+  - first:
+      213: 6983045952687569403
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_85
+  - first:
+      213: -3702429368527614635
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_86
+  - first:
+      213: -1968050324684527972
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_87
+  - first:
+      213: 1852850088534832711
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_88
+  - first:
+      213: 6353815411273704994
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_89
+  - first:
+      213: 4914146205059872697
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_90
+  - first:
+      213: 3937000526945036404
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_91
+  - first:
+      213: 6192326549139233374
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_92
+  - first:
+      213: 7297398336508542781
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_93
+  - first:
+      213: 5109368426458564266
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_94
+  - first:
+      213: -6417088464718803711
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_95
+  - first:
+      213: 8964792424849595535
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_96
+  - first:
+      213: -650325088584140901
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_97
+  - first:
+      213: 2936290299311907818
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_98
+  - first:
+      213: 8763089102419398389
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_99
+  - first:
+      213: -8306361479337388444
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_100
+  - first:
+      213: 5499911997794697761
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_101
+  - first:
+      213: -8738677055833927461
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_102
+  - first:
+      213: -8127770003654369970
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_103
+  - first:
+      213: -8845760765029225050
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_104
+  - first:
+      213: 5937643827580105428
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_105
+  - first:
+      213: -7143104798362799413
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_106
+  - first:
+      213: 6586262733613526081
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_107
+  - first:
+      213: -8649013407798792561
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_108
+  - first:
+      213: -8750149093743533301
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_109
+  - first:
+      213: -6374880891425832841
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_110
+  - first:
+      213: -8074043887302059161
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_111
+  - first:
+      213: 6811185691810439003
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_112
+  - first:
+      213: 4307029993333334109
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_113
+  - first:
+      213: 3042936814083155862
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_114
+  - first:
+      213: 1923189949392852815
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_115
+  - first:
+      213: -7596093640901673338
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_116
+  - first:
+      213: -7036281834827938187
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_117
+  - first:
+      213: -8509821803549125452
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_118
+  - first:
+      213: -3324561073693149173
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_119
+  - first:
+      213: 8488510969690983684
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_120
+  - first:
+      213: 6315109439272366706
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_121
+  - first:
+      213: -6517557001777065218
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_122
+  - first:
+      213: -1120464079893596884
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_123
+  - first:
+      213: -4576318501073934772
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_124
+  - first:
+      213: -5949772659612574491
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_125
+  - first:
+      213: -7104900746156782909
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_126
+  - first:
+      213: 6874343005094853414
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_127
+  - first:
+      213: 2923226786019249859
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_128
+  - first:
+      213: 5368105715057378794
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_129
+  - first:
+      213: 6851793428450304887
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_130
+  - first:
+      213: 4534267880408031962
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_131
+  - first:
+      213: -3307951470144825158
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_132
+  - first:
+      213: -4907805076880714919
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_133
+  - first:
+      213: 7156306349883957382
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_134
+  - first:
+      213: 3676788890160816850
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_135
+  - first:
+      213: 7142835593198699210
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_136
+  - first:
+      213: 249977995584966253
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_137
+  - first:
+      213: 8730014866826823504
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_138
+  - first:
+      213: 4175318837287627757
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_139
+  - first:
+      213: 1783342148325604476
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_140
+  - first:
+      213: 3688713415273781224
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_141
+  - first:
+      213: 3754067272590835517
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_142
+  - first:
+      213: 3649766021390187509
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_143
+  - first:
+      213: -1857413857477973480
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_144
+  - first:
+      213: -5919883581471517721
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_145
+  - first:
+      213: 8246785316062582746
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_146
+  - first:
+      213: -1174829353310389324
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_147
+  - first:
+      213: -7874441054719679934
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_148
+  - first:
+      213: 7454606636620248530
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_149
+  - first:
+      213: 2815364877784681523
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_150
+  - first:
+      213: -8963558682178675942
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_151
+  - first:
+      213: -1902385836144873839
+    second: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddd3691770fdacc0800000000000000
+      internalID: -3698035324683559472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f1d1afee7e29940800000000000000
+      internalID: 5301554724952940387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3279
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5fbe4f1e5ac4570800000000000000
+      internalID: 8452312990562907645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19645d0677671f700800000000000000
+      internalID: 572368882750539409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d6940a7bf357b60800000000000000
+      internalID: 7743165192234167636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72f1a3b8f0eec8d0800000000000000
+      internalID: -2824072557544476034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3186
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501527dd103f5f560800000000000000
+      internalID: 7347045556460605701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3186
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f146239ad97fce0800000000000000
+      internalID: -1371454211490570354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3186
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a870e9d003620a0800000000000000
+      internalID: -6906780143482074608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3186
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7e5b64fa69c3080800000000000000
+      internalID: -9206317858702366779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3186
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3598f88288d5d0800000000000000
+      internalID: -3037534423863706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3186
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8926488cb64f0a570800000000000000
+      internalID: 8476043242474070680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3186
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52de320b551a9bf60800000000000000
+      internalID: 8050643198300908837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3164
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79790aec052d58d00800000000000000
+      internalID: 974416138901428119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3164
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad894c0a2300b2d0800000000000000
+      internalID: -3265106250713952854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3164
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07d9d9f44b2a1e0800000000000000
+      internalID: -2187988214908882777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3100
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b449d5ca8211a600800000000000000
+      internalID: 477683422712120498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3097
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365fa4d48a5dab080800000000000000
+      internalID: -9170782772358613661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3097
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9db409faef4c20800000000000000
+      internalID: 3193029016076262112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3097
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e545ab32f762fe70800000000000000
+      internalID: 9147488083223332322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3098
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c89af32a42a6e50800000000000000
+      internalID: 6803290466367933553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3098
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5816ef5f42060dad0800000000000000
+      internalID: -2679536066423266939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3078
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef547f16a8a9ccf0800000000000000
+      internalID: -231468474387111957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3078
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f24026ed21255650800000000000000
+      internalID: 6220914941300327155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3078
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0336569fd519418d0800000000000000
+      internalID: -2876514429180746960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3078
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1756792e2b1656820800000000000000
+      internalID: 2910840155098539377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2993
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaeb47c6e7a1faf0800000000000000
+      internalID: -364325485212341588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3042
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6913d432bdb0eb0800000000000000
+      internalID: -4752464037093992765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3022
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c52b93933e826e0800000000000000
+      internalID: -1861988610997068692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3017
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aa033d3f2d23c90800000000000000
+      internalID: -7191453710295193031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3008
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927e4120899b08360800000000000000
+      internalID: 7169934669294921513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2984
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0b5b4441cb9db30800000000000000
+      internalID: 4312684913422086360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2998
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7817eefcef0990e50800000000000000
+      internalID: 6776106538440225159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2987
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e91c2055bd5fe2f0800000000000000
+      internalID: -941430763781613085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2984
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9ab276db402ed0800000000000000
+      internalID: -2440867613614892395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2985
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81324712bd85cc9b0800000000000000
+      internalID: -5058570583261568232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2960
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa77e506e9cf08ac0800000000000000
+      internalID: -3854803523877308502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2960
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782522340bc513e40800000000000000
+      internalID: 5634386520927523463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2960
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f60c4b175ef5d00800000000000000
+      internalID: 963741121807150894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2960
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976da6b1bfef7fc20800000000000000
+      internalID: 3240338811366594169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2960
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299d5969c0250a540800000000000000
+      internalID: 5017100198910220690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2960
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fe9c9ea77ffb1d0800000000000000
+      internalID: -3332673091950481576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2960
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f7b13bde558520800000000000000
+      internalID: 2703671446830838972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2960
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a880c7d792cb0f0800000000000000
+      internalID: -1099958590056658329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_44
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2960
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ab2b140e5fd620800000000000000
+      internalID: 2801060864976462263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2871
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb42c1015ddfada80800000000000000
+      internalID: -8441155460012432197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_46
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2871
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03eb0ddb6a14b380800000000000000
+      internalID: -8956504708360707316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2871
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc89eccc4d0d9010800000000000000
+      internalID: 1197127699456953557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_48
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2871
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a760b1bc4ab640810800000000000000
+      internalID: 1730626512343467642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_49
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82dd4af4e5b5b60800000000000000
+      internalID: 7735880481100343512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af690f82bda72250800000000000000
+      internalID: 5919891217617350560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2847
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6516ddbe7f97a8080800000000000000
+      internalID: -9184394384347668138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2847
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca0e89093851600800000000000000
+      internalID: 438401195801881662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ad5400ae792ea0800000000000000
+      internalID: -5897043011331839921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2847
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e3fcf6eda806a0800000000000000
+      internalID: -6482740456001902213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d257b1a8eec5e060800000000000000
+      internalID: 6982214295848702677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d52d8d7be6f280800000000000000
+      internalID: -9009755080036592948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e4b11dc9040bf0800000000000000
+      internalID: -359151293912783918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4be98565f7426a0800000000000000
+      internalID: -6474910355421219650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21beb280c1c88bcf0800000000000000
+      internalID: -236284928412882158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc46fa4c4f3ada0800000000000000
+      internalID: -5934630758350795789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59500323eee62f7b0800000000000000
+      internalID: -5191965451081480811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2847
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a0c7ef35681120800000000000000
+      internalID: 2384767327838184923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2847
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb25e263deb5d3ce0800000000000000
+      internalID: -1423880832804826434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77dd96a7abafd3f0800000000000000
+      internalID: -873791066143336580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2847
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3804023df0b1aa210800000000000000
+      internalID: 1344917193504080003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978c8bc0ae308840800000000000000
+      internalID: 5224244428080449439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_67
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b950f358e61ca8280800000000000000
+      internalID: -9040200621566786149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_68
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2847
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963fe3a270914ca70800000000000000
+      internalID: 8846223086626730857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_69
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0159759ae8abae0800000000000000
+      internalID: -1532755865196228375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_70
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36861fbb68307f90800000000000000
+      internalID: -6957999388868835781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_71
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2847
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2602561f8313492d0800000000000000
+      internalID: -3272936908553641886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2670f7f896d40c170800000000000000
+      internalID: 8196636437588674402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_73
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e041903171fdd60800000000000000
+      internalID: 7917072040464748100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c272786e396f94d0800000000000000
+      internalID: -3125663899610615100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac9294c89c635870800000000000000
+      internalID: 8670393111007108267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_76
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2847
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e088a533e178c3720800000000000000
+      internalID: 2827283229862168590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2754
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b99af49a2e79d0800000000000000
+      internalID: -2774733501065742142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2754
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52a24103eb1f790800000000000000
+      internalID: -7498002790889151035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2754
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c7471717c0f6d00800000000000000
+      internalID: 968006126282243227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2754
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34edb00855384f850800000000000000
+      internalID: 6409892572898778691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2754
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9429eaa4225feb350800000000000000
+      internalID: 6034530078353691209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2754
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ddb5f7d8220050800000000000000
+      internalID: 5765215380993594354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b47603824c213b0800000000000000
+      internalID: -5543152514449847436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7333f168bfa3b1c0800000000000000
+      internalID: -4489051197106080898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2729
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9fb24db43c8e060800000000000000
+      internalID: 6983045952687569403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d00fa0b145e9cc0800000000000000
+      internalID: -3702429368527614635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96261928a410b4e0800000000000000
+      internalID: -1968050324684527972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7467b25b655a6b910800000000000000
+      internalID: 1852850088534832711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_89
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2262f5dd3794d2850800000000000000
+      internalID: 6353815411273704994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_90
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77deeefed823440800000000000000
+      internalID: 4914146205059872697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a511ce1903a630800000000000000
+      internalID: 3937000526945036404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1aa620309fe550800000000000000
+      internalID: 6192326549139233374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3e10bf11954560800000000000000
+      internalID: 7297398336508542781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_94
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6c8a5638f18e640800000000000000
+      internalID: 5109368426458564266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_95
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dcd206a0ce1f6a0800000000000000
+      internalID: -6417088464718803711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_96
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cd5408637596c70800000000000000
+      internalID: 8964792424849595535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fa6a07c499f6f0800000000000000
+      internalID: -650325088584140901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2729
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae369e7587ccfb820800000000000000
+      internalID: 2936290299311907818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_99
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0ecc1c1fbc9970800000000000000
+      internalID: 8763089102419398389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665b185e30e9bc80800000000000000
+      internalID: -8306361479337388444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_101
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2729
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122467c72dc935c40800000000000000
+      internalID: 5499911997794697761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09928648bf9b680800000000000000
+      internalID: -8738677055833927461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d1b149e3c543f80800000000000000
+      internalID: -8127770003654369970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_104
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad6858737b8d3580800000000000000
+      internalID: -8845760765029225050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_105
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f3b92a9fb66250800000000000000
+      internalID: 5937643827580105428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_106
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2723c18089edc90800000000000000
+      internalID: -7143104798362799413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_107
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c6d6a8f0b176b50800000000000000
+      internalID: 6586262733613526081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eef8a412888f780800000000000000
+      internalID: -8649013407798792561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03e5bf62c9319680800000000000000
+      internalID: -8750149093743533301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_110
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7704325da9fd787a0800000000000000
+      internalID: -6374880891425832841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_111
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5274dcdb33ff80800000000000000
+      internalID: -8074043887302059161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_112
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f959bac41368e50800000000000000
+      internalID: 6811185691810439003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_113
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50269595f4a5cb30800000000000000
+      internalID: 4307029993333334109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_114
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697a26509eeaa3a20800000000000000
+      internalID: 3042936814083155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_115
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f479929c11b80ba10800000000000000
+      internalID: 1923189949392852815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_116
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb3755411459690800000000000000
+      internalID: -7596093640901673338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_117
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5760c8773fa1a5e90800000000000000
+      internalID: -7036281834827938187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_118
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2729
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49499182a07e980800000000000000
+      internalID: -8509821803549125452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_119
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08bd685159ccd1d0800000000000000
+      internalID: -3324561073693149173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_120
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d007cb0cf3dc570800000000000000
+      internalID: 8488510969690983684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_121
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272bb8d7396c3a750800000000000000
+      internalID: 6315109439272366706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_122
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d7b9307cfc85a0800000000000000
+      internalID: -6517557001777065218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_123
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257b561bdf4370f0800000000000000
+      internalID: -1120464079893596884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_124
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46a074d196ad70c0800000000000000
+      internalID: -4576318501073934772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_125
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec16711a492e6da0800000000000000
+      internalID: -5949772659612574491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_126
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2729
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cacaec2a62566d90800000000000000
+      internalID: -7104900746156782909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_127
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bbed29a82966f50800000000000000
+      internalID: 6874343005094853414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_128
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce85922643619820800000000000000
+      internalID: 2923226786019249859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_129
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae54db6d4b75f7a40800000000000000
+      internalID: 5368105715057378794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_130
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e22122d5761f50800000000000000
+      internalID: 6851793428450304887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_131
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22f281d94fcee30800000000000000
+      internalID: 4534267880408031962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_132
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2729
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab859c70aabc712d0800000000000000
+      internalID: -3307951470144825158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2643
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539aa50949f3ebb0800000000000000
+      internalID: -4907805076880714919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_134
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2643
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a4b0a5be405360800000000000000
+      internalID: 7156306349883957382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_135
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2643
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d26320e304960330800000000000000
+      internalID: 3676788890160816850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_136
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2643
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac200ada023702360800000000000000
+      internalID: 7142835593198699210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_137
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2643
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e818c99a9187300800000000000000
+      internalID: 249977995584966253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_138
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2618
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057871d844e372970800000000000000
+      internalID: 8730014866826823504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_139
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2618
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba6885c56b1f930800000000000000
+      internalID: 4175318837287627757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_140
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2618
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cfdef3c34bfb810800000000000000
+      internalID: 1783342148325604476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_141
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2618
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79c9bbe41f03330800000000000000
+      internalID: 3688713415273781224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_142
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2618
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f32b56b40291430800000000000000
+      internalID: 3754067272590835517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_143
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2618
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb042fbd296a230800000000000000
+      internalID: 3649766021390187509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_144
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2618
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a232800f32936e0800000000000000
+      internalID: -1857413857477973480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_145
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2618
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e319be5f3958dda0800000000000000
+      internalID: -5919883581471517721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2618
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad751d63d87727270800000000000000
+      internalID: 8246785316062582746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2531
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb7b3c7dea22bfe0800000000000000
+      internalID: -1174829353310389324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_148
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2531
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2426ea0d49d58b290800000000000000
+      internalID: -7874441054719679934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_149
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2531
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f4046d35147760800000000000000
+      internalID: 7454606636620248530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_150
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2534
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c877d907f221720800000000000000
+      internalID: 2815364877784681523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_151
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2534
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b1f599eda0b9380800000000000000
+      internalID: -8963558682178675942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_152
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2535
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea9da492e5995e0800000000000000
+      internalID: -1902385836144873839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_0: -3698035324683559472
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_1: 5301554724952940387
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_10: -3037534423863706390
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_100: -8306361479337388444
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_101: 5499911997794697761
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_102: -8738677055833927461
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_103: -8127770003654369970
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_104: -8845760765029225050
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_105: 5937643827580105428
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_106: -7143104798362799413
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_107: 6586262733613526081
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_108: -8649013407798792561
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_109: -8750149093743533301
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_11: 8476043242474070680
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_110: -6374880891425832841
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_111: -8074043887302059161
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_112: 6811185691810439003
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_113: 4307029993333334109
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_114: 3042936814083155862
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_115: 1923189949392852815
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_116: -7596093640901673338
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_117: -7036281834827938187
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_118: -8509821803549125452
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_119: -3324561073693149173
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_12: 8050643198300908837
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_120: 8488510969690983684
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_121: 6315109439272366706
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_122: -6517557001777065218
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_123: -1120464079893596884
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_124: -4576318501073934772
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_125: -5949772659612574491
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_126: -7104900746156782909
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_127: 6874343005094853414
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_128: 2923226786019249859
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_129: 5368105715057378794
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_13: 974416138901428119
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_130: 6851793428450304887
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_131: 4534267880408031962
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_132: -3307951470144825158
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_133: -4907805076880714919
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_134: 7156306349883957382
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_135: 3676788890160816850
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_136: 7142835593198699210
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_137: 249977995584966253
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_138: 8730014866826823504
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_139: 4175318837287627757
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_14: -3265106250713952854
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_140: 1783342148325604476
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_141: 3688713415273781224
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_142: 3754067272590835517
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_143: 3649766021390187509
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_144: -1857413857477973480
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_145: -5919883581471517721
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_146: 8246785316062582746
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_147: -1174829353310389324
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_148: -7874441054719679934
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_149: 7454606636620248530
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_15: -2187988214908882777
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_150: 2815364877784681523
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_151: -8963558682178675942
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_152: -1902385836144873839
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_16: 477683422712120498
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_17: -9170782772358613661
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_18: 3193029016076262112
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_19: 9147488083223332322
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_2: 8452312990562907645
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_20: 6803290466367933553
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_21: -2679536066423266939
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_22: -231468474387111957
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_23: 6220914941300327155
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_24: -2876514429180746960
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_25: 2910840155098539377
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_26: -364325485212341588
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_27: -4752464037093992765
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_28: -1861988610997068692
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_29: -7191453710295193031
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_3: 572368882750539409
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_30: 7169934669294921513
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_31: 4312684913422086360
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_32: 6776106538440225159
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_33: -941430763781613085
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_34: -2440867613614892395
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_35: -5058570583261568232
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_36: -3854803523877308502
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_37: 5634386520927523463
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_38: 963741121807150894
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_39: 3240338811366594169
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_4: 7743165192234167636
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_40: 5017100198910220690
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_41: -3332673091950481576
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_42: 2703671446830838972
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_43: -1099958590056658329
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_44: 2801060864976462263
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_45: -8441155460012432197
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_46: -8956504708360707316
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_47: 1197127699456953557
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_48: 1730626512343467642
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_49: 7735880481100343512
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_5: -2824072557544476034
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_50: 5919891217617350560
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_51: -9184394384347668138
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_52: 438401195801881662
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_53: -5897043011331839921
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_54: -6482740456001902213
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_55: 6982214295848702677
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_56: -9009755080036592948
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_57: -359151293912783918
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_58: -6474910355421219650
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_59: -236284928412882158
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_6: 7347045556460605701
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_60: -5934630758350795789
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_61: -5191965451081480811
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_62: 2384767327838184923
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_63: -1423880832804826434
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_64: -873791066143336580
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_65: 1344917193504080003
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_66: 5224244428080449439
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_67: -9040200621566786149
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_68: 8846223086626730857
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_69: -1532755865196228375
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_7: -1371454211490570354
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_70: -6957999388868835781
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_71: -3272936908553641886
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_72: 8196636437588674402
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_73: 7917072040464748100
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_74: -3125663899610615100
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_75: 8670393111007108267
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_76: 2827283229862168590
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_77: -2774733501065742142
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_78: -7498002790889151035
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_79: 968006126282243227
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_8: -6906780143482074608
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_80: 6409892572898778691
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_81: 6034530078353691209
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_82: 5765215380993594354
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_83: -5543152514449847436
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_84: -4489051197106080898
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_85: 6983045952687569403
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_86: -3702429368527614635
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_87: -1968050324684527972
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_88: 1852850088534832711
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_89: 6353815411273704994
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_9: -9206317858702366779
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_90: 4914146205059872697
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_91: 3937000526945036404
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_92: 6192326549139233374
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_93: 7297398336508542781
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_94: 5109368426458564266
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_95: -6417088464718803711
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_96: 8964792424849595535
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_97: -650325088584140901
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_98: 2936290299311907818
+      itachi_by_aryasyddanwahab_de883h8 (1) 1-3.png_99: 8763089102419398389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
