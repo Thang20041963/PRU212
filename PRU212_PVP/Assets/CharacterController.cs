@@ -54,7 +54,7 @@ public abstract class CharacterController : MonoBehaviour
     private bool isStunned = false; // Add this flag
 
     public BoxCollider2D standingCollider; // Collider khi đứng
-    public BoxCollider2D lyingCollider;    // Collider khi nằm
+   // public BoxCollider2D lyingCollider;    // Collider khi nằm
 
     private enum AttackState { None, Punching, Kicking, Throwing }
     private AttackState currentAttackState = AttackState.None;
@@ -62,7 +62,7 @@ public abstract class CharacterController : MonoBehaviour
     private void Start()
     {
         standingCollider.enabled = true;
-        lyingCollider.enabled = false;
+       // lyingCollider.enabled = false;
         currentHealth = maxHealth;
         currentChakra = maxChakra;
         UpdateUI();
