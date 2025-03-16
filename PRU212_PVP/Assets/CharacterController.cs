@@ -52,14 +52,14 @@ public abstract class CharacterController : MonoBehaviour
     public GameObject[] darts;
     private bool isStunned = false; // Add this flag
 
-    
+
 
     private enum AttackState { None, Punching, Kicking, Throwing }
     private AttackState currentAttackState = AttackState.None;
 
     private void Start()
     {
-        
+
         currentHealth = maxHealth;
         currentChakra = maxChakra;
         UpdateUI();
@@ -90,10 +90,10 @@ public abstract class CharacterController : MonoBehaviour
     public void TakeDamage(float damage)
     {
         animator.SetTrigger("hurt");
-       StopMovement();
+        StopMovement();
         currentHealth -= damage;
         if (currentHealth <= 0)
-        { 
+        {
             currentHealth = 0;
             GameManager.Instance.PlayerDied(this);
         }
@@ -151,11 +151,11 @@ public abstract class CharacterController : MonoBehaviour
         speed = character.speed;
         atk = character.atk;
         def = character.def;
-        
+
         maxHealth = character.health;
         currentHealth = character.health;
         maxChakra = character.chakra;
-        currentChakra = character.chakra/2 ;
+        currentChakra = character.chakra / 2;
         AddDart();
         if (spriteToDisplay != null && characterSprite != null)
         {
@@ -204,7 +204,7 @@ public abstract class CharacterController : MonoBehaviour
 
     private void HandleActions(List<string> actions)
     {
-        if (isStunned) return; 
+        if (isStunned) return;
         bool isMovingLeft = actions.Contains("moveLeft");
         bool isMovingRight = actions.Contains("moveRight");
         bool isJumping = actions.Contains("jump");
@@ -303,19 +303,39 @@ public abstract class CharacterController : MonoBehaviour
         dartCooldownTimer = dartCooldownDuration;
     }
 
-   
+
 
     protected void StartPunchCooldown()
     {
         punchCooldownTimer = punchCooldownDuration;
     }
 
-   
+
 
     protected void StartKickCooldown()
     {
         kickCooldownTimer = kickCooldownDuration;
     }
+    protected bool CanSpecial1()
+    {
+        return special1CooldownTimer <= 0;
+    }
+
+    protected void StartSpecial1Cooldown()
+    {
+        special1CooldownTimer = special1CooldownDuration;
+    }
+
+    protected bool CanSpecial2()
+    {
+        return special2CooldownTimer <= 0;
+    }
+
+    protected void StartSpecial2Cooldown()
+    {
+        special2CooldownTimer = special2CooldownDuration;
+    }
+
     protected bool CanSpecial1()
     {
         return special1CooldownTimer <= 0;
@@ -403,7 +423,7 @@ public abstract class CharacterController : MonoBehaviour
             GetComponent<Animator>().SetTrigger("throwDart");
             darts[FindDart()].transform.position = dartPoint.position;
             darts[FindDart()].GetComponent<Projectile>().SetOwner(this.tag);
-            darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));   
+            darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartDartCooldown();
             StartCoroutine(ResetAttackStateAfterCooldown(dartCooldownDuration));
         }

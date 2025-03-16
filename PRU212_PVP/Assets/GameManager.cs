@@ -124,7 +124,7 @@ public class GameManager : MonoBehaviour
 
         isGameOver = true;
         player.getAnimator().SetTrigger("die");
-        
+
         if (player == player1)
         {
             Debug.Log("Player 1 has been defeated! Player 2 wins!");
@@ -141,10 +141,10 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("Game Over!");
         gameOverPanel.SetActive(true); // Hiện panel thông báo kết thúc game
-      
+
     }
 
-    public  void RestartGame()
+    public void RestartGame()
     {
         Destroy(gameObject); // Hủy GameManager cũ
         SceneManager.LoadScene("FightingScene");
