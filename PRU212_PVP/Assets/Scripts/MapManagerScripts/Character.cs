@@ -10,4 +10,6 @@ public class Character
     public float def;
     public float chakra;
     public GameObject character;
+
+    public GameObject[] relatedComponent;
 }

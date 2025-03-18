@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 5642183881863022314}
   m_Layer: 7
   m_Name: Kakashi
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -199,7 +199,7 @@ MonoBehaviour:
   speed: 10
   atk: 0
   def: 0
-  mana: 0
+  chakra: 0
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -223,6 +223,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  standingCollider: {fileID: 0}
+  lyingCollider: {fileID: 0}
 --- !u!95 &5642183881863022314
 Animator:
   serializedVersion: 7

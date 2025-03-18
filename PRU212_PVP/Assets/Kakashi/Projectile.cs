@@ -7,7 +7,15 @@ public class Projectile : MonoBehaviour
     private bool hit;
     private BoxCollider2D boxCollider;
     private Animator animator;
-    public int damage = 10; // Add a damage variable
+    public int damage = 10; 
+    private string ownerTag; 
+
+    public void SetOwner(string tag)
+    {
+        
+        ownerTag = tag;
+        
+    }
     private void Awake()
     {
         boxCollider = GetComponent<BoxCollider2D>();
@@ -21,16 +29,7 @@ public class Projectile : MonoBehaviour
         transform.Translate(movementSpeed, 0, 0);
     }
 
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    hit = true;
-    //    boxCollider.enabled = false;
-    //    animator.SetTrigger("explode");
-    //    Debug.Log("Dart hit")
-
-
-
-    //}
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (hit) return;
@@ -38,13 +37,22 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         animator.SetTrigger("explode");
 
-        // Check if the dart hit a character and apply damage
-        CharacterController enemy = collision.GetComponent<CharacterController>();
-  
-        if (enemy != null)
+        string enemyTag = this.ownerTag == "Player1" ? "Player2" : "Player1";
+        
+
+        if (collision.CompareTag(enemyTag)) // Check if the collided object is tagged "Player"
         {
-            enemy.TakeDamage(damage);
-            Debug.Log($"Dart hit {enemy.name}, remaining health: {enemy.health}");
+            CharacterController enemy = collision.GetComponent<CharacterController>();
+
+            if (enemy != null)
+            {
+                bool isblock = enemy.getBlockStatus(); // Only call this if enemy is not null
+                if (!isblock)
+                {
+                    enemy.TakeDamage(damage);
+                    Debug.Log($"Dart hit {enemy.name}, remaining health: {enemy.health}");
+                }
+            }
         }
 
         Invoke(nameof(Deactivate), 0.5f); // Give time for explosion animation

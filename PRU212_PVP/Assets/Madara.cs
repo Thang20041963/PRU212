@@ -1,93 +1,157 @@
-using UnityEngine;
-
-public class Madara:CharacterController
+﻿using UnityEngine;
+using System.Collections;
+public class Madara : CharacterController
 {
-    //public Transform dartPoint;
-    //public Transform attackPoint;
-    //public float punchRange = 0.3f;
-    //public float kickRange = 0.5f;
-   // public GameObject[] darts;
+    public GameObject rockGroup;
+    public GameObject Susanoo;
+    private Vector3[] initialPositions; // Lưu vị trí ban đầu của đá
+    private bool isFalling = false; // Kiểm soát trạng thái rơi
+
+
 
     private void Start()
     {
-        //// Find the DartHolder object
-        //GameObject dartHolder = GameObject.Find("DartHolder");
+        FindRockFall();
+        FindSusano();
+        if (rockGroup != null)
+        {
+            int count = rockGroup.transform.childCount;
+            initialPositions = new Vector3[count];
 
-        //if (dartHolder != null)
-        //{
-        //    // Get all darts that are children of DartHolder
-        //    darts = new GameObject[dartHolder.transform.childCount];
-        //    for (int i = 0; i < dartHolder.transform.childCount; i++)
-        //    {
-        //        darts[i] = dartHolder.transform.GetChild(i).gameObject;
-        //    }
-        //}
-        //else
-        //{
-        //    Debug.LogError("DartHolder not found! Make sure it's in the scene.");
-        //}
+            for (int i = 0; i < count; i++)
+            {
+                initialPositions[i] = rockGroup.transform.GetChild(i).position;
+                rockGroup.transform.GetChild(i).gameObject.SetActive(false); // Ẩn đá ban đầu
+            }
+        }
+    }
+    private void FindRockFall()
+    {
+        GameObject foundRockFall = GameObject.Find("RockFall(Clone)") ? GameObject.Find("RockFall(Clone)") : GameObject.Find("RockFall"); // Tìm GameObject theo tên
+        if (foundRockFall != null)
+        {
+            rockGroup = foundRockFall;
+            rockGroup.GetComponent<RockFall>().SetOwnerTag(this.tag);
+        }
+        else
+        {
+            Debug.LogWarning("Không tìm thấy RockFall trong scene!");
+        }
     }
 
-    
+    private void FindSusano()
+    {
+        // Tìm tất cả các GameObject có tên "Susanoo"
+        GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
+        foreach (GameObject obj in allObjects)
+        {
+            if (obj.name == "Susanoo(Clone)")
+            {
+                Susanoo = obj;
+                Debug.Log("Đã tìm thấy Susanoo (kể cả khi bị disable)");
+                return;
+            }
+        }
+        Debug.LogWarning("Không tìm thấy Susanoo trong scene!");
+    }
 
-    //public override void KickAttack()
-    //{
-    //    if (CanKick())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("kick");
-    //        Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, kickRange, LayerMask.GetMask("Character"));
-    //        if (hit != null && hit.GetComponent<CharacterController>() != this)
-    //        {
-    //            hit.GetComponent<CharacterController>().TakeDamage(atk); 
-    //            Debug.Log($"Kick hit: {hit.name}, remaining health: {hit.GetComponent<CharacterController>().health}");
-    //        }
-    //        StartKickCooldown();
-    //    }
-    //}
 
-    //public override void PunchAttack()
-    //{
-    //    if (CanPunch())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("punch");
-    //        Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, punchRange, LayerMask.GetMask("Character"));
-    //        if (hit != null && hit.GetComponent<CharacterController>() != this)
-    //        {
-    //            hit.GetComponent<CharacterController>().TakeDamage(atk); 
-    //            Debug.Log($"Punch hit: {hit.name}, remaining health: {hit.GetComponent<CharacterController>().health}");
-    //        }
-    //        StartPunchCooldown();
-    //    }
-    //}
 
     public override void SpecialAttack1()
     {
-        throw new System.NotImplementedException();
+        if (CanSpecial1())
+        {
+            getAnimator().SetTrigger("specialSkill");
+            Invoke(nameof(DropRocks), 1f);
+        }
+
     }
+    private void DropRocks()
+    {
+        if (!isFalling)
+        {
+            Debug.Log(rockGroup == null);
+            isFalling = true;
+
+            if (rockGroup != null)
+            {
+                for (int i = 0; i < rockGroup.transform.childCount; i++)
+                {
+                    GameObject rock = rockGroup.transform.GetChild(i).gameObject;
+                    rock.SetActive(true); // Hiện đá lên
+                    Rigidbody2D rb = rock.GetComponent<Rigidbody2D>();
+                    rock.GetComponent<Rock>().setOwnerTag(this.tag);
+                    rock.GetComponent<Rock>().setRockDamage(atk);
+                    Debug.Log(atk);
+                    if (rb != null)
+                    {
+                        rb.linearVelocity = Vector2.zero; // Reset vận tốc
+                        rb.gravityScale = 10; // Kích hoạt trọng lực
+                    }
+                }
+            }
+
+            StartCoroutine(ResetRocksAfterTime(1.5f)); 
+        }
+    }
+
+
+    private IEnumerator ResetRocksAfterTime(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+
+        if (rockGroup != null)
+        {
+            for (int i = 0; i < rockGroup.transform.childCount; i++)
+            {
+                GameObject rock = rockGroup.transform.GetChild(i).gameObject;
+                rock.SetActive(false); // Ẩn đi
+                rock.transform.position = initialPositions[i]; // Đặt lại vị trí ban đầu
+                Rigidbody2D rb = rock.GetComponent<Rigidbody2D>();
+
+                if (rb != null)
+                {
+                    rb.linearVelocity = Vector2.zero; // Reset vận tốc để không bị rơi tiếp
+                    rb.gravityScale = 0; // Tắt trọng lực để chờ lần rơi tiếp theo
+                }
+            }
+        }
+
+        isFalling = false; // Cho phép rơi lại
+    }
+
 
     public override void SpecialAttack2()
     {
-        throw new System.NotImplementedException();
+        if (CanSpecial2())
+        {
+            Debug.Log("chay sp2 ");
+            getAnimator().SetTrigger("specialSkill");
+            Invoke(nameof(CallSusanoo), 1f);
+        }
+
     }
 
-    //public override void ThrowDart()
-    //{
-    //    if (CanThrowDart())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("throwDart");
-    //        darts[FindDart()].transform.position = dartPoint.position;
-    //        darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
-    //        StartDartCooldown();
-    //    }
-    //}
+    private void CallSusanoo()
+    {
+        if (Susanoo != null)
+        {
+            Susanoo.SetActive(true);
+            Susanoo.GetComponent<Susanoo>().SetOwnerTag(this.tag);
+            Susanoo.GetComponent<Susanoo>().SetDamage(atk);
+            Invoke(nameof(SusanooAtt), 1f);
+        }
+    }
+    private void SusanooAtt()
+    {
 
-    //private int FindDart()
-    //{
-    //    for (int i = 0; i < darts.Length; i++)
-    //    {
-    //        if (!darts[i].gameObject.activeInHierarchy)
-    //            return i;
-    //    }
-    //    return 0;
-    //}
+        Susanoo.GetComponent<Susanoo>().ActivateSusanoo();
+
+        Invoke(nameof(Disable), 1.5f);
+    }
+    private void Disable()
+    {
+        Susanoo.gameObject.SetActive(false);
+    }
+
 }
