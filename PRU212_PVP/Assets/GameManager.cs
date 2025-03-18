@@ -93,6 +93,8 @@ public class GameManager : MonoBehaviour
         {
             player1.tag = "Player1";
             player1.SetUpCharacter(player1Character);
+            Debug.Log(player1.health);
+            Debug.Log(player1.chakra);
             player1.inputHandler.SetPlayerId(1);
             healthBarP1.SetMaxHealth(Convert.ToInt32(player1.health));
             chakraBarP1.SetMaxchakra(Convert.ToInt32(player1.chakra));
@@ -103,6 +105,8 @@ public class GameManager : MonoBehaviour
         {
             player2.tag = "Player2";
             player2.SetUpCharacter(player2Character);
+            Debug.Log(player2.health);
+            Debug.Log(player2.chakra);
             player2.inputHandler.SetPlayerId(2);
             healthBarP2.SetMaxHealth(Convert.ToInt32(player2.health));
             chakraBarP2.SetMaxchakra(Convert.ToInt32(player2.chakra));

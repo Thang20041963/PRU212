@@ -61,8 +61,11 @@ public class Madara : CharacterController
     {
         if (CanSpecial1())
         {
+            UseChakra(sp1Charka);
+            setWaitState(true);
             getAnimator().SetTrigger("specialSkill");
             Invoke(nameof(DropRocks), 1f);
+           
         }
 
     }
@@ -70,7 +73,7 @@ public class Madara : CharacterController
     {
         if (!isFalling)
         {
-            Debug.Log(rockGroup == null);
+            setWaitState(false);
             isFalling = true;
 
             if (rockGroup != null)
@@ -125,9 +128,11 @@ public class Madara : CharacterController
     {
         if (CanSpecial2())
         {
-            Debug.Log("chay sp2 ");
+            UseChakra(sp2Charka);
+            setWaitState(true);
             getAnimator().SetTrigger("specialSkill");
             Invoke(nameof(CallSusanoo), 1f);
+            
         }
 
     }
@@ -146,12 +151,13 @@ public class Madara : CharacterController
     {
 
         Susanoo.GetComponent<Susanoo>().ActivateSusanoo();
-
+        setWaitState(false);
         Invoke(nameof(Disable), 1.5f);
     }
     private void Disable()
     {
         Susanoo.gameObject.SetActive(false);
+        
     }
 
 }
