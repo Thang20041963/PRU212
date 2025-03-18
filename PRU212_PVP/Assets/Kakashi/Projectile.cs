@@ -7,7 +7,15 @@ public class Projectile : MonoBehaviour
     private bool hit;
     private BoxCollider2D boxCollider;
     private Animator animator;
-    public int damage = 10; // Add a damage variable
+    public int damage = 10; 
+    private string ownerTag; 
+
+    public void SetOwner(string tag)
+    {
+        
+        ownerTag = tag;
+        
+    }
     private void Awake()
     {
         boxCollider = GetComponent<BoxCollider2D>();
@@ -29,8 +37,10 @@ public class Projectile : MonoBehaviour
         boxCollider.enabled = false;
         animator.SetTrigger("explode");
 
+        string enemyTag = this.ownerTag == "Player1" ? "Player2" : "Player1";
+        
 
-        if (collision.CompareTag("Player")) // Check if the collided object is tagged "Player"
+        if (collision.CompareTag(enemyTag)) // Check if the collided object is tagged "Player"
         {
             CharacterController enemy = collision.GetComponent<CharacterController>();
 

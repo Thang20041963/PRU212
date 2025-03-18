@@ -10,5 +10,7 @@ public class Character
     public float def;
     public float chakra;
     public GameObject character;
-
+    public float sp1Charka;
+    public float sp2Charka;
+    public GameObject[] relatedComponent;
 }

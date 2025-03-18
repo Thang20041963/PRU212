@@ -161,7 +161,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 14, y: -168}
+  m_AnchoredPosition: {x: 300, y: -170}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &92614826
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -757711064242525727, guid: 1cd8459d104b5394f8a4a9dcc4f0eff1, type: 3}
+  m_Sprite: {fileID: 5565284403890650892, guid: 40080139700f9e34b80382f8f09d5c20, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -723,17 +723,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 510035848}
   m_CullTransparentMesh: 1
---- !u!114 &600668641 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2473771247989612098, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-  m_PrefabInstance: {fileID: 747485915}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4199404cc12452042b4aa3a1b3a97001, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &648646425
 GameObject:
   m_ObjectHideFlags: 0
@@ -931,68 +920,15 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6222969266184316099, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
---- !u!1001 &747485915
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1398301726211365119, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_Name
-      value: SceneController
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5318838807577889766, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 7c1377688ce32e0439d22abd448e4b0c, type: 3}
 --- !u!1001 &792348212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1071,11 +1007,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3317845416036525010, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 16
+      value: -300
       objectReference: {fileID: 0}
     - target: {fileID: 3317845416036525010, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -52
+      value: -170
       objectReference: {fileID: 0}
     - target: {fileID: 3317845416036525010, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1092,10 +1028,14 @@ PrefabInstance:
     - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 600668641}
+      objectReference: {fileID: 1805849267}
     - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OpenScene
+      value: LoadNextScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SceneLoader, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -1279,7 +1219,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.3, y: 79.7}
+  m_AnchoredPosition: {x: -200, y: -115}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1708845131
@@ -1326,9 +1266,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 600668641}
-        m_TargetAssemblyTypeName: SceneController, Assembly-CSharp
-        m_MethodName: OpenScene
+      - m_Target: {fileID: 1805849267}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadNextScene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1398,6 +1338,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1805849267 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5598979357868028428, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
+  m_PrefabInstance: {fileID: 735158250}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb07fe5747b0ac4080a0c0450761586, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1906127047
 GameObject:
   m_ObjectHideFlags: 0
@@ -1656,7 +1607,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.4, y: -109}
+  m_AnchoredPosition: {x: -100, y: -170}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2016268689
@@ -1703,9 +1654,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 600668641}
-        m_TargetAssemblyTypeName: SceneController, Assembly-CSharp
-        m_MethodName: OpenScene
+      - m_Target: {fileID: 1805849267}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadNextScene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1812,7 +1763,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15.5, y: 15.1}
+  m_AnchoredPosition: {x: 100, y: -170}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2129738072
@@ -1859,9 +1810,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 600668641}
-        m_TargetAssemblyTypeName: SceneController, Assembly-CSharp
-        m_MethodName: OpenScene
+      - m_Target: {fileID: 1805849267}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadNextScene
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2142,11 +2093,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3317845416036525010, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 16
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 3317845416036525010, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 145
+      value: -115
       objectReference: {fileID: 0}
     - target: {fileID: 3317845416036525010, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2163,7 +2114,15 @@ PrefabInstance:
     - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 600668641}
+      objectReference: {fileID: 1805849267}
+    - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadNextScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 6920184193942038463, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SceneLoader, Assembly-CSharp
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2178,4 +2137,3 @@ SceneRoots:
   - {fileID: 465690144}
   - {fileID: 1906127050}
   - {fileID: 2006311610}
-  - {fileID: 747485915}

@@ -1,23 +1,66 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Rock : MonoBehaviour
 {
-    public GameObject rockPrefab; // Prefab của viên đá
-    public Transform spawnPoint;  // Điểm xuất hiện viên đá (có thể là trên đầu kẻ địch)
+    public GameObject crackEffectPrefab;
+    private Vector3 initialPosition;
+    private float rockdamage;
+    private string ownerTag;
+    private Rigidbody2D rb;
 
-    public void PerformSpecialAttack()
+    public void setOwnerTag(string tag)
     {
-        StartCoroutine(SpawnRocks());
+        ownerTag = tag;
     }
 
-    private IEnumerator SpawnRocks()
+    public void setRockDamage(float damage)
     {
-        for (int i = 0; i < 3; i++) // Tạo 3 viên đá rơi liên tiếp
+        rockdamage = damage;
+    }
+
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
+
+    private void Start()
+    {
+        initialPosition = transform.position; // Lưu vị trí ban đầu
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        string enemyTag = this.ownerTag == "Player1" ? "Player2" : "Player1";
+        Debug.Log($"Viên đá chạm vào: {collision.gameObject.name}");
+        if (collision.CompareTag("Ground"))
         {
-            Vector3 randomOffset = new Vector3(Random.Range(-2f, 2f), 0, 0); // Xác định vị trí rơi ngẫu nhiên
-            Instantiate(rockPrefab, spawnPoint.position + randomOffset, Quaternion.identity);
-            yield return new WaitForSeconds(0.5f); // Delay giữa các viên đá
+            // Sử dụng Raycast để lấy vị trí chạm chính xác
+            Vector2 hitPoint = GetGroundHitPoint();
+            GameObject crack = Instantiate(crackEffectPrefab, hitPoint, Quaternion.identity);
+            Destroy(crack, 1f);
+            ResetRock();
         }
+        else if (collision.CompareTag(enemyTag))
+        {
+            // Gây sát thương khi chạm enemy
+            CharacterController playerHealth = collision.GetComponent<CharacterController>();
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(rockdamage);
+            }
+            ResetRock();
+        }
+    }
+    private Vector2 GetGroundHitPoint()
+    {
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 1f, LayerMask.GetMask("Ground"));
+        return hit.collider != null ? hit.point : transform.position;
+    }
+    private void ResetRock()
+    {
+        gameObject.SetActive(false); // Ẩn viên đá
+        transform.position = initialPosition;
+        rb.linearVelocity = Vector2.zero; // Dừng mọi chuyển động
+        rb.angularVelocity = 0;
     }
 }

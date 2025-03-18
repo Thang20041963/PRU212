@@ -14,18 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   character:
   - characterName: Madara
-    characterSprite: {fileID: -3262272348957740320, guid: 6cae2c245db00b644be490b79ed50802, type: 3}
+    characterSprite: {fileID: -4366132549423959887, guid: 9855d2980e03a0341a1c8721a0106a57, type: 3}
     health: 100
     speed: 10
     atk: 10
     def: 10
     chakra: 100
     character: {fileID: 5706290745374673860, guid: 7a21445a0857df94daab219201ff1c66, type: 3}
+    sp1Charka: 20
+    sp2Charka: 50
+    relatedComponent:
+    - {fileID: 1305281195122443412, guid: b2e260fa0648fbd4b8b4e9099ebbd3f6, type: 3}
+    - {fileID: 481316637912769035, guid: 0f76a309ff35d944fa9bdd8760988efe, type: 3}
   - characterName: Kakashi
-    characterSprite: {fileID: 1208040086343421634, guid: 936c4a3eb4fc4e54f9281a72d21c8444, type: 3}
+    characterSprite: {fileID: 2473439473239436407, guid: 880542c4032445549ae25500cdf6ef39, type: 3}
     health: 100
     speed: 10
     atk: 10
     def: 10
     chakra: 100
     character: {fileID: 1536920935930106218, guid: 1fe318db940c2844a9e87cbd695b9b78, type: 3}
+    sp1Charka: 20
+    sp2Charka: 50
+    relatedComponent: []
+  - characterName: Itachi
+    characterSprite: {fileID: -6548054799765000434, guid: 840a1b50a0c2f8749bbcf53c624dea84, type: 3}
+    health: 100
+    speed: 10
+    atk: 10
+    def: 10
+    chakra: 100
+    character: {fileID: 4321621906355057687, guid: 2c0633fdad5cc5b4ba2959eb5d4755e8, type: 3}
+    sp1Charka: 20
+    sp2Charka: 50
+    relatedComponent:
+    - {fileID: 3531991099407509037, guid: f1f512596aab37646a534b6099d5b124, type: 3}
+    - {fileID: 1986786952670745838, guid: a269ed4390b54de489e37bba4272ae54, type: 3}
