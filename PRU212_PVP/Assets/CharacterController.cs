@@ -1,9 +1,6 @@
-using JetBrains.Annotations;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public abstract class CharacterController : MonoBehaviour
 {
@@ -18,7 +15,7 @@ public abstract class CharacterController : MonoBehaviour
     public Transform groundCheck;
     private float maxHealth = 100f;
     private float maxChakra = 100f;
-    private float currentHealth;
+    private float currentHealth { get; set; }
     private float currentChakra;
 
     private HealthBar healthBar;
@@ -33,6 +30,12 @@ public abstract class CharacterController : MonoBehaviour
     public float kickCooldownDuration = 0.3f; // Cooldown for kick attack
     private float kickCooldownTimer = 0.0f;
 
+    public float special1CooldownDuration = 2f; // Duration of cooldown in seconds
+    private float special1CooldownTimer = 0.0f;
+
+    public float special2CooldownDuration = 0.5f; // Duration of cooldown in seconds
+    private float special2CooldownTimer = 0.0f;
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteToDisplay;
@@ -45,7 +48,6 @@ public abstract class CharacterController : MonoBehaviour
     public float kickRange = 0.5f;
     public GameObject[] darts;
 
-    
     private void Start()
     {
         currentHealth = maxHealth;
@@ -56,8 +58,6 @@ public abstract class CharacterController : MonoBehaviour
 
     public void AssignUIElements(HealthBar health, ChakraBar chakra)
     {
-
-
         healthBar = health;
         chakraBar = chakra;
         UpdateUI();
@@ -156,6 +156,14 @@ public abstract class CharacterController : MonoBehaviour
         if (kickCooldownTimer > 0)
         {
             kickCooldownTimer -= Time.deltaTime;
+        }
+        if (special1CooldownTimer > 0)
+        {
+            special1CooldownTimer -= Time.deltaTime;
+        }
+        if (special2CooldownTimer > 0)
+        {
+            special2CooldownTimer -= Time.deltaTime;
         }
 
         List<string> currentInputs = inputHandler.GetCurrentInputs();
@@ -287,7 +295,7 @@ public abstract class CharacterController : MonoBehaviour
             if (hit != null)
             {
                 CharacterController target = hit.GetComponent<CharacterController>();
-             
+
                 if (target != null && target != this && target.animator.GetBool("block") == false)
                 {
                     target.TakeDamage(atk);
@@ -321,6 +329,27 @@ public abstract class CharacterController : MonoBehaviour
     }
     public abstract void SpecialAttack1();
     public abstract void SpecialAttack2();
+    protected bool CanSpecial1()
+    {
+        //if (special1CooldownTimer <= 0) Console.WriteLine("can use");
+        return special1CooldownTimer <= 0;
+    }
+
+    protected bool CanSpecial2()
+    {
+        //if (special1CooldownTimer <= 0) Console.WriteLine("can use");
+        return special2CooldownTimer <= 0;
+    }
+    protected void StartSpecial1Cooldown()
+    {
+        special1CooldownTimer = special1CooldownDuration;
+    }
+
+    protected void StartSpecial2Cooldown()
+    {
+        special2CooldownTimer = special2CooldownDuration;
+    }
+
     public void ThrowDart()
     {
         if (CanThrowDart())
@@ -358,6 +387,7 @@ public abstract class CharacterController : MonoBehaviour
             Debug.LogError("DartHolder not found! Make sure it's in the scene.");
         }
     }
+
     private int FindDart()
     {
         for (int i = 0; i < darts.Length; i++)

@@ -132,6 +132,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -434,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      render_chibi_kakashi_by_marcinha20_d7lehw3_0: -6269815631478084921
+      render_chibi_kakashi_by_marcinha20_d7lehw3_1: -5628071788000070115
+      render_chibi_kakashi_by_marcinha20_d7lehw3_10: 5426215130102366855
+      render_chibi_kakashi_by_marcinha20_d7lehw3_11: -6990770733817481396
+      render_chibi_kakashi_by_marcinha20_d7lehw3_12: 7379570927781170093
+      render_chibi_kakashi_by_marcinha20_d7lehw3_2: 6402375448731308194
+      render_chibi_kakashi_by_marcinha20_d7lehw3_3: -8711244263417693954
+      render_chibi_kakashi_by_marcinha20_d7lehw3_4: 4190111980206006065
+      render_chibi_kakashi_by_marcinha20_d7lehw3_5: -6130277820000360515
+      render_chibi_kakashi_by_marcinha20_d7lehw3_6: -5945592454690029905
+      render_chibi_kakashi_by_marcinha20_d7lehw3_7: -2651267418112452206
+      render_chibi_kakashi_by_marcinha20_d7lehw3_8: 9059875978923513055
+      render_chibi_kakashi_by_marcinha20_d7lehw3_9: 3044729032527034415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

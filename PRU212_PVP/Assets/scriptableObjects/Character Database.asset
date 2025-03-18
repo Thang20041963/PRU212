@@ -19,7 +19,7 @@ MonoBehaviour:
     speed: 10
     atk: 10
     def: 10
-    mana: 10
+    chakra: 0
     character: {fileID: 5706290745374673860, guid: 7a21445a0857df94daab219201ff1c66, type: 3}
   - characterName: Kakashi
     characterSprite: {fileID: 1208040086343421634, guid: 936c4a3eb4fc4e54f9281a72d21c8444, type: 3}
@@ -27,5 +27,13 @@ MonoBehaviour:
     speed: 10
     atk: 10
     def: 10
-    mana: 10
+    chakra: 0
+    character: {fileID: 1536920935930106218, guid: 1fe318db940c2844a9e87cbd695b9b78, type: 3}
+  - characterName: Obito
+    characterSprite: {fileID: 1208040086343421634, guid: 936c4a3eb4fc4e54f9281a72d21c8444, type: 3}
+    health: 100
+    speed: 10
+    atk: 10
+    def: 10
+    chakra: 0
     character: {fileID: 1536920935930106218, guid: 1fe318db940c2844a9e87cbd695b9b78, type: 3}
