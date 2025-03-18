@@ -217,16 +217,17 @@ MonoBehaviour:
   punchRange: 0.2
   kickRange: 0.2
   darts:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
+  - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
   special1s:
   - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
   - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
