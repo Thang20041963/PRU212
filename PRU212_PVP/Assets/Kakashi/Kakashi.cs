@@ -9,22 +9,8 @@ public class Kakashi : CharacterController
 
     private void Start()
     {
-        //// Find the DartHolder object
-        //GameObject dartHolder = GameObject.Find("DartHolder");
-
-        //if (dartHolder != null)
-        //{
-        //    // Get all darts that are children of DartHolder
-        //    darts = new GameObject[dartHolder.transform.childCount];
-        //    for (int i = 0; i < dartHolder.transform.childCount; i++)
-        //    {
-        //        darts[i] = dartHolder.transform.GetChild(i).gameObject;
-        //    }
-        //}
-        //else
-        //{
-        //    Debug.LogError("DartHolder not found! Make sure it's in the scene.");
-        //}
+        AddSpecial1();
+        AddSpecial2();
     }
 
     public override void SpecialAttack1()
@@ -66,6 +52,48 @@ public class Kakashi : CharacterController
                 return i;
         }
         return 0;
+    }
+
+    public void AddSpecial1()
+    {
+        // Find the DartHolder object
+        GameObject special1Holder = GameObject.Find("Special1(Clone)") ? GameObject.Find("Special1(Clone)") : GameObject.Find("Special1");
+
+        if (special1Holder != null)
+        {
+            // Get all darts that are children of DartHolder
+            special1s = new GameObject[special1Holder.transform.childCount];
+            for (int i = 0; i < special1Holder.transform.childCount; i++)
+            {
+                special1s[i] = special1Holder.transform.GetChild(i).gameObject;
+            }
+        }
+        else
+        {
+            Debug.LogError("Special1 holder not found! Make sure it's in the scene.");
+        }
+    }
+
+    public void AddSpecial2()
+    {
+        // Find the DartHolder object
+        GameObject special2Holder = GameObject.Find("Special2(Clone)") ? GameObject.Find("Special2(Clone)") : GameObject.Find("Special2");
+
+
+        if (special2Holder != null)
+        {
+            
+            // Get all darts that are children of DartHolder
+            special2s = new GameObject[special2Holder.transform.childCount];
+            for (int i = 0; i < special2Holder.transform.childCount; i++)
+            {
+                special2s[i] = special2Holder.transform.GetChild(i).gameObject;
+            }
+        }
+        else
+        {
+            Debug.LogError("Special2 holder not found! Make sure it's in the scene.");
+        }
     }
 
 }
