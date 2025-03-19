@@ -17,7 +17,7 @@ public class SceneLoader : MonoBehaviour
         }
         else
         {
-            PlayerPrefs.SetInt("isRandomMode", 1);
+            PlayerPrefs.SetInt("isRandomMode", 0);
         }
        
         StartCoroutine(LoadScene(scene));
