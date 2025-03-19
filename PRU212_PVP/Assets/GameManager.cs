@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI; // Required for UI handling
@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private HealthBar healthBarP2;
     [SerializeField] private ChakraBar chakraBarP1;
     [SerializeField] private ChakraBar chakraBarP2;
-
+    [SerializeField] private GameObject gameOverPanel;
     private void Awake()
     {
         if (Instance == null)
@@ -36,6 +36,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        gameOverPanel.SetActive(false); // Ẩn panel lúc đầu
         InitializePlayers();
         InitializeMap();
     }
@@ -99,7 +100,9 @@ public class GameManager : MonoBehaviour
         if (isGameOver) return;
 
         isGameOver = true;
-
+        player.getAnimator().SetTrigger("die");
+        player.standingCollider.enabled = false;
+     //   player.lyingCollider.enabled = true;
         if (player == player1)
         {
             Debug.Log("Player 1 has been defeated! Player 2 wins!");
@@ -115,7 +118,8 @@ public class GameManager : MonoBehaviour
     private void EndGame()
     {
         Debug.Log("Game Over!");
-        Invoke("RestartGame", 3f); // Restart after 3 seconds
+        gameOverPanel.SetActive(true); // Hiện panel thông báo kết thúc game
+      
     }
 
     private void RestartGame()
