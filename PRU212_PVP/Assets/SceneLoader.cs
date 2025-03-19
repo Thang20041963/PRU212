@@ -5,17 +5,22 @@ public class SceneLoader : MonoBehaviour
 {
     public Animator transistion ;
     public float transistionTime = 1f;
-    // Update is called once per frame
-    void Update()
+    
+    
+    public void LoadNextScene(string scene)
     {
-        if (Input.GetKey(KeyCode.E))
+
+        if(scene == "randomMode")
         {
-            LoadNextScene();
+            PlayerPrefs.SetInt("isRandomMode", 1);
+            scene = "CharacterSelection";
         }
-    }
-    public void LoadNextScene()
-    {
-        StartCoroutine(LoadScene("MainMenuScene"));
+        else
+        {
+            PlayerPrefs.SetInt("isRandomMode", 0);
+        }
+       
+        StartCoroutine(LoadScene(scene));
         
     }
 
