@@ -15,35 +15,12 @@ public class ItachiMovement : CharacterController
     public Transform special2Point;
 
 
-    //public override void KickAttack()
-    //{
-    //    if (CanKick())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("kick");
-    //        Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, kickRange);
-    //        if (hit != null)
-    //        {
-    //            Debug.Log("Hit: " + hit.name);
-    //            // You can add logic here to damage the other player or object
-    //        }
-    //        StartKickCooldown();
-    //    }
-    //}
-
-    //public override void PunchAttack()
-    //{
-    //    if (CanPunch())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("punch");
-    //        Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, punchRange);
-    //        if (hit != null)
-    //        {
-    //            Debug.Log("Hit: " + hit.name);
-    //            // You can add logic here to damage the other player or object
-    //        }
-    //        StartPunchCooldown();
-    //    }
-    //}
+     void Start()
+    {
+        AddSpecialSkill1();
+        AddSpecialSkill2();
+    }
+    
 
     public override void SpecialAttack1()
     {
@@ -85,24 +62,45 @@ public class ItachiMovement : CharacterController
         }
         return 0;
     }
+    public void AddSpecialSkill1()
+    {
+        // Find the DartHolder object
+        GameObject sp1holder = GameObject.Find("ItachiS1(Clone)");
 
-    //public override void ThrowDart()
-    //{
-    //    if (CanThrowDart())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("throwDart");
-    //        darts[FindDart()].transform.position = dartPoint.position;
-    //        darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
-    //        StartDartCooldown();
-    //    }
-    //}
-    //private int FindDart()
-    //{
-    //    for (int i = 0; i < darts.Length; i++)
-    //    {
-    //        if (!darts[i].gameObject.activeInHierarchy)
-    //            return i;
-    //    }
-    //    return 0;
-    //}
+        if (sp1holder != null)
+        {
+            Debug.LogError("spq1");
+            special1s = new GameObject[sp1holder.transform.childCount];
+            for (int i = 0; i < sp1holder.transform.childCount; i++)
+            {
+                special1s[i] = sp1holder.transform.GetChild(i).gameObject;
+            }
+        }
+        else
+        {
+            Debug.LogError("DartHolder not found! Make sure it's in the scene.");
+        }
+    }
+
+    public void AddSpecialSkill2()
+    {
+        // Find the DartHolder object
+        GameObject sp2holder = GameObject.Find("ItachiS2(Clone)");
+
+        if (sp2holder != null)
+        {
+            Debug.LogError("sp2ww");
+            special2s = new GameObject[sp2holder.transform.childCount];
+            for (int i = 0; i < sp2holder.transform.childCount; i++)
+            {
+                special2s[i] = sp2holder.transform.GetChild(i).gameObject;
+            }
+        }
+        else
+        {
+            Debug.LogError("DartHolder not found! Make sure it's in the scene.");
+        }
+    }
+
+    
 }

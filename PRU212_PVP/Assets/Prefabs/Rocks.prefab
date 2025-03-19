@@ -147,7 +147,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -165,3 +165,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5f63ce30aa8b9c4bbaa3d26a8f6fdc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  crackEffectPrefab: {fileID: 179101564423414991, guid: 61c500597d2955946835be23bee4f1ac, type: 3}

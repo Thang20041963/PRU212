@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e123e0ad98d0aad4a9e99f9297fcf674
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8816668504064893586
+    second: uchiha_madara_0
+  - first:
+      213: 8568148142982138254
+    second: uchiha_madara_1
+  - first:
+      213: -6178205379525666846
+    second: uchiha_madara_2
+  - first:
+      213: 98145263916338152
+    second: uchiha_madara_3
+  - first:
+      213: -965484088767825426
+    second: uchiha_madara_4
+  - first:
+      213: -1984388868930607436
+    second: uchiha_madara_5
+  - first:
+      213: 3534793519757839485
+    second: uchiha_madara_6
+  - first:
+      213: 710526347099009712
+    second: uchiha_madara_7
+  - first:
+      213: -7879543841161483507
+    second: uchiha_madara_8
+  - first:
+      213: 35564229849623093
+    second: uchiha_madara_9
+  - first:
+      213: 3472495906774718636
+    second: uchiha_madara_10
+  - first:
+      213: -8235494520384615200
+    second: uchiha_madara_11
+  - first:
+      213: -8864183909353137794
+    second: uchiha_madara_12
+  - first:
+      213: 8039198982184606084
+    second: uchiha_madara_13
+  - first:
+      213: 5785988216515902903
+    second: uchiha_madara_14
+  - first:
+      213: 8450995972816107843
+    second: uchiha_madara_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uchiha_madara_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2517
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a92faa491b5a70800000000000000
+      internalID: 8816668504064893586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2517
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e898f5d075d28e670800000000000000
+      internalID: 8568148142982138254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2517
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e717fbd0fa924aa0800000000000000
+      internalID: -6178205379525666846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2517
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebce18f89eac5100800000000000000
+      internalID: 98145263916338152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2517
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b3bc2659e992f0800000000000000
+      internalID: -965484088767825426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2517
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e62366d80674e0800000000000000
+      internalID: -1984388868930607436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2517
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc4836afb1e0130800000000000000
+      internalID: 3534793519757839485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2517
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2746ab2fb4cd900800000000000000
+      internalID: 710526347099009712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2517
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0be373cf9c36a290800000000000000
+      internalID: -7879543841161483507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2518
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aa5e68a795e7000800000000000000
+      internalID: 35564229849623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2518
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81e4f01a8c03030800000000000000
+      internalID: 3472495906774718636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2518
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec8cc20e55a5bd80800000000000000
+      internalID: -8235494520384615200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2518
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79d54be2b71cf480800000000000000
+      internalID: -8864183909353137794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2518
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899bcb71e8f09f60800000000000000
+      internalID: 8039198982184606084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_14
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2518
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb600a0a5fb4050800000000000000
+      internalID: 5785988216515902903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uchiha_madara_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2518
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f5fddf08f74570800000000000000
+      internalID: 8450995972816107843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uchiha_madara_0: 8816668504064893586
+      uchiha_madara_1: 8568148142982138254
+      uchiha_madara_10: 3472495906774718636
+      uchiha_madara_11: -8235494520384615200
+      uchiha_madara_12: -8864183909353137794
+      uchiha_madara_13: 8039198982184606084
+      uchiha_madara_14: 5785988216515902903
+      uchiha_madara_15: 8450995972816107843
+      uchiha_madara_2: -6178205379525666846
+      uchiha_madara_3: 98145263916338152
+      uchiha_madara_4: -965484088767825426
+      uchiha_madara_5: -1984388868930607436
+      uchiha_madara_6: 3534793519757839485
+      uchiha_madara_7: 710526347099009712
+      uchiha_madara_8: -7879543841161483507
+      uchiha_madara_9: 35564229849623093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
