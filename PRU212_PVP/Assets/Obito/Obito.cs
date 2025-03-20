@@ -5,10 +5,6 @@ public class Obito : CharacterController
     public Transform specialPoint;
     public GameObject[] kamuis;
 
-    public void Start()
-    {
-        AddKamuis();
-    }
     //public override void KickAttack()
     //{
     //    if (CanKick())
@@ -56,15 +52,15 @@ public class Obito : CharacterController
     public void AddKamuis()
     {
         // Find the DartHolder object
-        GameObject dartHolder = GameObject.Find("Special1Holder(Clone)") ? GameObject.Find("Special1Holder(Clone)") : GameObject.Find("Special1Holder");
+        GameObject dartHolder = GameObject.Find("Special1Holder");
 
         if (dartHolder != null)
         {
             // Get all darts that are children of DartHolder
-            kamuis = new GameObject[dartHolder.transform.childCount];
+            darts = new GameObject[dartHolder.transform.childCount];
             for (int i = 0; i < dartHolder.transform.childCount; i++)
             {
-                kamuis[i] = dartHolder.transform.GetChild(i).gameObject;
+                darts[i] = dartHolder.transform.GetChild(i).gameObject;
             }
         }
         else
