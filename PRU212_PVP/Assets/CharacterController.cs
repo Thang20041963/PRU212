@@ -38,6 +38,10 @@ public abstract class CharacterController : MonoBehaviour
     public float special2CooldownDuration = 0.5f; // Duration of cooldown in seconds
     private float special2CooldownTimer = 0.0f;
 
+    public float sp1Charka;
+    public float sp2Charka;
+
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteToDisplay;
@@ -51,14 +55,38 @@ public abstract class CharacterController : MonoBehaviour
     public GameObject[] darts;
     private bool isStunned = false; // Add this flag
 
-    
+    private bool isWait = false;
 
+    private bool isBlock = false;
+
+
+    public bool getBlockState()
+    {
+        return isBlock;
+    }
+    public void setBlockState(bool block)
+    {
+        isBlock = block;
+    }
+
+
+
+
+    public bool getWaitState()
+    {
+        return isWait;
+    }
+    public void setWaitState(bool wait)
+    {
+        Debug.Log(wait);
+        isWait = wait;
+    }
     private enum AttackState { None, Punching, Kicking, Throwing }
     private AttackState currentAttackState = AttackState.None;
 
     private void Start()
     {
-        
+
         currentHealth = maxHealth;
         currentChakra = maxChakra;
         UpdateUI();
@@ -87,16 +115,16 @@ public abstract class CharacterController : MonoBehaviour
     public void TakeDamage(float damage)
     {
         animator.SetTrigger("hurt");
-       StopMovement();
+        StopMovement();
         currentHealth -= damage;
         if (currentHealth <= 0)
-        { 
+        {
             currentHealth = 0;
             GameManager.Instance.PlayerDied(this);
         }
         else
         {
-            StartCoroutine(StunCharacter(1f)); // Stun the character for 0.25s
+            StartCoroutine(StunCharacter(1f)); 
         }
         UpdateUI();
     }
@@ -144,15 +172,17 @@ public abstract class CharacterController : MonoBehaviour
     {
         characterName = character.characterName;
         characterSprite = character.characterSprite;
-        health = character.health;
         speed = character.speed;
         atk = character.atk;
         def = character.def;
-        
+        health = character.health;
         maxHealth = character.health;
         currentHealth = character.health;
+        chakra = character.chakra;
         maxChakra = character.chakra;
-        currentChakra = character.chakra/2 ;
+        currentChakra = character.chakra / 2;
+        sp1Charka = character.sp1Charka;
+        sp2Charka = character.sp2Charka;
         AddDart();
         if (spriteToDisplay != null && characterSprite != null)
         {
@@ -209,7 +239,7 @@ public abstract class CharacterController : MonoBehaviour
 
     private void HandleActions(List<string> actions)
     {
-        if (isStunned) return; 
+        if (isStunned) return;
         bool isMovingLeft = actions.Contains("moveLeft");
         bool isMovingRight = actions.Contains("moveRight");
         bool isJumping = actions.Contains("jump");
@@ -263,7 +293,7 @@ public abstract class CharacterController : MonoBehaviour
     private void MoveLeftRight(float direction)
     {
         bool block = animator.GetBool("block");
-        if (!block)
+        if (!block && isWait == false)
         {
             rb.linearVelocity = new Vector2(direction * speed, rb.linearVelocity.y);
             //transform.localScale = new Vector3(direction > 0 ? 1 : -1, 1, 1);
@@ -289,17 +319,17 @@ public abstract class CharacterController : MonoBehaviour
 
     protected bool CanPunch()
     {
-        return punchCooldownTimer <= 0 && IsGrounded() && currentAttackState == AttackState.None;
+        return punchCooldownTimer <= 0 && IsGrounded() && currentAttackState == AttackState.None && isBlock == false;
     }
 
     protected bool CanKick()
     {
-        return kickCooldownTimer <= 0 && IsGrounded() && currentAttackState == AttackState.None;
+        return kickCooldownTimer <= 0 && IsGrounded() && currentAttackState == AttackState.None && isBlock == false;
     }
 
     protected bool CanThrowDart()
     {
-        return dartCooldownTimer <= 0 && currentAttackState == AttackState.None;
+        return dartCooldownTimer <= 0 && currentAttackState == AttackState.None && isBlock == false;
     }
 
 
@@ -308,14 +338,14 @@ public abstract class CharacterController : MonoBehaviour
         dartCooldownTimer = dartCooldownDuration;
     }
 
-   
+
 
     protected void StartPunchCooldown()
     {
         punchCooldownTimer = punchCooldownDuration;
     }
 
-   
+
 
     protected void StartKickCooldown()
     {
@@ -323,7 +353,7 @@ public abstract class CharacterController : MonoBehaviour
     }
     protected bool CanSpecial1()
     {
-        return special1CooldownTimer <= 0;
+        return special1CooldownTimer <= 0 && currentChakra >= sp1Charka  && isBlock == false;
     }
 
     protected void StartSpecial1Cooldown()
@@ -333,7 +363,7 @@ public abstract class CharacterController : MonoBehaviour
 
     protected bool CanSpecial2()
     {
-        return special2CooldownTimer <= 0;
+        return special2CooldownTimer <= 0 && currentChakra >= sp2Charka && isBlock == false;
     }
 
     protected void StartSpecial2Cooldown()
@@ -341,13 +371,15 @@ public abstract class CharacterController : MonoBehaviour
         special2CooldownTimer = special2CooldownDuration;
     }
 
+ 
+
     public void Block()
     {
 
         bool state = animator.GetBool("block");
 
         animator.SetBool("block", !state);
-
+        setBlockState(!state);
     }
     public void PunchAttack()
     {
@@ -409,7 +441,7 @@ public abstract class CharacterController : MonoBehaviour
             GetComponent<Animator>().SetTrigger("throwDart");
             darts[FindDart()].transform.position = dartPoint.position;
             darts[FindDart()].GetComponent<Projectile>().SetOwner(this.tag);
-            darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));   
+            darts[FindDart()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartDartCooldown();
             StartCoroutine(ResetAttackStateAfterCooldown(dartCooldownDuration));
         }

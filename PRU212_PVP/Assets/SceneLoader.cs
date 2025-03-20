@@ -9,6 +9,17 @@ public class SceneLoader : MonoBehaviour
     
     public void LoadNextScene(string scene)
     {
+
+        if(scene == "randomMode")
+        {
+            PlayerPrefs.SetInt("isRandomMode", 1);
+            scene = "CharacterSelection";
+        }
+        else
+        {
+            PlayerPrefs.SetInt("isRandomMode", 0);
+        }
+       
         StartCoroutine(LoadScene(scene));
         
     }

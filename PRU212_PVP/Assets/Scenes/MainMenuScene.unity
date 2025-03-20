@@ -228,7 +228,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7353852143998480529, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
+  m_Sprite: {fileID: -3928433556869875541, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -922,7 +922,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6222969266184316099, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1041,6 +1041,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Instruction
       objectReference: {fileID: 0}
+    - target: {fileID: 8225622042828318543, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -3928433556869875541, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1298,7 +1302,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7353852143998480529, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
+  m_Sprite: {fileID: -3928433556869875541, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1686,7 +1690,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7353852143998480529, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
+  m_Sprite: {fileID: -3928433556869875541, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1842,7 +1846,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7353852143998480529, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
+  m_Sprite: {fileID: -3928433556869875541, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2123,6 +2127,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: SceneLoader, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 8225622042828318543, guid: d539270feca81ca4597ab73fe5bc4f07, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -3928433556869875541, guid: 6bdf319e7c8462740960e01c47565d15, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
