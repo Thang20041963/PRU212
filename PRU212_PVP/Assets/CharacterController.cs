@@ -1,5 +1,6 @@
 ﻿using JetBrains.Annotations;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -431,26 +432,7 @@ public abstract class CharacterController : MonoBehaviour
     }
     public abstract void SpecialAttack1();
     public abstract void SpecialAttack2();
-    protected bool CanSpecial1()
-    {
-        //if (special1CooldownTimer <= 0) Console.WriteLine("can use");
-        return special1CooldownTimer <= 0;
-    }
-
-    protected bool CanSpecial2()
-    {
-        //if (special1CooldownTimer <= 0) Console.WriteLine("can use");
-        return special2CooldownTimer <= 0;
-    }
-    protected void StartSpecial1Cooldown()
-    {
-        special1CooldownTimer = special1CooldownDuration;
-    }
-
-    protected void StartSpecial2Cooldown()
-    {
-        special2CooldownTimer = special2CooldownDuration;
-    }
+   
 
     public void ThrowDart()
     {

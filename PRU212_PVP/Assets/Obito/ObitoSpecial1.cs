@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Special1 : MonoBehaviour
+public class ObitoSpecial1 : MonoBehaviour
 {
     public float speed = 20f;
     private float direction;
