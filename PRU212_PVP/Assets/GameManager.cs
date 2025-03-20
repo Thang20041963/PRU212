@@ -1,4 +1,5 @@
 ﻿using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI; // Required for UI handling
@@ -22,6 +23,12 @@ public class GameManager : MonoBehaviour
     [SerializeField] private ChakraBar chakraBarP2;
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private GameObject backGround;
+    [SerializeField] private TMP_Text  winnerAnnoucement;
+
+    private int nor; // number of rounds
+    private int healthsetting;
+    private int currentRound = 1;
+
     private void Awake()
     {
         if (Instance == null)
@@ -37,6 +44,8 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        nor = PlayerPrefs.GetInt("NoRSetting", 1);
+        healthsetting  = PlayerPrefs.GetInt("HealthSetting", 100);
         gameOverPanel.SetActive(false); // Ẩn panel lúc đầu
         InitializePlayers();
         InitializeMap();
@@ -131,15 +140,36 @@ public class GameManager : MonoBehaviour
 
         if (player == player1)
         {
-            Debug.Log("Player 1 has been defeated! Player 2 wins!");
+            winnerAnnoucement.text = "Player 1 has been defeated! Player 2 wins!";
         }
         else if (player == player2)
         {
-            Debug.Log("Player 2 has been defeated! Player 1 wins!");
+            winnerAnnoucement.text = "Player 2 has been defeated! Player 1 wins!";
+            
         }
+        currentRound++;
 
-        EndGame();
+        if (currentRound > nor)
+        {
+            EndGame(); // End the game if max rounds reached
+        }
+        else
+        {
+            Invoke("RestartRound", 2f); // Delay before restarting
+        }
     }
+    private void RestartRound()
+    {
+        isGameOver = false;
+        player1.ResetCharacter(); // Implement a reset function
+        player2.ResetCharacter();
+        healthBarP1.SetMaxHealth(Convert.ToInt32(player1.health));
+        healthBarP2.SetMaxHealth(Convert.ToInt32(player2.health));
+        chakraBarP1.SetMaxchakra(Convert.ToInt32(player1.chakra));
+        chakraBarP2.SetMaxchakra(Convert.ToInt32(player2.chakra));
+        gameOverPanel.SetActive(false);
+    }
+
 
     private void EndGame()
     {

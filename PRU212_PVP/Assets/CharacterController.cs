@@ -69,7 +69,39 @@ public abstract class CharacterController : MonoBehaviour
     {
         isBlock = block;
     }
+    public void ResetCharacter()
+    {
+        // Restore health and chakra to their maximum values
+        currentHealth = maxHealth;
+        currentChakra = maxChakra;
 
+        // Update UI elements
+        healthBar?.SetHealth((int)currentHealth);
+        chakraBar?.Setchakra((int)currentChakra);
+
+        // Reset animation state
+        if (animator != null)
+        {
+            animator.ResetTrigger("die");
+            animator.Play("Idle");
+        }
+
+        // Reset cooldown timers
+        dartCooldownTimer = 0f;
+        punchCooldownTimer = 0f;
+        kickCooldownTimer = 0f;
+        special1CooldownTimer = 0f;
+        special2CooldownTimer = 0f;
+
+        // Reset other states
+        isStunned = false;
+        isWait = false;
+        isBlock = false;
+        currentAttackState = AttackState.None;
+
+        // Stop any ongoing movement
+        rb.linearVelocity = Vector2.zero;
+    }
 
 
 
