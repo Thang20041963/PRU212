@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Kakashi : CharacterController
 {
-    public GameObject[] special1s;
-    public GameObject[] special2s;
+    public GameObject special1s;
+    public GameObject special2s;
     public Transform special1Point;
     public Transform special2Point;
 
@@ -17,9 +17,11 @@ public class Kakashi : CharacterController
     {
         if (CanSpecial1())
         {
+            UseChakra(sp1Charka);
             GetComponent<Animator>().SetTrigger("special1");
-            special1s[FindSpecial1()].transform.position = special1Point.position;
-            special1s[FindSpecial1()].GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
+            special1s.transform.position = special1Point.position;
+            special1s.GetComponent<Special1>().SetOwner(this.tag);
+            special1s.GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial1Cooldown();
         }
     }
@@ -28,30 +30,35 @@ public class Kakashi : CharacterController
     {
         if (CanSpecial2())
         {
-            special2s[FindSpecial2()].transform.position = special2Point.position;
-            special2s[FindSpecial2()].GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
-            StartSpecial2Cooldown();
+            UseChakra(sp2Charka);
+            setWaitState(true);
+            Invoke(nameof(CallSpecial2), 0f);
+
         }
+        
     }
 
-    private int FindSpecial1()
+    private void CallSpecial2()
     {
-        for (int i = 0; i < special1s.Length; i++)
+        if (special2s != null)
         {
-            if (!special1s[i].gameObject.activeInHierarchy)
-                return i;
+            special2s.SetActive(true);
+            special2s.GetComponent<Special2>().SetOwner(this.tag);
+            special2s.GetComponent<Special2>().SetDamage(atk);
+            Invoke(nameof(Special2Att), 1f);
         }
-        return 0;
     }
-
-    private int FindSpecial2()
+    private void Special2Att()
     {
-        for (int i = 0; i < special2s.Length; i++)
-        {
-            if (!special2s[i].gameObject.activeInHierarchy)
-                return i;
-        }
-        return 0;
+
+        special2s.GetComponent<Special2>().ActivateSpecial2(Mathf.Sign(transform.localScale.x));
+        setWaitState(false);
+        Invoke(nameof(Disable), 1.5f);
+    }
+    private void Disable()
+    {
+        special2s.gameObject.SetActive(false);
+
     }
 
     public void AddSpecial1()
@@ -62,11 +69,8 @@ public class Kakashi : CharacterController
         if (special1Holder != null)
         {
             // Get all darts that are children of DartHolder
-            special1s = new GameObject[special1Holder.transform.childCount];
-            for (int i = 0; i < special1Holder.transform.childCount; i++)
-            {
-                special1s[i] = special1Holder.transform.GetChild(i).gameObject;
-            }
+            special1s = special1Holder;
+            special1Holder.SetActive(false);
         }
         else
         {
@@ -76,24 +80,19 @@ public class Kakashi : CharacterController
 
     public void AddSpecial2()
     {
-        // Find the DartHolder object
-        GameObject special2Holder = GameObject.Find("Special2(Clone)") ? GameObject.Find("Special2(Clone)") : GameObject.Find("Special2");
 
-
-        if (special2Holder != null)
+        GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
+        foreach (GameObject obj in allObjects)
         {
-            
-            // Get all darts that are children of DartHolder
-            special2s = new GameObject[special2Holder.transform.childCount];
-            for (int i = 0; i < special2Holder.transform.childCount; i++)
+            if (obj.name == "Special2(Clone)")
             {
-                special2s[i] = special2Holder.transform.GetChild(i).gameObject;
+                special2s = obj;
+                obj.SetActive(false);
+                Debug.Log("found");
+                return;
             }
         }
-        else
-        {
-            Debug.LogError("Special2 holder not found! Make sure it's in the scene.");
-        }
+        Debug.LogWarning("Special2 holder not found! Make sure it's in the scene.");
     }
 
 }
