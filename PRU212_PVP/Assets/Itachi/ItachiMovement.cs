@@ -9,8 +9,8 @@ public class ItachiMovement : CharacterController
     //public float kickRange = 0.5f;
     // public GameObject[] darts;
 
-    public GameObject special1s;
-    public GameObject special2s;
+    public GameObject[] special1s;
+    public GameObject[] special2s;
     public Transform special1Point;
     public Transform special2Point;
 
@@ -27,8 +27,8 @@ public class ItachiMovement : CharacterController
         if (CanSpecial1())
         {
             GetComponent<Animator>().SetTrigger("special1");
-            special1s.transform.position = special1Point.position;
-            special1s.GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
+            special1s[FindSpecial1()].transform.position = special1Point.position;
+            special1s[FindSpecial1()].GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial1Cooldown();
         }
     }
@@ -37,13 +37,31 @@ public class ItachiMovement : CharacterController
     {
         if (CanSpecial2())
         {
-            special2s.transform.position = special2Point.position;
-            special2s.GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
+            special2s[FindSpecial2()].transform.position = special2Point.position;
+            special2s[FindSpecial2()].GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial2Cooldown();
         }
     }
 
+    private int FindSpecial1()
+    {
+        for (int i = 0; i < special1s.Length; i++)
+        {
+            if (!special1s[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
 
+    private int FindSpecial2()
+    {
+        for (int i = 0; i < special2s.Length; i++)
+        {
+            if (!special2s[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
     public void AddSpecialSkill1()
     {
         // Find the DartHolder object
@@ -51,11 +69,12 @@ public class ItachiMovement : CharacterController
 
         if (sp1holder != null)
         {
-          
-            special1s = sp1holder;
-            sp1holder.SetActive(false);
-
-
+            Debug.LogError("spq1");
+            special1s = new GameObject[sp1holder.transform.childCount];
+            for (int i = 0; i < sp1holder.transform.childCount; i++)
+            {
+                special1s[i] = sp1holder.transform.GetChild(i).gameObject;
+            }
         }
         else
         {
@@ -70,9 +89,12 @@ public class ItachiMovement : CharacterController
 
         if (sp2holder != null)
         {
-            
-            special2s = sp2holder;
-            sp2holder.SetActive(false);
+            Debug.LogError("sp2ww");
+            special2s = new GameObject[sp2holder.transform.childCount];
+            for (int i = 0; i < sp2holder.transform.childCount; i++)
+            {
+                special2s[i] = sp2holder.transform.GetChild(i).gameObject;
+            }
         }
         else
         {

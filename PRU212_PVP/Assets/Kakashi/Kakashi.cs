@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Kakashi : CharacterController
 {
-    public GameObject special1s;
-    public GameObject special2s;
+    public GameObject[] special1s;
+    public GameObject[] special2s;
     public Transform special1Point;
     public Transform special2Point;
 
@@ -18,8 +18,8 @@ public class Kakashi : CharacterController
         if (CanSpecial1())
         {
             GetComponent<Animator>().SetTrigger("special1");
-            special1s.transform.position = special1Point.position;
-            special1s.GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
+            special1s[FindSpecial1()].transform.position = special1Point.position;
+            special1s[FindSpecial1()].GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial1Cooldown();
         }
     }
@@ -28,31 +28,31 @@ public class Kakashi : CharacterController
     {
         if (CanSpecial2())
         {
-            special2s.transform.position = special2Point.position;
-            special2s.GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
+            special2s[FindSpecial2()].transform.position = special2Point.position;
+            special2s[FindSpecial2()].GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial2Cooldown();
         }
     }
 
-    //private int FindSpecial1()
-    //{
-    //    for (int i = 0; i < special1s.Length; i++)
-    //    {
-    //        if (!special1s[i].gameObject.activeInHierarchy)
-    //            return i;
-    //    }
-    //    return 0;
-    //}
+    private int FindSpecial1()
+    {
+        for (int i = 0; i < special1s.Length; i++)
+        {
+            if (!special1s[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
 
-    //private int FindSpecial2()
-    //{
-    //    for (int i = 0; i < special2s.Length; i++)
-    //    {
-    //        if (!special2s[i].gameObject.activeInHierarchy)
-    //            return i;
-    //    }
-    //    return 0;
-    //}
+    private int FindSpecial2()
+    {
+        for (int i = 0; i < special2s.Length; i++)
+        {
+            if (!special2s[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
 
     public void AddSpecial1()
     {
@@ -62,8 +62,11 @@ public class Kakashi : CharacterController
         if (special1Holder != null)
         {
             // Get all darts that are children of DartHolder
-            special1s = special1Holder;
-            special1Holder.SetActive(false);
+            special1s = new GameObject[special1Holder.transform.childCount];
+            for (int i = 0; i < special1Holder.transform.childCount; i++)
+            {
+                special1s[i] = special1Holder.transform.GetChild(i).gameObject;
+            }
         }
         else
         {
@@ -81,8 +84,11 @@ public class Kakashi : CharacterController
         {
             
             // Get all darts that are children of DartHolder
-            special2s = special2Holder;
-            special2Holder.SetActive(false);
+            special2s = new GameObject[special2Holder.transform.childCount];
+            for (int i = 0; i < special2Holder.transform.childCount; i++)
+            {
+                special2s[i] = special2Holder.transform.GetChild(i).gameObject;
+            }
         }
         else
         {
