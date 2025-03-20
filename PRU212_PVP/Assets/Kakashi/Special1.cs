@@ -1,5 +1,5 @@
 using UnityEngine;
-
+// Day la cua con itachi
 public class Special1 : MonoBehaviour
 {
     public float speed = 20f;

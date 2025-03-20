@@ -5,36 +5,10 @@ public class Obito : CharacterController
     public Transform specialPoint;
     public GameObject[] kamuis;
 
-    //public override void KickAttack()
-    //{
-    //    if (CanKick())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("kick");
-    //        Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, kickRange);
-    //        if (hit != null)
-    //        {
-    //            Debug.Log("Hit: " + hit.name);
-    //            // You can add logic here to damage the other player or object
-    //        }
-    //        StartKickCooldown();
-    //    }
-
-    //}
-
-    //public override void PunchAttack()
-    //{
-    //    if (CanPunch())
-    //    {
-    //        GetComponent<Animator>().SetTrigger("punch");
-    //        Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, punchRange);
-    //        if (hit != null)
-    //        {
-    //            Debug.Log("Hit: " + hit.name);
-    //            // You can add logic here to damage the other player or object
-    //        }
-    //        StartKickCooldown();
-    //    }
-    //}
+    private void Start()
+    {
+        AddKamuis();
+    }
 
     public override void SpecialAttack1()
     {
@@ -43,7 +17,7 @@ public class Obito : CharacterController
             {
                 GetComponent<Animator>().SetTrigger("special1");
                 kamuis[FindKamui()].transform.position = specialPoint.position;
-                kamuis[FindKamui()].GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
+                kamuis[FindKamui()].GetComponent<ObitoSpecial1>().SetDirection(Mathf.Sign(transform.localScale.x));
                 StartSpecial1Cooldown();
             }
         }
@@ -52,15 +26,15 @@ public class Obito : CharacterController
     public void AddKamuis()
     {
         // Find the DartHolder object
-        GameObject dartHolder = GameObject.Find("Special1Holder");
+        GameObject kamuisHolder = GameObject.Find("Special1Holder") ? GameObject.Find("Special1Holder"): GameObject.Find("Special1Holder(Clone)");
 
-        if (dartHolder != null)
+        if (kamuisHolder != null)
         {
             // Get all darts that are children of DartHolder
-            darts = new GameObject[dartHolder.transform.childCount];
-            for (int i = 0; i < dartHolder.transform.childCount; i++)
+            kamuis = new GameObject[kamuisHolder.transform.childCount];
+            for (int i = 0; i < kamuisHolder.transform.childCount; i++)
             {
-                darts[i] = dartHolder.transform.GetChild(i).gameObject;
+                kamuis[i] = kamuisHolder.transform.GetChild(i).gameObject;
             }
         }
         else
