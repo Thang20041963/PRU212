@@ -9,6 +9,7 @@ public class SceneLoader : MonoBehaviour
     
     public void LoadNextScene(string scene)
     {
+        Debug.Log(scene);
 
         if(scene == "randomMode")
         {
@@ -27,6 +28,7 @@ public class SceneLoader : MonoBehaviour
 
     IEnumerator LoadScene(string scene)
     {
+        Debug.Log("heheh");
         transistion.SetTrigger("fade");
 
         yield return new WaitForSeconds(transistionTime);
