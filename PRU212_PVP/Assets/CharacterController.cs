@@ -16,8 +16,8 @@ public abstract class CharacterController : MonoBehaviour
     public float chakra;
     public LayerMask groundLayer;
     public Transform groundCheck;
-    private float maxHealth = 100f;
-    private float maxChakra = 100f;
+    private float maxHealth ;
+    private float maxChakra ;
     private float currentHealth;
     private float currentChakra;
 
@@ -72,8 +72,8 @@ public abstract class CharacterController : MonoBehaviour
     public void ResetCharacter()
     {
         // Restore health and chakra to their maximum values
-        currentHealth = maxHealth;
-        currentChakra = maxChakra;
+        currentHealth = health;
+        currentChakra = chakra/2;
 
         // Update UI elements
         healthBar?.SetHealth((int)currentHealth);
@@ -86,13 +86,8 @@ public abstract class CharacterController : MonoBehaviour
             animator.Play("Idle");
         }
 
-        // Reset cooldown timers
-        dartCooldownTimer = 0f;
-        punchCooldownTimer = 0f;
-        kickCooldownTimer = 0f;
-        special1CooldownTimer = 0f;
-        special2CooldownTimer = 0f;
 
+        animator.SetBool("block", false);
         // Reset other states
         isStunned = false;
         isWait = false;
@@ -205,14 +200,16 @@ public abstract class CharacterController : MonoBehaviour
 
     public void SetUpCharacter(Character character)
     {
+
+        var healthsetting = PlayerPrefs.GetInt("HealthSetting", 100);
         characterName = character.characterName;
         characterSprite = character.characterSprite;
         speed = character.speed;
         atk = character.atk;
         def = character.def;
-        health = character.health;
-        maxHealth = character.health;
-        currentHealth = character.health;
+        health = healthsetting;
+        maxHealth = healthsetting;
+        currentHealth = healthsetting;
         chakra = character.chakra;
         maxChakra = character.chakra;
         currentChakra = character.chakra / 2;
@@ -337,7 +334,7 @@ public abstract class CharacterController : MonoBehaviour
     {
         if (IsGrounded())
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed); // Apply jump force
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed*1.5f); // Apply jump force
             animator.SetTrigger("jump");
         }
 

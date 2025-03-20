@@ -24,11 +24,17 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private GameObject backGround;
     [SerializeField] private TMP_Text  winnerAnnoucement;
-
+    
+    [SerializeField] private GameObject winnerRoundPanel;
+    [SerializeField] private TMP_Text roundAnnouncementText;
+    [SerializeField] private Button continueButton;
+    [SerializeField] private Button homeButton;
     private int nor; // number of rounds
     private int healthsetting;
     private int currentRound = 1;
-
+    private string roundAnnoucment = "";
+    private int p1score = 0;
+    private int p2score = 0;
     private void Awake()
     {
         if (Instance == null)
@@ -45,10 +51,10 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         nor = PlayerPrefs.GetInt("NoRSetting", 1);
-        healthsetting  = PlayerPrefs.GetInt("HealthSetting", 100);
         gameOverPanel.SetActive(false); // Ẩn panel lúc đầu
         InitializePlayers();
         InitializeMap();
+        Time.timeScale = 1f;
     }
 
     private void InitializePlayers()
@@ -129,7 +135,14 @@ public class GameManager : MonoBehaviour
         int mapselectionId = PlayerPrefs.GetInt("selectedMapOption");
         Map map = MapDB.GetMap(mapselectionId);
         backGround.GetComponent<Image>().sprite = map.mapSprite;
-    }
+        if (map.mapComponents != null)
+        {
+            foreach (MapComponent component in map.mapComponents)
+            {
+                Instantiate(component.mapComponent, new Vector3(component.positionX, component.positionY, component.positionZ), Quaternion.identity);
+            }
+        }
+     }
 
     public void PlayerDied(CharacterController player)
     {
@@ -137,21 +150,26 @@ public class GameManager : MonoBehaviour
 
         isGameOver = true;
         player.getAnimator().SetTrigger("die");
-
+        
         if (player == player1)
         {
             winnerAnnoucement.text = "Player 1 has been defeated! Player 2 wins!";
+            roundAnnoucment = "Player 2 wins round!";
+            p2score++;
         }
         else if (player == player2)
         {
             winnerAnnoucement.text = "Player 2 has been defeated! Player 1 wins!";
-            
+            roundAnnoucment = "Player 1 wins round!";
+            p1score++;
+
         }
         currentRound++;
 
-        if (currentRound > nor)
+        if (currentRound > nor || p1score >= nor/2+1 || p2score >= nor / 2 + 1)
         {
-            EndGame(); // End the game if max rounds reached
+            Invoke("EndGame", 2f);
+         
         }
         else
         {
@@ -160,22 +178,57 @@ public class GameManager : MonoBehaviour
     }
     private void RestartRound()
     {
+        
         isGameOver = false;
-        player1.ResetCharacter(); // Implement a reset function
+        player1.enabled = false;
+        player2.enabled = false;
+        // Hiển thị panel thông báo
+        winnerRoundPanel.SetActive(true);
+        roundAnnouncementText.text = roundAnnoucment;
+
+        // Dừng game lại
+        Time.timeScale = 0f;
+
+        // Gán sự kiện cho các nút
+        continueButton.onClick.RemoveAllListeners();
+        continueButton.onClick.AddListener(ContinueGame);
+
+        homeButton.onClick.RemoveAllListeners();
+        homeButton.onClick.AddListener(GoToHome);
+    }
+
+    private void ContinueGame()
+    {
+        // Ẩn thông báo
+        winnerRoundPanel.SetActive(false);
+        player1.enabled = true;
+        player2.enabled = true;
+        // Reset lại nhân vật và thanh máu/chakra
+        player1.ResetCharacter();
         player2.ResetCharacter();
-        healthBarP1.SetMaxHealth(Convert.ToInt32(player1.health));
-        healthBarP2.SetMaxHealth(Convert.ToInt32(player2.health));
-        chakraBarP1.SetMaxchakra(Convert.ToInt32(player1.chakra));
-        chakraBarP2.SetMaxchakra(Convert.ToInt32(player2.chakra));
+        
+
+        // Ẩn bảng Game Over nếu đang hiển thị
         gameOverPanel.SetActive(false);
+
+        // Tiếp tục game
+        Time.timeScale = 1f;
+    }
+
+    private void GoToHome()
+    {
+        // Load lại menu chính (hoặc đổi Scene)
+        SceneManager.LoadScene("MainMenuScene");
     }
 
 
     private void EndGame()
     {
-        Debug.Log("Game Over!");
+        player1.GetComponent<SpriteRenderer>().enabled = false;
+        player2.GetComponent<SpriteRenderer>().enabled = false;
         gameOverPanel.SetActive(true); // Hiện panel thông báo kết thúc game
-
+                                       // Time.timeScale = 0f;
+        Destroy(gameObject); // Hủy GameManager cũ
     }
 
     public void RestartGame()
