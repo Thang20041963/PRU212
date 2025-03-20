@@ -1,9 +1,7 @@
 ﻿using JetBrains.Annotations;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public abstract class CharacterController : MonoBehaviour
 {
@@ -16,8 +14,8 @@ public abstract class CharacterController : MonoBehaviour
     public float chakra;
     public LayerMask groundLayer;
     public Transform groundCheck;
-    private float maxHealth = 100f;
-    private float maxChakra = 100f;
+    private float maxHealth;
+    private float maxChakra;
     private float currentHealth;
     private float currentChakra;
 
@@ -33,10 +31,10 @@ public abstract class CharacterController : MonoBehaviour
     public float kickCooldownDuration = 0.3f; // Cooldown for kick attack
     private float kickCooldownTimer = 0.0f;
 
-    public float special1CooldownDuration = 2; // Duration of cooldown in seconds
+    public float special1CooldownDuration = 2f; // Duration of cooldown in seconds
     private float special1CooldownTimer = 0.0f;
 
-    public float special2CooldownDuration = 2; // Duration of cooldown in seconds
+    public float special2CooldownDuration = 0.5f; // Duration of cooldown in seconds
     private float special2CooldownTimer = 0.0f;
 
     public float sp1Charka;
@@ -69,7 +67,34 @@ public abstract class CharacterController : MonoBehaviour
     {
         isBlock = block;
     }
+    public void ResetCharacter()
+    {
+        // Restore health and chakra to their maximum values
+        currentHealth = health;
+        currentChakra = chakra / 2;
 
+        // Update UI elements
+        healthBar?.SetHealth((int)currentHealth);
+        chakraBar?.Setchakra((int)currentChakra);
+
+        // Reset animation state
+        if (animator != null)
+        {
+            animator.ResetTrigger("die");
+            animator.Play("Idle");
+        }
+
+
+        animator.SetBool("block", false);
+        // Reset other states
+        isStunned = false;
+        isWait = false;
+        isBlock = false;
+        currentAttackState = AttackState.None;
+
+        // Stop any ongoing movement
+        rb.linearVelocity = Vector2.zero;
+    }
 
 
 
@@ -96,8 +121,6 @@ public abstract class CharacterController : MonoBehaviour
 
     public void AssignUIElements(HealthBar health, ChakraBar chakra)
     {
-
-
         healthBar = health;
         chakraBar = chakra;
         UpdateUI();
@@ -127,7 +150,7 @@ public abstract class CharacterController : MonoBehaviour
         }
         else
         {
-            StartCoroutine(StunCharacter(1f)); 
+            StartCoroutine(StunCharacter(1f));
         }
         UpdateUI();
     }
@@ -173,14 +196,16 @@ public abstract class CharacterController : MonoBehaviour
 
     public void SetUpCharacter(Character character)
     {
+
+        var healthsetting = PlayerPrefs.GetInt("HealthSetting", 100);
         characterName = character.characterName;
         characterSprite = character.characterSprite;
         speed = character.speed;
         atk = character.atk;
         def = character.def;
-        health = character.health;
-        maxHealth = character.health;
-        currentHealth = character.health;
+        health = healthsetting;
+        maxHealth = healthsetting;
+        currentHealth = healthsetting;
         chakra = character.chakra;
         maxChakra = character.chakra;
         currentChakra = character.chakra / 2;
@@ -216,6 +241,14 @@ public abstract class CharacterController : MonoBehaviour
         if (kickCooldownTimer > 0)
         {
             kickCooldownTimer -= Time.deltaTime;
+        }
+        if (special1CooldownTimer > 0)
+        {
+            special1CooldownTimer -= Time.deltaTime;
+        }
+        if (special2CooldownTimer > 0)
+        {
+            special2CooldownTimer -= Time.deltaTime;
         }
 
         if (special1CooldownTimer > 0)
@@ -305,7 +338,7 @@ public abstract class CharacterController : MonoBehaviour
     {
         if (IsGrounded())
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed); // Apply jump force
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, speed * 1.5f); // Apply jump force
             animator.SetTrigger("jump");
         }
 
@@ -348,7 +381,7 @@ public abstract class CharacterController : MonoBehaviour
     }
     protected bool CanSpecial1()
     {
-        return special1CooldownTimer <= 0 && currentChakra >= sp1Charka  && isBlock == false;
+        return special1CooldownTimer <= 0 && currentChakra >= sp1Charka && isBlock == false;
     }
 
     protected void StartSpecial1Cooldown()
@@ -366,7 +399,7 @@ public abstract class CharacterController : MonoBehaviour
         special2CooldownTimer = special2CooldownDuration;
     }
 
- 
+
 
     public void Block()
     {
@@ -427,6 +460,27 @@ public abstract class CharacterController : MonoBehaviour
     }
     public abstract void SpecialAttack1();
     public abstract void SpecialAttack2();
+    protected bool CanSpecial1()
+    {
+        //if (special1CooldownTimer <= 0) Console.WriteLine("can use");
+        return special1CooldownTimer <= 0;
+    }
+
+    protected bool CanSpecial2()
+    {
+        //if (special1CooldownTimer <= 0) Console.WriteLine("can use");
+        return special2CooldownTimer <= 0;
+    }
+    protected void StartSpecial1Cooldown()
+    {
+        special1CooldownTimer = special1CooldownDuration;
+    }
+
+    protected void StartSpecial2Cooldown()
+    {
+        special2CooldownTimer = special2CooldownDuration;
+    }
+
     public void ThrowDart()
     {
         if (CanThrowDart())
@@ -473,6 +527,7 @@ public abstract class CharacterController : MonoBehaviour
             Debug.LogError("DartHolder not found! Make sure it's in the scene.");
         }
     }
+
     private int FindDart()
     {
         for (int i = 0; i < darts.Length; i++)

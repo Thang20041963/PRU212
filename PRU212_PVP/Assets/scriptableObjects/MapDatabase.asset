@@ -15,5 +15,18 @@ MonoBehaviour:
   map:
   - mapName: Desert
     mapSprite: {fileID: 8512095244449652193, guid: 7c8af928510c8a54cae8d0468abaf8d3, type: 3}
+    mapComponents:
+    - mapComponent: {fileID: 8387896447353033451, guid: 653dfa028a2e9db44930fb084eb52970, type: 3}
+      positionX: 6
+      positionY: -1.5
+      positionZ: 0
+    - mapComponent: {fileID: 8387896447353033451, guid: 653dfa028a2e9db44930fb084eb52970, type: 3}
+      positionX: -6
+      positionY: -1.5
+      positionZ: 0
   - mapName: Jungle
     mapSprite: {fileID: 4528112383401634201, guid: e0f61b03d7eee1d4caa67e2fd69e0e59, type: 3}
+    mapComponents: []
+  - mapName: Jungle
+    mapSprite: {fileID: 4528112383401634201, guid: e0f61b03d7eee1d4caa67e2fd69e0e59, type: 3}
+    mapComponents: []
