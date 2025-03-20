@@ -162,6 +162,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -684,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_0: -8516669640402397145
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_1: 9054246048748491594
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_10: -1988805962765365420
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_11: -5687641028807842123
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_12: 105598025339467178
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_13: -2990509839763399111
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_14: 3404585345063666818
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_15: 2818291697055559984
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_16: 8969835040313543675
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_17: 4121404328377687968
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_18: 3422838098878742271
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_19: 2870399089486625957
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_2: 5666435543234956563
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_20: 4269079957958288739
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_21: -1129256685197682239
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_22: -4624312963695285664
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_3: -1102847378613319067
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_4: 128294418487823802
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_5: 7611723440928731790
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_6: -6612472147710844485
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_7: -2034373032875262739
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_8: -3287933060326413137
+      uchiha_madara_sprite_sheet_jus_by_angi1997_d6jo1o9 (1) 3_9: -6273313546022487736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
