@@ -34,21 +34,4 @@ MonoBehaviour:
     def: 10
     chakra: 100
     character: {fileID: 1536920935930106218, guid: 1fe318db940c2844a9e87cbd695b9b78, type: 3}
-    sp1Charka: 20
-    sp2Charka: 50
-    relatedComponent:
-    - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
-    - {fileID: 4651508088356962996, guid: e413191690152ef40b319b91136c3742, type: 3}
-  - characterName: Itachi
-    characterSprite: {fileID: -6548054799765000434, guid: 840a1b50a0c2f8749bbcf53c624dea84, type: 3}
-    health: 100
-    speed: 10
-    atk: 10
-    def: 10
-    chakra: 100
-    character: {fileID: 4321621906355057687, guid: 2c0633fdad5cc5b4ba2959eb5d4755e8, type: 3}
-    sp1Charka: 20
-    sp2Charka: 50
-    relatedComponent:
-    - {fileID: 3531991099407509037, guid: f1f512596aab37646a534b6099d5b124, type: 3}
-    - {fileID: 1986786952670745838, guid: a269ed4390b54de489e37bba4272ae54, type: 3}
+    relatedComponent: []
