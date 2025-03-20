@@ -1148,7 +1148,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 268894959635165363, guid: 40c1d9b3eafd19d409ea5584e78c680d, type: 3}
   m_PrefabInstance: {fileID: 5476210304312459370}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &3535730860135080112
+--- !u!1001 &1555860613415865394
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1213,34 +1213,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5067667155640021882, guid: 1e92e5836932ac341a48346ee3c10358, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6594677499117486750, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
@@ -1318,11 +1290,11 @@ PrefabInstance:
       objectReference: {fileID: 1557933370}
     - target: {fileID: 4673149374553726043, guid: 7a21445a0857df94daab219201ff1c66, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7493890088509845307, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}
-      propertyPath: m_IsActive
-      value: 0
+    - target: {fileID: 5706290745374673860, guid: 7a21445a0857df94daab219201ff1c66, type: 3}
+      propertyPath: m_Name
+      value: Madara
       objectReference: {fileID: 0}
     - target: {fileID: 5706290745374673860, guid: 7a21445a0857df94daab219201ff1c66, type: 3}
       propertyPath: m_IsActive
