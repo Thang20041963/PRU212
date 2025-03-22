@@ -15,8 +15,10 @@ public class Obito : CharacterController
        if (CanSpecial1())
         {
             {
+                UseChakra(sp1Charka);
                 GetComponent<Animator>().SetTrigger("special1");
                 kamuis[FindKamui()].transform.position = specialPoint.position;
+                kamuis[FindKamui()].GetComponent<ObitoSpecial1>().SetOwner(this.tag);
                 kamuis[FindKamui()].GetComponent<ObitoSpecial1>().SetDirection(Mathf.Sign(transform.localScale.x));
                 StartSpecial1Cooldown();
             }
@@ -59,8 +61,8 @@ public class Obito : CharacterController
         if (CanSpecial2())
         {
             GetComponent<Animator>().SetTrigger("special2");
-
-            Collider2D hit = Physics2D.OverlapCircle(attackPoint.position, punchRange, LayerMask.GetMask("Character"));
+            UseChakra(sp2Charka);
+            Collider2D hit = Physics2D.OverlapCircle(specialPoint.position, 1f, LayerMask.GetMask("Character"));
 
             if (hit != null)
             {
