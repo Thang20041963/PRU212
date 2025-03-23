@@ -46,7 +46,7 @@ MonoBehaviour:
     atk: 10
     def: 10
     chakra: 100
-    character: {fileID: 4321621906355057687, guid: 2c0633fdad5cc5b4ba2959eb5d4755e8, type: 3}
+    character: {fileID: 2346979558027854161, guid: b87e1bc8585c0124295d52d0056734f9, type: 3}
     sp1Charka: 20
     sp2Charka: 50
     relatedComponent:
