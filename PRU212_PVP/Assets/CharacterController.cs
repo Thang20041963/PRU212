@@ -415,7 +415,9 @@ public abstract class CharacterController : MonoBehaviour
 
             if (hit != null)
             {
+                
                 CharacterController target = hit.GetComponent<CharacterController>();
+                Debug.Log(target.tag);
                 gainChakra(5);
                 if (target != null && target != this && !target.animator.GetBool("block"))
                 {
@@ -439,6 +441,7 @@ public abstract class CharacterController : MonoBehaviour
             if (hit != null)
             {
                 CharacterController target = hit.GetComponent<CharacterController>();
+                Debug.Log(target.tag);
                 gainChakra(5);
                 if (target != null && target != this && !target.animator.GetBool("block"))
                 {

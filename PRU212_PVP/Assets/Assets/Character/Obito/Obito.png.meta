@@ -1,0 +1,3710 @@
+fileFormatVersion: 2
+guid: 89419dff437819d4f8e74f7c2beea371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7374254595827068941
+    second: Obito_0
+  - first:
+      213: 8501352416296744639
+    second: Obito_1
+  - first:
+      213: 6644372698363004453
+    second: Obito_2
+  - first:
+      213: 3118623508635774673
+    second: Obito_3
+  - first:
+      213: 3707199184491798481
+    second: Obito_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obito_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3416
+        width: 109
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0070930c7d965660800000000000000
+      internalID: 7374254595827068941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3416
+        width: 115
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6b6c30bfedaf570800000000000000
+      internalID: 8501352416296744639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3416
+        width: 115
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260b3904cd853c50800000000000000
+      internalID: 6644372698363004453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3416
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deea64de83974b20800000000000000
+      internalID: 3118623508635774673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3410
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df5047440e927330800000000000000
+      internalID: 3707199184491798481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3416
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dff43a3a1cdae46a656584d79a6678
+      internalID: -1146825441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3377
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0ca7b5b6603d43b11b6972ef8061c
+      internalID: 1846332435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3377
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f10cbf16afc8d43bf25ed558fd303d
+      internalID: -1580102595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3377
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6a87405c070e4b943a83088c8ffd9
+      internalID: 438574850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3208
+        width: 261
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3328c029720d42f4ca136a68a2725b8c
+      internalID: 1772649478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3338
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ccc2216b25e05498b699c33068758e
+      internalID: 202481535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3257
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29142e76b052fd4385df11bd13f09e4
+      internalID: -1662671049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3283
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c71e0afce03bc34aa2bb2d6acec3d0e
+      internalID: 544949991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3278
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29fb50cb081ae0478c0b645143a6c28
+      internalID: 414572920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3274
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527f89808b2641c47af1c458aad0b6bd
+      internalID: 2086497296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3266
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bea40c0d69954eb3c90b1a3be9b5e
+      internalID: 2033430593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3261
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2da97e5771cedc428c0bc7b61c201a6
+      internalID: -19529128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3261
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d0641927ce9149a7b9f14ea1f506f
+      internalID: 1989658791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3220
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b819b38ca4f3a4399a9123e80ad5a5
+      internalID: 102133679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3206
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9c74c42daf6c4397f071998c6dc08
+      internalID: 914297619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3132
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b7eb53271af1640ad372d5a41325d0
+      internalID: 363801920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3127
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba87e07b60c07d42971f7b144bc6291
+      internalID: -543755134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_22
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3174
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676509574590fe4419f69742f6437e13
+      internalID: -1301723528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3156
+        width: 81
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39caf3bdaaef77f409b9e945937d909a
+      internalID: -705043668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_24
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3139
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249d046c37c1c84390e275f7b4fe661
+      internalID: 1251356370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_25
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3120
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30233824935122d4f90e66cc2db0d448
+      internalID: -555738473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3096
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dcccb6053a5974c8fce71b50d46a28
+      internalID: 2131193775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_27
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3105
+        width: 95
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6ab2ba4f715b348a1ca80113bef2d6
+      internalID: 1923831168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3030
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57db54e3dd2c1db4086895f03deee508
+      internalID: -49146913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3032
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d575866c2ba0249a6c9546be18b893
+      internalID: 133729596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3030
+        width: 137
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd4cd19d845dc41b8eb05e23f23820
+      internalID: -90784824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3029
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ed92116c243743ad89b86d6739f66
+      internalID: 1106766273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3083
+        width: 96
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc4aa4e30aea3488a0621fab0cb0d8
+      internalID: 1489339087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_33
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3064
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3d470beb7b4d4faa134148067acce
+      internalID: -1910241043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_34
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3049
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f810fe24a8bdbf42bba51ad5f664357
+      internalID: 214581886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2956
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fca0b69032e5f49879defbffcbcf80
+      internalID: -1821827055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2951
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e8a06b5ec13749beb8db9f9a706f8
+      internalID: -199086047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2952
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d1e79c25967e4a96c11ee100dc4f2
+      internalID: 1629468792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2951
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332a1c5920c3e0439a409ee543aac78
+      internalID: -1753303098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2951
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1d930a735ed54db57e87a85ca41b1
+      internalID: 1855490329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2951
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e749b3308157074c8bf4cf35b03d5f5
+      internalID: 851723490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2925
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26ef3fa768dc5d4f83061c0ef0be5d2
+      internalID: 588639028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2910
+        width: 263
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704079dd4e08b9e47b8acc42434da974
+      internalID: -28656384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2837
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b32ba8662ee504d9435eef8c5b21c6
+      internalID: -2011354117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2837
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c5202b9c612b4ba7d3ce3be03c76b
+      internalID: -1634459890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2836
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f3c258d5d0d4e49b9764bb9af3e2e8
+      internalID: 1615033881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2834
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d61b7f33aebd4bbeb35cd8afeb257
+      internalID: 61533463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2834
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf448ffd75c2349be96b5ca18fe592
+      internalID: -1822099161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_48
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2830
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece5dd6652507944198b68e074eb219c
+      internalID: 873376937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2810
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6c8b85b97dfc47a3735c5990df0c4
+      internalID: 650986080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_50
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2729
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd643c492b88fa4428cee9b798cf9702
+      internalID: 705675050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2808
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d325e2f11062d43a8c190c20e174cd
+      internalID: -1696872025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2793
+        width: 186
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ebd34285cee6449891f89cb6f9f19
+      internalID: 637659710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2729
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70a6d32a451684409ea010838da004c
+      internalID: -132043969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2725
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd86cf0f56cd147b69deee7b86374f
+      internalID: 1009574875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_55
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2720
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e13747350cb1143aa48d0afc0004f3
+      internalID: 1381195842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_56
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2724
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b5da0ddfb36645afdf5ada5fb05e9
+      internalID: -1239395123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_57
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2724
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5bd2bc399aa74092787930c5e9091
+      internalID: -1498645939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2720
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2c880330b04e4b9b67b93dd3cd8f4
+      internalID: -203757008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2685
+        width: 88
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacbe2b50cb410b4da1dd49c5be7007b
+      internalID: 358838306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2681
+        width: 137
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bdbcea117212a45b59f6f8f33e0e4a
+      internalID: 672132427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_61
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2681
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1de10780319184a94e20145b67ddeb
+      internalID: 1497380938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_62
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2681
+        width: 87
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e81d4fd489e846a54b382be8098fb
+      internalID: 658262613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2681
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dbe05969a256c46b6bf4ffc247be01
+      internalID: 1884347990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2604
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555dc57dbfce60b44b98fff2dbf96638
+      internalID: -2086754525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2602
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734bc498b988e164ab8dc873e29c13b6
+      internalID: -2086505204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2619
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e35b09eac6e4e43853dfc4c4b07b7d
+      internalID: 872921112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2610
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ecbc10003f9aa47a199956191d6917
+      internalID: -361663506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_68
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2595
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec05e67f495c80489d75f2c09e3a9ea
+      internalID: -1580482419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_69
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2593
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb35f3df510b543a2e538fbf9528b7
+      internalID: -324250881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2558
+        width: 139
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b245aeeb189f0d4a88212cb5fe2d8e8
+      internalID: 294471636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2551
+        width: 88
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6764cd0f4313d44ad518eb84a9ad20
+      internalID: 1410753239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2482
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e27e0e9f967c641ac1e17623a89ee0
+      internalID: 509405786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_73
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2500
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38e0d04bed8be4190b71015a86226d
+      internalID: 2049823444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2492
+        width: 88
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c955f08cad254086e486d54d93597
+      internalID: 804017698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2490
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde67b6e6d33f264690e6855fedb513a
+      internalID: 57016324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2490
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd3ee20b09f46b4e938d4a5f727499c
+      internalID: 1058575535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_77
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2490
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062aead71fc1bfd47bbd89e8a9918e8d
+      internalID: 894198904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2453
+        width: 87
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37813d381b60b9a4da5c52acfc5fe567
+      internalID: 2143031400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2365
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb7f8ab649ba5448bed49c3085af79
+      internalID: -1465792958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2366
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d4379a9a159d64ab4732ddf16d1bb0
+      internalID: -1271686610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2366
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e99f9891141f41abf225902257faf
+      internalID: 946640184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_82
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2253
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa72507d43e314b959be4e4973c763
+      internalID: -1443788070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2251
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c201a93cf272ef459281cfd58137877
+      internalID: -1482610489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2250
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80623ab45660b124186a6800e8ceb4c9
+      internalID: -109543930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2160
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef90c712151a1d45936f96d009bd8b5
+      internalID: -422515743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2162
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a04524f87a5b45b6ecb90de7ea20f
+      internalID: -933455557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_87
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2162
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9b0049fb944244874a679e9622456
+      internalID: 1460836074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_88
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2163
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76e1cc8077cf9438c82078827750e1
+      internalID: -1838501103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_89
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2124
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591f130fb44fe6f41b4435f7a678633d
+      internalID: -1216442835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_90
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2124
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c175e534b980ffa44a2d5c3ba2626ca2
+      internalID: 1845976137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_91
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2023
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490b2c643355cc34c91849a7302c34b1
+      internalID: -1270539544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2026
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45f1429cfc9974792c46fe08bdaa4f
+      internalID: -2089051227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_93
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2029
+        width: 112
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3eb9655ba29964f80fe8f4a995bf9d
+      internalID: -1162194481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_94
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2029
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aaf8710811ad043be8dc28b00496ac
+      internalID: 2029933415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_95
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2028
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d300ae755a4fcd74888d14e8dc42401d
+      internalID: -105028743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2001
+        width: 69
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18ffb287389974b83158de8ffd1808
+      internalID: -1207544267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_97
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1919
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101c40af44d7a60429a414a987249e6e
+      internalID: 1412379139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1919
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ae4bf9f23d7a4f8bf148401c76a27
+      internalID: -235481860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_99
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1919
+        width: 179
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af70fd947c62434bb656226bb91b82c
+      internalID: -4854684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_100
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1921
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91011d8b211a894eae7baa4749e961f
+      internalID: 957575155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_101
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1916
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046086b437734b4598b7f5889c35e61
+      internalID: -401319799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_102
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1914
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9765b9dc295bd4fb4d97e01b89dd1b
+      internalID: -1105984103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_103
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1894
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3abc49c9f1c9234ab1077b6e6965849
+      internalID: -586421281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1806
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f848fb420b2434a9069a1de3d6024c
+      internalID: 375150203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_105
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1808
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959034b58f79a5048a1b50bea00b48f4
+      internalID: 1704448695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_106
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1809
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba32ba5e78d233745b0d7641568653d6
+      internalID: -766644228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_107
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1808
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc5f7ee2ad9864fbba80f5b9e2fe0b
+      internalID: 1199467400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_108
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1830
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3d80c10aa34043bd1d31f70b8909d
+      internalID: -413930403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1782
+        width: 113
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc32a546ad17f479bc41bed7b08fd3
+      internalID: -2129936787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1687
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ffd15f1e6ad44994280e3ff86e64f
+      internalID: 1370681337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_111
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1687
+        width: 111
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b7be58b3d68447aee8ce981282b6d
+      internalID: 124114073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1687
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621dd294ed3b4774b92d8460406f96a1
+      internalID: 1902378603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_113
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1686
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b637bd5e6e165464cb019b2770eb8d68
+      internalID: 1795666226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1646
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d34c74785e59f4394d6eb42ed41561
+      internalID: 1129079651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1647
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a13741b984074f9d67f967dbf1891
+      internalID: 1978791739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_116
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1554
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7e315ed97e43439aba3f5a4f061de
+      internalID: -524318768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_117
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1554
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b418b84e4766784296fa2b3e127542d
+      internalID: -50040225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_118
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1554
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa338739de15654b820337387fb28ef
+      internalID: -2068045087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1579
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a6dc529df73f409f9964d70aa66ae
+      internalID: 1201810140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_120
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1574
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0111682058b59243b6b62c95a4b4d5c
+      internalID: -1751742895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_121
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1576
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f7b564b5c41241bfc18c7e8eadc15
+      internalID: 1984322900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_122
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1577
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bda79f634197844af339e767592c7a
+      internalID: 700709327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_123
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1449
+        width: 274
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42f0f98b3932148992d6ce2bc46779
+      internalID: -1790659449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1430
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e412a39e7c820047af95e0481360432
+      internalID: 347377788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_125
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1330
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad80a759d53554db1ebeb7099878ff
+      internalID: 895085874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1332
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20fb9066189584d9bc6101b870f81e
+      internalID: 187609835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_127
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1330
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9e1debaea7864d9c22e78a1a8340c
+      internalID: -516507470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_128
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1352
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437bfcc0e478d8a468269e2fd3f1ab06
+      internalID: 1221533737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1330
+        width: 199
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8f19681e709a2419051e4b790926ad
+      internalID: 135972403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1344
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3a4f0d4a8ab543b38544b06902aaf
+      internalID: -1592592378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1339
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008c88b6cdbdf9f4585c2326bd37ad9c
+      internalID: -1128191794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_132
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1332
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33f85b2919f614785e430b26f14d19
+      internalID: -536804839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_133
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1183
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e7d17dd5dcf040899f599435ce90c
+      internalID: -2118220129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_134
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1179
+        width: 124
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d50bee586224cd4fb9fed782532324a
+      internalID: 1502770496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_135
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1177
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6ecfafe4b3734ca61e7f367d0fb19
+      internalID: -719181169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_136
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1163
+        width: 153
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47aaa80de7f63b40b88bb004df6d55a
+      internalID: -533464774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_137
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1154
+        width: 169
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cecf2756fb9f4c449144d553a638b90
+      internalID: -1012991668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1007
+        width: 191
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9874bc31f98dafc43abc06d88b06e137
+      internalID: 2143201909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_139
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 997
+        width: 227
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf7ccc79ee88c4eb4125d892a4555a
+      internalID: 1262688422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_140
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 973
+        width: 254
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33edc4d8f89ba44c877763daf91fb08
+      internalID: 1778547869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 792
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84734669058ed4a46ac9804ba9214076
+      internalID: 1761873084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_142
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 741
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f87571a768f7489a89f1be49db1fb
+      internalID: 1236364158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_143
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 626
+        width: 390
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cdededb3d4f944bb542313503d3e52
+      internalID: -1718801415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_144
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 653
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f0e7bd75f81a4b8ffab7d04113774
+      internalID: 2046798265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_145
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 648
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d70fde1f575748bdb7ff51fae835a
+      internalID: 596581040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_146
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 651
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadffff873c1ebd45ad453f0a36a94a3
+      internalID: 1304050200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_147
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 436
+        width: 714
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54379f635b1d946a60067b12613926
+      internalID: -2062965590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_148
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 407
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f33616fbf43a84baa2e359c5890131
+      internalID: -1178271436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_149
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 310
+        width: 274
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1926fc2b21066db43bf382622999a264
+      internalID: -2076265118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_150
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 318
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade20ab2089bb0742aafb8eb92bbbc11
+      internalID: 1242303489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_151
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 316
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f52d0458a16974284172c2cab49ff8
+      internalID: -1382325820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_152
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 318
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e316eab26402164b99f5c4947770903
+      internalID: 607489203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_153
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 284
+        width: 151
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e575da5b4b12a443a898543a2924da5
+      internalID: -589381712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Obito_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 18
+        width: 532
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc60e9e02ba3d7419724b7704796736
+      internalID: 1231929034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3a593c19d6331b7409237fd4cc077256
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Obito_0: 7374254595827068941
+      Obito_1: 8501352416296744639
+      Obito_10: 202481535
+      Obito_100: 957575155
+      Obito_101: -401319799
+      Obito_102: -1105984103
+      Obito_103: -586421281
+      Obito_104: 375150203
+      Obito_105: 1704448695
+      Obito_106: -766644228
+      Obito_107: 1199467400
+      Obito_108: -413930403
+      Obito_109: -2129936787
+      Obito_11: -1662671049
+      Obito_110: 1370681337
+      Obito_111: 124114073
+      Obito_112: 1902378603
+      Obito_113: 1795666226
+      Obito_114: 1129079651
+      Obito_115: 1978791739
+      Obito_116: -524318768
+      Obito_117: -50040225
+      Obito_118: -2068045087
+      Obito_119: 1201810140
+      Obito_12: 544949991
+      Obito_120: -1751742895
+      Obito_121: 1984322900
+      Obito_122: 700709327
+      Obito_123: -1790659449
+      Obito_124: 347377788
+      Obito_125: 895085874
+      Obito_126: 187609835
+      Obito_127: -516507470
+      Obito_128: 1221533737
+      Obito_129: 135972403
+      Obito_13: 414572920
+      Obito_130: -1592592378
+      Obito_131: -1128191794
+      Obito_132: -536804839
+      Obito_133: -2118220129
+      Obito_134: 1502770496
+      Obito_135: -719181169
+      Obito_136: -533464774
+      Obito_137: -1012991668
+      Obito_138: 2143201909
+      Obito_139: 1262688422
+      Obito_14: 2086497296
+      Obito_140: 1778547869
+      Obito_141: 1761873084
+      Obito_142: 1236364158
+      Obito_143: -1718801415
+      Obito_144: 2046798265
+      Obito_145: 596581040
+      Obito_146: 1304050200
+      Obito_147: -2062965590
+      Obito_148: -1178271436
+      Obito_149: -2076265118
+      Obito_15: 2033430593
+      Obito_150: 1242303489
+      Obito_151: -1382325820
+      Obito_152: 607489203
+      Obito_153: -589381712
+      Obito_154: 1231929034
+      Obito_16: -19529128
+      Obito_17: 1989658791
+      Obito_18: 102133679
+      Obito_19: 914297619
+      Obito_2: 6644372698363004453
+      Obito_20: 363801920
+      Obito_21: -543755134
+      Obito_22: -1301723528
+      Obito_23: -705043668
+      Obito_24: 1251356370
+      Obito_25: -555738473
+      Obito_26: 2131193775
+      Obito_27: 1923831168
+      Obito_28: -49146913
+      Obito_29: 133729596
+      Obito_3: 3118623508635774673
+      Obito_30: -90784824
+      Obito_31: 1106766273
+      Obito_32: 1489339087
+      Obito_33: -1910241043
+      Obito_34: 214581886
+      Obito_35: -1821827055
+      Obito_36: -199086047
+      Obito_37: 1629468792
+      Obito_38: -1753303098
+      Obito_39: 1855490329
+      Obito_4: 3707199184491798481
+      Obito_40: 851723490
+      Obito_41: 588639028
+      Obito_42: -28656384
+      Obito_43: -2011354117
+      Obito_44: -1634459890
+      Obito_45: 1615033881
+      Obito_46: 61533463
+      Obito_47: -1822099161
+      Obito_48: 873376937
+      Obito_49: 650986080
+      Obito_5: -1146825441
+      Obito_50: 705675050
+      Obito_51: -1696872025
+      Obito_52: 637659710
+      Obito_53: -132043969
+      Obito_54: 1009574875
+      Obito_55: 1381195842
+      Obito_56: -1239395123
+      Obito_57: -1498645939
+      Obito_58: -203757008
+      Obito_59: 358838306
+      Obito_6: 1846332435
+      Obito_60: 672132427
+      Obito_61: 1497380938
+      Obito_62: 658262613
+      Obito_63: 1884347990
+      Obito_64: -2086754525
+      Obito_65: -2086505204
+      Obito_66: 872921112
+      Obito_67: -361663506
+      Obito_68: -1580482419
+      Obito_69: -324250881
+      Obito_7: -1580102595
+      Obito_70: 294471636
+      Obito_71: 1410753239
+      Obito_72: 509405786
+      Obito_73: 2049823444
+      Obito_74: 804017698
+      Obito_75: 57016324
+      Obito_76: 1058575535
+      Obito_77: 894198904
+      Obito_78: 2143031400
+      Obito_79: -1465792958
+      Obito_8: 438574850
+      Obito_80: -1271686610
+      Obito_81: 946640184
+      Obito_82: -1443788070
+      Obito_83: -1482610489
+      Obito_84: -109543930
+      Obito_85: -422515743
+      Obito_86: -933455557
+      Obito_87: 1460836074
+      Obito_88: -1838501103
+      Obito_89: -1216442835
+      Obito_9: 1772649478
+      Obito_90: 1845976137
+      Obito_91: -1270539544
+      Obito_92: -2089051227
+      Obito_93: -1162194481
+      Obito_94: 2029933415
+      Obito_95: -105028743
+      Obito_96: -1207544267
+      Obito_97: 1412379139
+      Obito_98: -235481860
+      Obito_99: -4854684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

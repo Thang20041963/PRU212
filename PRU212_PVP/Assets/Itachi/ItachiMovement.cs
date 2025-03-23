@@ -62,7 +62,9 @@ public class ItachiMovement : CharacterController
 
     public void AddSpecialSkill1()
     {
-        GameObject sp1holder = GameObject.Find("ItachiS1(Clone)");
+        string Special1Name = (this.tag == "Player1") ? "ItachiS1_P1" : "ItachiS1_P2";
+
+        GameObject sp1holder = GameObject.Find(Special1Name);
 
         if (sp1holder != null)
         {
@@ -77,7 +79,9 @@ public class ItachiMovement : CharacterController
 
     public void AddSpecialSkill2()
     {
-        GameObject sp2holder = GameObject.Find("ItachiS2(Clone)");
+        string Special2Name = (this.tag == "Player1") ? "ItachiS2_P1" : "ItachiS2_P2";
+
+        GameObject sp2holder = GameObject.Find(Special2Name);
 
         if (sp2holder != null)
         {
