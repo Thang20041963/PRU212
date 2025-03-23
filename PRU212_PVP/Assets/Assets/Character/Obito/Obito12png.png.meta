@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: f3a4fa2d8bba6a7439a80b36c05ef956
+guid: f8120a84f2f48bf418a7976fa422a53a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4403058356221467219
-    second: Obito 1_0
-  - first:
-      213: -1778556023612989468
-    second: Obito 1_1
-  - first:
-      213: -3307860583835184206
-    second: Obito 1_2
-  - first:
-      213: 6129976698629052187
-    second: Obito 1_3
-  - first:
-      213: 1879448917106959725
-    second: Obito 1_4
+      213: 7240258447709132328
+    second: Obito12png_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Obito 1_0
+      name: Obito12png_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 0
         y: 0
-        width: 48
-        height: 92
+        width: 11
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da5aa10e0c135e2c0800000000000000
-      internalID: -4403058356221467219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Obito 1_1
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 2
-        width: 61
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ef9a6f38bc4157e0800000000000000
-      internalID: -1778556023612989468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Obito 1_2
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 5
-        width: 112
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b3dcf5235e1812d0800000000000000
-      internalID: -3307860583835184206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Obito 1_3
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 5
-        width: 86
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b17d433545d021550800000000000000
-      internalID: 6129976698629052187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Obito 1_4
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 4
-        width: 81
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6527a515d4251a10800000000000000
-      internalID: 1879448917106959725
+      spriteID: 82659b992b09a7460800000000000000
+      internalID: 7240258447709132328
       vertices: []
       indices: 
       edges: []
@@ -234,12 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Obito 1_0: -4403058356221467219
-      Obito 1_1: -1778556023612989468
-      Obito 1_2: -3307860583835184206
-      Obito 1_3: 6129976698629052187
-      Obito 1_4: 1879448917106959725
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

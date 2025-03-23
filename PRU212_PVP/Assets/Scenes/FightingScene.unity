@@ -1513,6 +1513,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8813236111712277124, guid: 3cbcba5d8bb60374fb1860c6a1930712, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1845,6 +1849,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8813236111712277124, guid: 3cbcba5d8bb60374fb1860c6a1930712, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1914,6 +1922,10 @@ PrefabInstance:
     - target: {fileID: 5309121068482194151, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
       propertyPath: m_Name
       value: UchihaLoader
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309121068482194151, guid: 5557a41a93930d046be551bdf2dd4891, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2006,6 +2018,10 @@ PrefabInstance:
     - target: {fileID: 2982954286685538094, guid: 5d06f64248e72ac4f85187962e8dc741, type: 3}
       propertyPath: m_Name
       value: HealthBarP1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3554401535356916718, guid: 5d06f64248e72ac4f85187962e8dc741, type: 3}
+      propertyPath: m_Interactable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7341261164688141237, guid: 5d06f64248e72ac4f85187962e8dc741, type: 3}
       propertyPath: m_Pivot.x
@@ -2138,6 +2154,10 @@ PrefabInstance:
     - target: {fileID: 2982954286685538094, guid: 5d06f64248e72ac4f85187962e8dc741, type: 3}
       propertyPath: m_Name
       value: HealthBarP2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3554401535356916718, guid: 5d06f64248e72ac4f85187962e8dc741, type: 3}
+      propertyPath: m_Interactable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7341261164688141237, guid: 5d06f64248e72ac4f85187962e8dc741, type: 3}
       propertyPath: m_Pivot.x
