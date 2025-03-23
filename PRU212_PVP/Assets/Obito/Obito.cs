@@ -27,8 +27,9 @@ public class Obito : CharacterController
 
     public void AddKamuis()
     {
+        string KamuisName = (this.tag == "Player1") ? "Special1Holder_P1" : "Special1Holder_P2";
         // Find the DartHolder object
-        GameObject kamuistHolder = GameObject.Find("Special1Holder") ? GameObject.Find("Special1Holder") : GameObject.Find("Special1Holder(Clone)");
+        GameObject kamuistHolder = GameObject.Find(KamuisName);
 
         if (kamuistHolder != null)
         {

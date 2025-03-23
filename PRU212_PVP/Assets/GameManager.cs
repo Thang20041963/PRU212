@@ -75,7 +75,8 @@ public class GameManager : MonoBehaviour
             {
                 foreach (GameObject component in player1Character.relatedComponent)
                 {
-                    Instantiate(component, Vector3.zero, Quaternion.identity);
+                    GameObject relatedObj = Instantiate(component, Vector3.zero, Quaternion.identity);
+                    relatedObj.name = component.name.Replace("(Clone)", "") + "_P1";
                 }
             }
         }
@@ -95,7 +96,8 @@ public class GameManager : MonoBehaviour
             {
                 foreach (GameObject component in player2Character.relatedComponent)
                 {
-                    Instantiate(component, Vector3.zero, Quaternion.identity);
+                    GameObject relatedObj = Instantiate(component, Vector3.zero, Quaternion.identity);
+                    relatedObj.name = component.name.Replace("(Clone)", "") + "_P2";
                 }
             }
         }

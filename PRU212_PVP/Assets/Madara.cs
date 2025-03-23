@@ -27,7 +27,9 @@ public class Madara : CharacterController
     }
     private void FindRockFall()
     {
-        GameObject foundRockFall = GameObject.Find("RockFall(Clone)") ? GameObject.Find("RockFall(Clone)") : GameObject.Find("RockFall"); // Tìm GameObject theo tên
+        string rockFallName = (this.tag == "Player1") ? "RockFall_P1" : "RockFall_P2";
+
+        GameObject foundRockFall = GameObject.Find(rockFallName);
         if (foundRockFall != null)
         {
             rockGroup = foundRockFall;
@@ -41,11 +43,11 @@ public class Madara : CharacterController
 
     private void FindSusano()
     {
-        // Tìm tất cả các GameObject có tên "Susanoo"
+        string SusanooName = (this.tag == "Player1") ? "Susanoo_P1" : "Susanoo_P2";
         GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
         foreach (GameObject obj in allObjects)
         {
-            if (obj.name == "Susanoo(Clone)")
+            if (obj.name == SusanooName)
             {
                 Susanoo = obj;
                 Debug.Log("Đã tìm thấy Susanoo (kể cả khi bị disable)");
