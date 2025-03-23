@@ -235,7 +235,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 5
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -351,11 +351,11 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   groundCheck: {fileID: 6081105469200996112}
-  dartCooldownDuration: 0.5
-  punchCooldownDuration: 0.3
-  kickCooldownDuration: 0.3
-  special1CooldownDuration: 2
-  special2CooldownDuration: 0.5
+  dartCooldownDuration: 1
+  punchCooldownDuration: 0.5
+  kickCooldownDuration: 0.5
+  special1CooldownDuration: 1
+  special2CooldownDuration: 2
   sp1Charka: 0
   sp2Charka: 0
   inputHandler: {fileID: 7515183826235672698}

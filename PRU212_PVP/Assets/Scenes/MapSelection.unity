@@ -552,7 +552,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5565284403890650892, guid: 40080139700f9e34b80382f8f09d5c20, type: 3}
+  m_Sprite: {fileID: 1142560770061436771, guid: 570d98564c338214bb7380169b91fca9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1494,15 +1494,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: FIGHT
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9b73c00cdb085f143b5130ff1fb4d673, type: 2}
-  m_sharedMaterial: {fileID: -3047346417961530146, guid: 9b73c00cdb085f143b5130ff1fb4d673, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 43ad56bdf72b4894c9a11c3ed1353053, type: 2}
+  m_sharedMaterial: {fileID: 3648130112146372089, guid: 43ad56bdf72b4894c9a11c3ed1353053, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4286037247
-  m_fontColor: {r: 1, g: 0.7381404, b: 0.4669811, a: 1}
+    rgba: 4278191301
+  m_fontColor: {r: 0.7735849, g: 0.01597151, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1525,7 +1525,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535

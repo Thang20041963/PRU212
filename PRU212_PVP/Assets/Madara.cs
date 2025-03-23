@@ -145,7 +145,7 @@ public class Madara : CharacterController
         {
             Susanoo.SetActive(true);
             Susanoo.GetComponent<Susanoo>().SetOwnerTag(this.tag);
-            Susanoo.GetComponent<Susanoo>().SetDamage(atk);
+            Susanoo.GetComponent<Susanoo>().SetDamage(atk*5);
             Invoke(nameof(SusanooAtt), 1f);
         }
     }

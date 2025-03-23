@@ -289,11 +289,13 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   groundCheck: {fileID: 1643918249715919613}
-  dartCooldownDuration: 0.5
+  dartCooldownDuration: 1
   punchCooldownDuration: 0.5
   kickCooldownDuration: 0.5
   special1CooldownDuration: 2
   special2CooldownDuration: 2
+  sp1Charka: 0
+  sp2Charka: 0
   inputHandler: {fileID: 5333494317738427331}
   dartPoint: {fileID: 1753458820864165620}
   attackPoint: {fileID: 7228591708030054980}

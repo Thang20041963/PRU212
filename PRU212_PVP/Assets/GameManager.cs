@@ -35,6 +35,9 @@ public class GameManager : MonoBehaviour
     private string roundAnnoucment = "";
     private int p1score = 0;
     private int p2score = 0;
+
+    private Vector3 player1StartPosition;
+    private Vector3 player2StartPosition;
     private void Awake()
     {
         if (Instance == null)
@@ -69,7 +72,7 @@ public class GameManager : MonoBehaviour
         {
             GameObject p1Instance = Instantiate(player1Character.character, Vector3.left * 2, Quaternion.identity);
             player1 = p1Instance.GetComponent<CharacterController>();
-
+            player1StartPosition = p1Instance.transform.position;
             // Thêm relatedComponent vào Scene Hierarchy
             if (player1Character.relatedComponent != null)
             {
@@ -90,7 +93,7 @@ public class GameManager : MonoBehaviour
             GameObject p2Instance = Instantiate(player2Character.character, Vector3.right * 2, Quaternion.identity);
             player2 = p2Instance.GetComponent<CharacterController>();
             p2Instance.transform.localScale = new Vector3(p2Instance.transform.localScale.x * (-1), p2Instance.transform.localScale.y, p2Instance.transform.localScale.z);
-
+            player2StartPosition = p2Instance.transform.position;
             // Thêm relatedComponent vào Scene Hierarchy
             if (player2Character.relatedComponent != null)
             {
@@ -167,8 +170,8 @@ public class GameManager : MonoBehaviour
 
         }
         currentRound++;
-
-        if (currentRound > nor || p1score >= nor/2+1 || p2score >= nor / 2 + 1)
+       
+        if (currentRound > nor || p1score >= ((nor/2) + 1) || p2score >= ((nor / 2) + 1))
         {
             Invoke("EndGame", 2f);
          
@@ -208,7 +211,9 @@ public class GameManager : MonoBehaviour
         // Reset lại nhân vật và thanh máu/chakra
         player1.ResetCharacter();
         player2.ResetCharacter();
-        
+
+        player1.transform.position = player1StartPosition;
+        player2.transform.position = player2StartPosition;
 
         // Ẩn bảng Game Over nếu đang hiển thị
         gameOverPanel.SetActive(false);
