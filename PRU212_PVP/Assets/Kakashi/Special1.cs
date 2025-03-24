@@ -3,11 +3,19 @@ using UnityEngine;
 public class Special1 : MonoBehaviour
 {
     public float speed = 20f;
+    public int damage = 40;
     private float direction;
     private bool hit;
     private BoxCollider2D boxCollider;
     private Animator animator;
+    private string ownerTag;
 
+    public void SetOwner(string tag)
+    {
+
+        ownerTag = tag;
+
+    }
     private void Awake()
     {
         boxCollider = GetComponent<BoxCollider2D>();
@@ -27,8 +35,26 @@ public class Special1 : MonoBehaviour
         hit = true;
         boxCollider.enabled = false;
         animator.SetTrigger("explode");
-        Debug.Log("Special hit");
-        Invoke(nameof(Deactivate), 0.5f);
+
+        string enemyTag = this.ownerTag == "Player1" ? "Player2" : "Player1";
+
+
+        if (collision.CompareTag(enemyTag)) // Check if the collided object is tagged "Player"
+        {
+            CharacterController enemy = collision.GetComponent<CharacterController>();
+
+            if (enemy != null)
+            {
+                bool isblock = enemy.getBlockStatus();
+                if (!isblock)
+                {
+                    enemy.TakeDamage(damage);
+                    Debug.Log($"Dart hit {enemy.name}, remaining health: {enemy.health}");
+                }
+            }
+        }
+
+        Invoke(nameof(Deactivate), 0.5f); // Give time for explosion animation
     }
 
     public void SetDirection(float _direction)
@@ -41,7 +67,7 @@ public class Special1 : MonoBehaviour
 
         float localScaleX = transform.localScale.x;
         if (Mathf.Sign(localScaleX) != direction)
-            localScaleX = - localScaleX;
+            localScaleX = -localScaleX;
 
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
     }

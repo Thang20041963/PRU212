@@ -17,8 +17,10 @@ public class Kakashi : CharacterController
     {
         if (CanSpecial1())
         {
+            UseChakra(sp1Charka);
             GetComponent<Animator>().SetTrigger("special1");
             special1s.transform.position = special1Point.position;
+            special1s.GetComponent<Special1>().SetOwner(this.tag);
             special1s.GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial1Cooldown();
         }
@@ -28,10 +30,24 @@ public class Kakashi : CharacterController
     {
         if (CanSpecial2())
         {
-            special2s.transform.position = special2Point.position;
-            special2s.GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
-            StartSpecial2Cooldown();
+            special2s.SetActive(true);
+            special2s.GetComponent<Special2>().SetOwner(this.tag);
+            special2s.GetComponent<Special2>().SetDamage(atk);
+            Invoke(nameof(Special2Att), 1f);
         }
+    }
+
+    private void Special2Att()
+    {
+
+        special2s.GetComponent<Special2>().ActivateSpecial2(Mathf.Sign(transform.localScale.x));
+        setWaitState(false);
+        Invoke(nameof(Disable), 1.5f);
+    }
+    private void Disable()
+    {
+        special2s.gameObject.SetActive(false);
+
     }
 
     //private int FindSpecial1()

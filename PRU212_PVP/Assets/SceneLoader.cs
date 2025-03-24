@@ -30,6 +30,7 @@ public class SceneLoader : MonoBehaviour
     IEnumerator LoadScene(string scene)
     {
         Debug.Log("heheh");
+        Time.timeScale = 1f;
         transistion.SetTrigger("fade");
 
         yield return new WaitForSeconds(transistionTime);
