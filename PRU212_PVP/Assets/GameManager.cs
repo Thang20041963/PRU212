@@ -1,5 +1,4 @@
 ﻿using System;
-using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI; // Required for UI handling
@@ -53,11 +52,9 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        nor = PlayerPrefs.GetInt("NoRSetting", 1);
         gameOverPanel.SetActive(false); // Ẩn panel lúc đầu
         InitializePlayers();
         InitializeMap();
-        Time.timeScale = 1f;
     }
 
     private void InitializePlayers()
@@ -140,14 +137,7 @@ public class GameManager : MonoBehaviour
         int mapselectionId = PlayerPrefs.GetInt("selectedMapOption");
         Map map = MapDB.GetMap(mapselectionId);
         backGround.GetComponent<Image>().sprite = map.mapSprite;
-        if (map.mapComponents != null)
-        {
-            foreach (MapComponent component in map.mapComponents)
-            {
-                Instantiate(component.mapComponent, new Vector3(component.positionX, component.positionY, component.positionZ), Quaternion.identity);
-            }
-        }
-     }
+    }
 
     public void PlayerDied(CharacterController player)
     {
@@ -155,19 +145,14 @@ public class GameManager : MonoBehaviour
 
         isGameOver = true;
         player.getAnimator().SetTrigger("die");
-        
+
         if (player == player1)
         {
-            winnerAnnoucement.text = "Player 1 has been defeated! Player 2 wins!";
-            roundAnnoucment = "Player 2 wins round!";
-            p2score++;
+            Debug.Log("Player 1 has been defeated! Player 2 wins!");
         }
         else if (player == player2)
         {
-            winnerAnnoucement.text = "Player 2 has been defeated! Player 1 wins!";
-            roundAnnoucment = "Player 1 wins round!";
-            p1score++;
-
+            Debug.Log("Player 2 has been defeated! Player 1 wins!");
         }
         currentRound++;
        
@@ -231,11 +216,9 @@ public class GameManager : MonoBehaviour
 
     private void EndGame()
     {
-        player1.GetComponent<SpriteRenderer>().enabled = false;
-        player2.GetComponent<SpriteRenderer>().enabled = false;
+        Debug.Log("Game Over!");
         gameOverPanel.SetActive(true); // Hiện panel thông báo kết thúc game
-                                       // Time.timeScale = 0f;
-        Destroy(gameObject); // Hủy GameManager cũ
+
     }
 
     public void RestartGame()

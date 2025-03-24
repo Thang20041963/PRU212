@@ -60,6 +60,15 @@ public class ItachiMovement : CharacterController
         special2s.gameObject.SetActive(false);
     }
 
+    private int FindSpecial2()
+    {
+        for (int i = 0; i < special2s.Length; i++)
+        {
+            if (!special2s[i].gameObject.activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
     public void AddSpecialSkill1()
     {
         string Special1Name = (this.tag == "Player1") ? "ItachiS1_P1" : "ItachiS1_P2";
