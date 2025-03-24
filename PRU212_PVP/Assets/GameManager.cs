@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private GameObject backGround;
     [SerializeField] private TMP_Text  winnerAnnoucement;
-    
+    [SerializeField] private TMP_Text Round;
     [SerializeField] private GameObject winnerRoundPanel;
     [SerializeField] private TMP_Text roundAnnouncementText;
     [SerializeField] private Button continueButton;
@@ -53,6 +53,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        Round.text = "Round " + 1;
         nor = PlayerPrefs.GetInt("NoRSetting", 1);
         gameOverPanel.SetActive(false); // Ẩn panel lúc đầu
         InitializePlayers();
@@ -158,14 +159,14 @@ public class GameManager : MonoBehaviour
         
         if (player == player1)
         {
-            winnerAnnoucement.text = "Player 1 has been defeated! Player 2 wins!";
-            roundAnnoucment = "Player 2 wins round!";
+            winnerAnnoucement.text = player1.characterName + " has been defeated! " + player2.characterName +" wins!";
+            roundAnnoucment = "Player 2 - " + player2.characterName +" - wins round!";
             p2score++;
         }
         else if (player == player2)
         {
-            winnerAnnoucement.text = "Player 2 has been defeated! Player 1 wins!";
-            roundAnnoucment = "Player 1 wins round!";
+            winnerAnnoucement.text = player2.characterName + " has been defeated! " + player1.characterName + " wins!";
+            roundAnnoucment = "Player 1 - " + player1.characterName + " - wins round!";
             p1score++;
 
         }
@@ -178,6 +179,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
+            
             Invoke("RestartRound", 2f); // Delay before restarting
         }
     }
@@ -204,6 +206,7 @@ public class GameManager : MonoBehaviour
 
     private void ContinueGame()
     {
+        Round.text = "Round " + currentRound;
         // Ẩn thông báo
         winnerRoundPanel.SetActive(false);
         player1.enabled = true;
