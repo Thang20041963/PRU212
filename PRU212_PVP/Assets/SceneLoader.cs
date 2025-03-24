@@ -15,9 +15,10 @@ public class SceneLoader : MonoBehaviour
             PlayerPrefs.SetInt("isRandomMode", 1);
             scene = "CharacterSelection";
         }
-        else
+        if (scene == "normalMode")
         {
             PlayerPrefs.SetInt("isRandomMode", 0);
+            scene = "CharacterSelection";
         }
        
         StartCoroutine(LoadScene(scene));

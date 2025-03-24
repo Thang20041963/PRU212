@@ -46,9 +46,21 @@ MonoBehaviour:
     atk: 10
     def: 10
     chakra: 100
-    character: {fileID: 4321621906355057687, guid: 2c0633fdad5cc5b4ba2959eb5d4755e8, type: 3}
+    character: {fileID: 2346979558027854161, guid: b87e1bc8585c0124295d52d0056734f9, type: 3}
     sp1Charka: 20
     sp2Charka: 50
     relatedComponent:
-    - {fileID: 3531991099407509037, guid: f1f512596aab37646a534b6099d5b124, type: 3}
-    - {fileID: 1986786952670745838, guid: a269ed4390b54de489e37bba4272ae54, type: 3}
+    - {fileID: 5490103483956591040, guid: 3c7ef313b9a611b4ba6d70ed0c3dc488, type: 3}
+    - {fileID: 4313072413517460855, guid: b3e521bc0f0545646a29cfdbbb3a42b9, type: 3}
+  - characterName: Obito
+    characterSprite: {fileID: 5017555859595216779, guid: cfd097c8a2062a24382ea978cdca7d99, type: 3}
+    health: 100
+    speed: 10
+    atk: 10
+    def: 10
+    chakra: 100
+    character: {fileID: 5001702532148665101, guid: 0dcacb4952e011444be9ca02652e0284, type: 3}
+    sp1Charka: 20
+    sp2Charka: 50
+    relatedComponent:
+    - {fileID: 4550591987181237976, guid: 684ea7ede6713ca46bd8a42aabb15c8c, type: 3}

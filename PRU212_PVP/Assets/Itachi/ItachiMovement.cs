@@ -2,33 +2,28 @@ using UnityEngine;
 
 public class ItachiMovement : CharacterController
 {
-
-    //public Transform dartPoint;
-    //public Transform attackPoint;
-    //public float punchRange = 0.3f;
-    //public float kickRange = 0.5f;
-    // public GameObject[] darts;
-
-    public GameObject[] special1s;
-    public GameObject[] special2s;
+    public GameObject special1s;
+    public GameObject special2s;
     public Transform special1Point;
     public Transform special2Point;
 
 
-     void Start()
+    void Start()
     {
         AddSpecialSkill1();
         AddSpecialSkill2();
     }
-    
+
 
     public override void SpecialAttack1()
     {
         if (CanSpecial1())
         {
+            UseChakra(sp1Charka);
             GetComponent<Animator>().SetTrigger("special1");
-            special1s[FindSpecial1()].transform.position = special1Point.position;
-            special1s[FindSpecial1()].GetComponent<Special1>().SetDirection(Mathf.Sign(transform.localScale.x));
+            special1s.transform.position = special1Point.position;
+            special1s.GetComponent<ItachiS1Script>().SetOwner(this.tag);
+            special1s.GetComponent<ItachiS1Script>().SetDirection(Mathf.Sign(transform.localScale.x));
             StartSpecial1Cooldown();
         }
     }
@@ -37,20 +32,32 @@ public class ItachiMovement : CharacterController
     {
         if (CanSpecial2())
         {
-            special2s[FindSpecial2()].transform.position = special2Point.position;
-            special2s[FindSpecial2()].GetComponent<Special2>().SetDirection(Mathf.Sign(transform.localScale.x));
-            StartSpecial2Cooldown();
+            UseChakra(sp2Charka);
+            setWaitState(true);
+            Invoke(nameof(CallSpecial2), 0f);
         }
     }
 
-    private int FindSpecial1()
+    private void CallSpecial2()
     {
-        for (int i = 0; i < special1s.Length; i++)
+        if (special2s != null)
         {
-            if (!special1s[i].gameObject.activeInHierarchy)
-                return i;
+            special2s.SetActive(true);
+            special2s.GetComponent<ItachiS2Script>().SetOwner(this.tag);
+            special2s.GetComponent<ItachiS2Script>().SetDamage(atk);
+            Invoke(nameof(Special2Att), 1f);
         }
-        return 0;
+    }
+    private void Special2Att()
+    {
+
+        special2s.GetComponent<ItachiS2Script>().ActivateSpecial2(Mathf.Sign(transform.localScale.x));
+        setWaitState(false);
+        Invoke(nameof(Disable), 1.5f);
+    }
+    private void Disable()
+    {
+        special2s.gameObject.SetActive(false);
     }
 
     private int FindSpecial2()
@@ -64,43 +71,35 @@ public class ItachiMovement : CharacterController
     }
     public void AddSpecialSkill1()
     {
-        // Find the DartHolder object
-        GameObject sp1holder = GameObject.Find("ItachiS1(Clone)");
+        string Special1Name = (this.tag == "Player1") ? "ItachiS1_P1" : "ItachiS1_P2";
+
+        GameObject sp1holder = GameObject.Find(Special1Name);
 
         if (sp1holder != null)
         {
-            Debug.LogError("spq1");
-            special1s = new GameObject[sp1holder.transform.childCount];
-            for (int i = 0; i < sp1holder.transform.childCount; i++)
-            {
-                special1s[i] = sp1holder.transform.GetChild(i).gameObject;
-            }
+            special1s = sp1holder;
+            sp1holder.SetActive(false);
         }
         else
         {
-            Debug.LogError("DartHolder not found! Make sure it's in the scene.");
+            Debug.LogError("S1 not found! Make sure it's in the scene.");
         }
     }
 
     public void AddSpecialSkill2()
     {
-        // Find the DartHolder object
-        GameObject sp2holder = GameObject.Find("ItachiS2(Clone)");
+        string Special2Name = (this.tag == "Player1") ? "ItachiS2_P1" : "ItachiS2_P2";
+
+        GameObject sp2holder = GameObject.Find(Special2Name);
 
         if (sp2holder != null)
         {
-            Debug.LogError("sp2ww");
-            special2s = new GameObject[sp2holder.transform.childCount];
-            for (int i = 0; i < sp2holder.transform.childCount; i++)
-            {
-                special2s[i] = sp2holder.transform.GetChild(i).gameObject;
-            }
+            special2s = sp2holder;
+            sp2holder.SetActive(false);
         }
         else
         {
-            Debug.LogError("DartHolder not found! Make sure it's in the scene.");
+            Debug.LogError("S2 not found! Make sure it's in the scene.");
         }
     }
-
-    
 }

@@ -24,13 +24,13 @@ public abstract class CharacterController : MonoBehaviour
     private HealthBar healthBar;
     private ChakraBar chakraBar;
 
-    public float dartCooldownDuration = 0.5f; // Duration of cooldown in seconds
+    public float dartCooldownDuration = 1f; // Duration of cooldown in seconds
     private float dartCooldownTimer = 0.0f;
 
-    public float punchCooldownDuration = 0.3f; // Cooldown for punch attack
+    public float punchCooldownDuration = 1f; // Cooldown for punch attack
     private float punchCooldownTimer = 0.0f;
 
-    public float kickCooldownDuration = 0.3f; // Cooldown for kick attack
+    public float kickCooldownDuration = 1f; // Cooldown for kick attack
     private float kickCooldownTimer = 0.0f;
 
     public float special1CooldownDuration = 2; // Duration of cooldown in seconds
@@ -51,8 +51,8 @@ public abstract class CharacterController : MonoBehaviour
 
     public Transform dartPoint;
     public Transform attackPoint;
-    public float punchRange = 0.3f;
-    public float kickRange = 0.5f;
+    public float punchRange = 0.2f;
+    public float kickRange = 0.2f;
     public GameObject[] darts;
     private bool isStunned = false; // Add this flag
 
@@ -83,6 +83,7 @@ public abstract class CharacterController : MonoBehaviour
         if (animator != null)
         {
             animator.ResetTrigger("die");
+            animator.ResetTrigger("hurt");
             animator.Play("Idle");
         }
 
@@ -415,7 +416,9 @@ public abstract class CharacterController : MonoBehaviour
 
             if (hit != null)
             {
+                
                 CharacterController target = hit.GetComponent<CharacterController>();
+                Debug.Log(target.tag);
                 gainChakra(5);
                 if (target != null && target != this && !target.animator.GetBool("block"))
                 {
@@ -439,6 +442,7 @@ public abstract class CharacterController : MonoBehaviour
             if (hit != null)
             {
                 CharacterController target = hit.GetComponent<CharacterController>();
+                Debug.Log(target.tag);
                 gainChakra(5);
                 if (target != null && target != this && !target.animator.GetBool("block"))
                 {

@@ -63,8 +63,8 @@ public class Kakashi : CharacterController
 
     public void AddSpecial1()
     {
-        // Find the DartHolder object
-        GameObject special1Holder = GameObject.Find("Special1(Clone)") ? GameObject.Find("Special1(Clone)") : GameObject.Find("Special1");
+        string Special1Name = (this.tag == "Player1") ? "Special1_P1" : "Special1_P2";
+        GameObject special1Holder = GameObject.Find(Special1Name) ;
 
         if (special1Holder != null)
         {
@@ -80,9 +80,10 @@ public class Kakashi : CharacterController
 
     public void AddSpecial2()
     {
+        string Special2Name = (this.tag == "Player1") ? "Special2_P1" : "Special2_P2";
+        GameObject special2Holder = GameObject.Find(Special2Name);
 
-        GameObject[] allObjects = Resources.FindObjectsOfTypeAll<GameObject>();
-        foreach (GameObject obj in allObjects)
+        if (special2Holder != null)
         {
             if (obj.name == "Special2(Clone)")
             {

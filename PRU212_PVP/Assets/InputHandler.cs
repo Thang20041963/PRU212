@@ -29,9 +29,10 @@ public class InputHandler : MonoBehaviour
     private void Start()
     {
         int randomMode = PlayerPrefs.GetInt("isRandomMode", 0);
+        Debug.Log("random" + randomMode);
         if (randomMode == 1)
         {
-            InvokeRepeating(nameof(ShuffleMoveSets), 30f, 30f);
+            InvokeRepeating("ShuffleMoveSets", 0f, 30f);
         }
         }
 

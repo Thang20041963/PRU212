@@ -22,6 +22,21 @@ public class GameManager : MonoBehaviour
     [SerializeField] private ChakraBar chakraBarP2;
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private GameObject backGround;
+    [SerializeField] private TMP_Text  winnerAnnoucement;
+    
+    [SerializeField] private GameObject winnerRoundPanel;
+    [SerializeField] private TMP_Text roundAnnouncementText;
+    [SerializeField] private Button continueButton;
+    [SerializeField] private Button homeButton;
+    private int nor; // number of rounds
+    private int healthsetting;
+    private int currentRound = 1;
+    private string roundAnnoucment = "";
+    private int p1score = 0;
+    private int p2score = 0;
+
+    private Vector3 player1StartPosition;
+    private Vector3 player2StartPosition;
     private void Awake()
     {
         if (Instance == null)
@@ -54,13 +69,14 @@ public class GameManager : MonoBehaviour
         {
             GameObject p1Instance = Instantiate(player1Character.character, Vector3.left * 2, Quaternion.identity);
             player1 = p1Instance.GetComponent<CharacterController>();
-
+            player1StartPosition = p1Instance.transform.position;
             // Thêm relatedComponent vào Scene Hierarchy
             if (player1Character.relatedComponent != null)
             {
                 foreach (GameObject component in player1Character.relatedComponent)
                 {
-                    Instantiate(component, Vector3.zero, Quaternion.identity);
+                    GameObject relatedObj = Instantiate(component, Vector3.zero, Quaternion.identity);
+                    relatedObj.name = component.name.Replace("(Clone)", "") + "_P1";
                 }
             }
         }
@@ -74,13 +90,14 @@ public class GameManager : MonoBehaviour
             GameObject p2Instance = Instantiate(player2Character.character, Vector3.right * 2, Quaternion.identity);
             player2 = p2Instance.GetComponent<CharacterController>();
             p2Instance.transform.localScale = new Vector3(p2Instance.transform.localScale.x * (-1), p2Instance.transform.localScale.y, p2Instance.transform.localScale.z);
-
+            player2StartPosition = p2Instance.transform.position;
             // Thêm relatedComponent vào Scene Hierarchy
             if (player2Character.relatedComponent != null)
             {
                 foreach (GameObject component in player2Character.relatedComponent)
                 {
-                    Instantiate(component, Vector3.zero, Quaternion.identity);
+                    GameObject relatedObj = Instantiate(component, Vector3.zero, Quaternion.identity);
+                    relatedObj.name = component.name.Replace("(Clone)", "") + "_P2";
                 }
             }
         }
@@ -137,9 +154,65 @@ public class GameManager : MonoBehaviour
         {
             Debug.Log("Player 2 has been defeated! Player 1 wins!");
         }
-
-        EndGame();
+        currentRound++;
+       
+        if (currentRound > nor || p1score >= ((nor/2) + 1) || p2score >= ((nor / 2) + 1))
+        {
+            Invoke("EndGame", 2f);
+         
+        }
+        else
+        {
+            Invoke("RestartRound", 2f); // Delay before restarting
+        }
     }
+    private void RestartRound()
+    {
+        
+        isGameOver = false;
+        player1.enabled = false;
+        player2.enabled = false;
+        // Hiển thị panel thông báo
+        winnerRoundPanel.SetActive(true);
+        roundAnnouncementText.text = roundAnnoucment;
+
+        // Dừng game lại
+        Time.timeScale = 0f;
+
+        // Gán sự kiện cho các nút
+        continueButton.onClick.RemoveAllListeners();
+        continueButton.onClick.AddListener(ContinueGame);
+
+        homeButton.onClick.RemoveAllListeners();
+        homeButton.onClick.AddListener(GoToHome);
+    }
+
+    private void ContinueGame()
+    {
+        // Ẩn thông báo
+        winnerRoundPanel.SetActive(false);
+        player1.enabled = true;
+        player2.enabled = true;
+        // Reset lại nhân vật và thanh máu/chakra
+        player1.ResetCharacter();
+        player2.ResetCharacter();
+
+        player1.transform.position = player1StartPosition;
+        player2.transform.position = player2StartPosition;
+
+        // Ẩn bảng Game Over nếu đang hiển thị
+        gameOverPanel.SetActive(false);
+
+        // Tiếp tục game
+        Time.timeScale = 1f;
+    }
+
+    private void GoToHome()
+    {
+        // Load lại menu chính (hoặc đổi Scene)
+        SceneManager.LoadScene("MainMenuScene");
+    }
+
 
     private void EndGame()
     {

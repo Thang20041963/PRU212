@@ -206,11 +206,13 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   groundCheck: {fileID: 5174098873819451270}
-  dartCooldownDuration: 0.5
-  punchCooldownDuration: 0.3
-  kickCooldownDuration: 0.3
-  special1CooldownDuration: 0.5
+  dartCooldownDuration: 1
+  punchCooldownDuration: 0.5
+  kickCooldownDuration: 0.5
+  special1CooldownDuration: 2
   special2CooldownDuration: 2
+  sp1Charka: 0
+  sp2Charka: 0
   inputHandler: {fileID: 255609114162480661}
   dartPoint: {fileID: 5643113233515353637}
   attackPoint: {fileID: 3784806966044143977}
@@ -228,16 +230,8 @@ MonoBehaviour:
   - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
   - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
   - {fileID: 5383601970804404473, guid: 0a03143b0fae7264d819597064c130ef, type: 3}
-  special1s:
-  - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
-  - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
-  - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
-  - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
-  - {fileID: 6390030596283439616, guid: 4f54d3e7d61b17d45b6e5c5fb5372182, type: 3}
-  special2s:
-  - {fileID: 4651508088356962996, guid: e413191690152ef40b319b91136c3742, type: 3}
-  - {fileID: 4651508088356962996, guid: e413191690152ef40b319b91136c3742, type: 3}
-  - {fileID: 4651508088356962996, guid: e413191690152ef40b319b91136c3742, type: 3}
+  special1s: {fileID: 0}
+  special2s: {fileID: 0}
   special1Point: {fileID: 2418387525852167791}
   special2Point: {fileID: 6913682804360481910}
 --- !u!95 &5642183881863022314
